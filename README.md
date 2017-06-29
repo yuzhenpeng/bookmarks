@@ -7,3 +7,7 @@
 
 + <https://bioinformatics.ca/workshops>
 
+## Learning resource
+
++ <http://r-statistics.co/>: statistical computing in R
+
