@@ -9,5 +9,7 @@
 
 ## Learning resource
 
++ <http://stephens999.github.io/fiveMinuteStats/>
+	- <https://github.com/stephens999/fiveMinuteStats>
 + <http://r-statistics.co/>: statistical computing in R
 
