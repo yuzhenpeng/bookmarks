@@ -13,3 +13,6 @@
 	- <https://github.com/stephens999/fiveMinuteStats>
 + <http://r-statistics.co/>: statistical computing in R
 
+## Phylogeny
+
++ <https://github.com/simjoly/CourseComparativeMethods>
