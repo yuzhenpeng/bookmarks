@@ -13,6 +13,10 @@
 	- <https://github.com/stephens999/fiveMinuteStats>
 + <http://r-statistics.co/>: statistical computing in R
 
+## Machine Learning
+
++ <https://github.com/aldro61/microbiome-summer-school-2017>
+
 ## Phylogeny
 
 + <https://github.com/simjoly/CourseComparativeMethods>
