@@ -1,4 +1,4 @@
-> 更新于2017-09-04
+> 更新于2017-09-13
 
 
 ## 神器系列
@@ -37,6 +37,7 @@
 
 ## 公众号
 
++ [为什么要开这个公众号](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483727&idx=1&sn=344d21b88584a565b95c40337126394b&chksm=ec43b008db34391ede9bb2ccdd9bf73fed04e347f6e60714191a6970500f9a67f472c04a4bbb#rd)
 + [关于《关于转载》](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484730&amp;idx=2&amp;sn=13237bae6aa67e386c26fa46e3918133&amp;chksm=ec43b47ddb343d6b3c71cb70a7a883d640ed27a36dbf666e9f7e26e4adef52ed2707bf19ded7#rd)
 + [微信公众文 -- markdown一键排版](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247483953&amp;idx=1&amp;sn=b6616347a9d3277915b45add32499adf&amp;chksm=ec43b376db343a60a184ff6174ae6bcc95d73903a7292d7d112a66dba967e4f21722ca49db64#rd)
 + [公号狗的福音](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484177&amp;idx=1&amp;sn=04027cb4ab8cefb5e0ae9fbf93e0359b&amp;chksm=ec43b256db343b40454a30594d38ad3a2694d2f50df7ae7253c98b13313ff2f03e3b32997eae#rd)
@@ -70,6 +71,8 @@
 + [dotplot for GSEA](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483862&idx=1&sn=e20bdba8d80bbe858a3847b505e1cec8&chksm=ec43b091db343987592ab8babd51ac221eb65d09a564fc633404a2b30f9250dd1ccb8736f29e#rd)
 + [enrichment map](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484771&amp;idx=1&amp;sn=2662ea43a3c16a99a307793f1cbd34d6&amp;chksm=ec43b424db343d3226ee46a9b084fe0651cfc0bdd90e8ff9f8f1c109d9b1db02ee32c10af95e#rd)
 + [joyplot：GSEA的结果也能快乐起来](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484750&amp;idx=1&amp;sn=19aa83580ad91e18d3fe23cc42675628&amp;chksm=ec43b409db343d1f189bf1d1e6499ac8bd034ce52e90454d7e2b568b6901b5d2f5bdf31fa887#rd)
++ [gseaplot自定义颜色](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484803&idx=1&sn=f0d6b33bf57f5d5d455da6284b4cee49&chksm=ec43b4c4db343dd292261916f5647146e5aa197c28fbd29dacc35e612d9a936589f73c68982a#rd)
+
 
 ## ChIPseeker
 
@@ -86,11 +89,14 @@
 + [ggplot2作图5招：《R入门25个菜谱》中所有图片的ggplot2版本](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484533&amp;idx=1&amp;sn=9edbcc86516ef2e4bda9a907f8ce6709&amp;chksm=ec43b532db343c2435ff8d27ba39c1f82b93369a54d2ff320fcea290064573f290cb4eb0db43#rd)
 + [ggplot2字体溢出的那点破事](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484089&idx=1&sn=f6e11d54a18e96a94145a2b802c37dc1&chksm=ec43b3fedb343ae89e3630900033f055af4bbe211897076291e351ae18cc89b2ddf7651ee0be#rd)
 + [wrapping labels in ggplot2](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483972&idx=1&sn=fa1f4b6299f94eeb52baf5bda6a5ff6b&chksm=ec43b303db343a150806b3b1ab22a1df1c90405235bb399b155f7c50de2a0a23faf2f4ad0beb#rd)
++ [一次解决ggplot2所有字体](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484795&idx=1&sn=d2704a9e573e55dc8f6e9170358fb58d&chksm=ec43b43cdb343d2a817a21ee67104de0279052935a9e62c52c3f5d05aca9d30a55cd021de9dd#rd)
 + [根据GTF画基因的多个转录本结构](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483986&idx=1&sn=43214f77337bc660a733bbc80ab1124b&chksm=ec43b315db343a03cd51ee6cb96e1646975d08e9ea7a980bed236472b77bc6166e601a977dab#rd)
 + [如何画类似MEME的注释序列](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483899&idx=1&sn=8183bf53f5e8fc8e5a5dd9c93da5a95f&chksm=ec43b0bcdb3439aa302d2a07358743ab59a4a0ec0540c2d009fa4b6064ba5fb174f119738ca3#rd)
 + [joyplot：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484586&idx=1&sn=2c4aaca92147d901fb5421cdb99d16de&chksm=ec43b5eddb343cfb34c907ddfdba74e129ee7ef896219a888a56b36738a0f6062bb2cf0ab99f#rd)
 + [邪恶的曲线](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247483816&amp;idx=1&amp;sn=cbfbc284f4edb165ac65f7926f7f8fcc&amp;chksm=ec43b0efdb3439f91ec4f570f7be65e442e21e403481b969d69449464ae1986c7983551de04d#rd)
 + [draw batman logo](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247483836&amp;idx=1&amp;sn=4200a8e2724cd1188e2d7abcc4f004e2&amp;chksm=ec43b0fbdb3439ed140702c043933c14015fdcb6da5b50ec509c9afb772e5740d6ccb1e15b2a#rd)
+
+
 
 ## ggimage
 
@@ -143,6 +149,10 @@
 + [facet_plot：加图层到特定分面，方法二](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484178&amp;idx=1&amp;sn=16d1ec1c645585869f8b3fc1488ab11f&amp;chksm=ec43b255db343b435e6c9633308897bdbb631b560ee7865bc246479eeb549b70f894be2ce619#rd)
 + [facet_plot: 关联数据和进化树的通用方法](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484780&amp;idx=1&amp;sn=258a20ee34a12705ff31a92923253200&amp;chksm=ec43b42bdb343d3d8ae687e0b296a1d8cdf322313a403df190376be40eb5469c4c5246c81b48#rd)
 + [漫画版的进化树你见过吗？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484753&amp;idx=1&amp;sn=bdbe66d9bb2961818133357e4530cc02&amp;chksm=ec43b416db343d000e72d02083467a051a42dddb2d15a87a8ae8852249b32592676f75e42c64#rd)
++ [Phylogenetic trees in R using ggtree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484224&idx=1&sn=ebf4e7f434bf78feade8403d82a6554a&chksm=ec43b207db343b11a9dc7d02e8fbf595aec5905a89798b321ac878839552d7fbb94500d2ab08#rd)
++ [Growing a ggtree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484476&idx=1&sn=f17ea26f2f1a7887dd471b0368ddad87&chksm=ec43b57bdb343c6d0f72dddc191b22728e36294d0eb1c1ddfc173e40babc83ef73337a9a66c3#rd)
++ [Growing a ggtree - part 2, adding tip shapes](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484589&idx=1&sn=482ce7e6621271dd73a3025854e0f74c&chksm=ec43b5eadb343cfc9e3f8ecc9d1dd3393c57ed0a590e741c4e212419a73f69d06045c6ff2b4b#rd)
+
 
 
 
@@ -173,19 +183,19 @@
 ## R
 
 + [食色性也](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483955&idx=1&sn=0b753422e337e8dd63056d62af9b9e80&chksm=ec43b374db343a62b102a22bc1ebc288c5c4c0ac27db4228bd5214b54b59fa20a948348cebdd)
++ [prettyB: 美化B](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483738&idx=1&sn=69b10b0c5503f95d6bba15d0c0b64f1f&chksm=ec43b01ddb34390b5b4cb1e05358499cfbbe246a487def2904c6872b8fa275bee1cf43c96420#rd)
 + [R包辣鸡之CorMut](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483948&idx=1&sn=e57e385ada66c991a5c3cf6eb48f7169&chksm=ec43b36bdb343a7dbd39574bb6b02cf8057a4d068399630e77e0580113a2807bb8c34edafbf0)
 + [来自R的桌面提醒](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484109&idx=1&sn=9988b955cb4a995dfcfbe31f31d929da&chksm=ec43b38adb343a9cc2ce4ab9fabf3e6ff1db82f6627c91a1035ef94279c6d51e72ffea247f1a)
 + [有魔性的图来一发](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484673&amp;idx=1&amp;sn=bd8bff907b288c0b2c39b65d157c656a&amp;chksm=ec43b446db343d5033d47019ad9da2c89aaaeb2037bdb78bf148e2fb084d9d61c1690370a961#rd)
 + [听说你想学R？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484641&idx=1&sn=3ff11eef4cf48ebc6c2d1b06be950834&chksm=ec43b5a6db343cb04355c149b52bbd9bcb11b7983e48ddb5d40b85081003937d5e582b0f69b5)
 + [我在MSnbase里做了什么？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484054&idx=2&sn=9a42f1094349a0bd09a5e0b7c44595e0&chksm=ec43b3d1db343ac7e11d92eda3eb1837aab46f79bb109e6cdbba466e4693d041a87fa698ef1b)
 + [clifun: 在R里装装逼](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483868&idx=1&sn=412e13481ad636032125a035bf2216b0&chksm=ec43b09bdb34398d060b1898d286b84975e578c1230da0ce2782d56278a6ce0ee95c0965ac5d)
-+ [一大波贴纸来袭](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484504&idx=1&sn=9ce4f3f59d41a27ec3f14c6e77f29a75&chksm=ec43b51fdb343c097ebdaf29ca1eef27c4ea2405555ea2a685f2815c212e93afa337886e1a23)
 + [Update R packages](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484173&idx=1&sn=ad1817e4acd1362428b3beaa1cd4fede&chksm=ec43b24adb343b5cad6c7ff528182e9c95f0f292044399e127d7495c77bbe2e1cbccb095179c)
 + [无中生有windows版R包](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484018&amp;idx=2&amp;sn=ac3dcf63c63e1589d8cf146ea4e8e1b1&amp;chksm=ec43b335db343a23f5711410c91efd7705f93b13ae2a14b2ce5c458924d2549d5cceb461ef16#rd)
 + [R binary is untrustable](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484223&amp;idx=1&amp;sn=432c339a00af75b0defb2b2d5e4a9e5d&amp;chksm=ec43b278db343b6e83b15556fd27d094667952a86247df6a44ec869f619adb9fb84acb582fcd#rd)
 + [R kernel in Jupyter notebook 3](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484445&amp;idx=1&amp;sn=1b2f5cbfd724764259dc3008f052498c&amp;chksm=ec43b55adb343c4c9968d486a8a7b69ce20021f4a2562f1ec3bd25fde6c03d8bd2aa27d32963#rd)
 + [你所不知道的，R的N种打开方式](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484507&amp;idx=1&amp;sn=295454a59613bfd977f407958bec787e&amp;chksm=ec43b51cdb343c0acea87661fe5144a5817503a2fdc8f316d56fd28d33291084bc718330c428#rd)
-
++ [R，python喊你回家吃饭啦](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484815&idx=1&sn=b5932562d80cd8a4b83e18e1f5ad28ee&chksm=ec43b4c8db343ddeee6a13db4f0b46f5bd17c64c65dacca0662ef784dc357e0392f8d762f4db#rd)
 
 ## 统计
 
@@ -204,8 +214,23 @@
 + [纯文本可视化FASTQ质量数据](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484439&amp;idx=1&amp;sn=1fecf6d875a0fc6db8ac865cc5d97a41&amp;chksm=ec43b550db343c4659632029783a8031bec3bf85ca54bd72bf3afab712837e69eb6f063c18fc#rd)
 + [a simple gene finder](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484690&amp;idx=1&amp;sn=02c3124a08b319622a396cedd34a28ac&amp;chksm=ec43b455db343d43236ccf633df046cd2ffac4e0ad11d270a440abf77b7520c259800c90b58e#rd)
 + [搭建本地blast](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484770&amp;idx=1&amp;sn=16ad58f0c931a732b9f99d20547f1a20&amp;chksm=ec43b425db343d336972acbf199e2ebbb8bc0ee1335679cb0d67f1b73555ad7d0964bfd8fe44#rd)
++ [blast一大坑：无法输出query sequence title](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483692&idx=1&sn=d5ed2b6d6e3b09751805623c381f7777&chksm=ec43b06bdb34397d46db142a5446abd5e0de39f9b510b88ab02579e82e095d9202549d80d64c#rd)
 
 
+## C++
+
++ [Using Linked List to solve Josephus problem](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483765&idx=1&sn=5fef7daab5256e5b87709b2a360dc51a&chksm=ec43b032db343924df5aef1b8d5c85e6d026d0dbc0c0ca902b0e846c63e34f7e7cc31407a99f#rd)
++ [Lucky Tickets](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483797&idx=1&sn=b788f9c0ccfbef31fc58b8a36471eb88&chksm=ec43b0d2db3439c489e4e033a4e356095beafa1f79604cd8de0ff1e51e5e5c17c88cdcc97264#rd)
++ [中值法求函数值](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483798&idx=1&sn=e20b7b07245f5b8274430462c63936b9&chksm=ec43b0d1db3439c7470f6c2ed1e84d0a0fcf26957ecbb2a57dc7529629295637f3a3c8561113#rd)
++ [金银岛的航线](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483800&idx=1&sn=f06aa778f700803c5c46ba5c6a669973&chksm=ec43b0dfdb3439c978ca1c50ed87a77b1c054569856856d3a956358c1ac6b85fea45f8ce6ad5#rd)
++ [利用多边形估计Pi值](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483804&idx=1&sn=73243c30f1b108756d1f5e9934681e03&chksm=ec43b0dbdb3439cdf8b3bc3fa6a220e7505e02e6474780f138d0c5df6b8d2666fb50e996509f#rd)
++ [斐波那契数列](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483814&idx=1&sn=7ee9538b53b391e16cd83546d9b22f5f&chksm=ec43b0e1db3439f7046eee545fd267d931efa7f6346991427bda5da521163acdd60f712b5e90#rd)
+
+## hexSticker
+
++ [ggtree hex sticker](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483702&idx=2&sn=fd74195d703daa585613e9d810c59cf7&chksm=ec43b071db343967b419e06da174d957818f9d064acc26a7aebabff4c218ca803179bde6969b#rd)
++ [ggtree hexbin sticker投票结果](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483702&idx=1&sn=62d7c350e2f4eab6610d6c30aca2329b&chksm=ec43b071db343967acbfd6ceaf1bbac772719a6ac4941e1ff8b1840303ec188192a1f1751ac1#rd)
++ [一大波贴纸来袭](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484504&idx=1&sn=9ce4f3f59d41a27ec3f14c6e77f29a75&chksm=ec43b51fdb343c097ebdaf29ca1eef27c4ea2405555ea2a685f2815c212e93afa337886e1a23)
 
 ## MISC
 
@@ -216,7 +241,7 @@
 + [来香港读博其实是被逼的](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484727&amp;idx=2&amp;sn=f165daa97e961a7c648078e0ca67858d&amp;chksm=ec43b470db343d66b2f0fd6dd477f99e86d3e9d846e23d4524dea531bce13cd660b856fc63d2#rd)
 + [博士养成记](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484727&amp;idx=1&amp;sn=a70494626e7c329addea51ac6b82c578&amp;chksm=ec43b470db343d6661ba2498e5b03d300f281cb24c82dff0b53fac62b55831ab6207e9a0c20e#rd)
 + [IBW2011](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484690&amp;idx=2&amp;sn=b09ad35daa300f2682bb3e99514340fe&amp;chksm=ec43b455db343d430ee860d8d4da83e9892cdbcf49928f05a8b34d9e1bfaebf98999cb4bccfb#rd)
-
-
++ [scau校园网认证](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484782&idx=1&sn=28905e301028cda8d1b1536ca0e7c149&chksm=ec43b429db343d3fac1cf1d936600f9d4347c66e5196ce0124e18b141d69f391c5b8c8619973#rd)
++ [博士版2048](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483737&idx=1&sn=326b2992f2f1e23c868ace4b982315a0&chksm=ec43b01edb343908ff3ba1a6cd074db96296c718688e89d4a706d0adca7dcf32d94b6a1b5051#rd)
 
 
