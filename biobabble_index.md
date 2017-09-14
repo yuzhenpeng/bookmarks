@@ -78,6 +78,7 @@
 
 + [CS0: ChIPseq从入门到放弃](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483886&idx=1&sn=cb76891dff5787025f6b99cdcc723d86&chksm=ec43b0a9db3439bfcec1c9ac3c0d00e6190cf4d3d02d9d3dc767007e0ff68b4fbd8064bb0f77#rd)
 + [CS1: ChIPseq简介](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483980&idx=1&sn=4106c9341d0a048a9fb8042c7ac328d5&chksm=ec43b30bdb343a1ddc6ed772ed25e82362595a11d82f2fb20f85106722bca381ba328ea4bb60#rd)
++ [CS2: BED文件](https://mp.weixin.qq.com/s/D06NEG7blksGugb0srL7KQ) 
 + [CS3: peak注释](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484023&idx=1&sn=affbe46869290ffc4f2be2c73209bdad&chksm=ec43b330db343a262602f57156578195011ae6ef3d61ad928d60ef919811678bf605b5048a64#rd)
 + [CS4：关于ChIPseq注释的几个问题](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484084&idx=1&sn=b3fb1b88a9f73e26278688dfbce60679&chksm=ec43b3f3db343ae5ea5a657b22bd0ed427c928f75c45484badaf6a6714777d8239cb0b1997b5#rd)
 + [CS5: 吃着火锅，唱着歌，还把分析给做了](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484728&amp;idx=1&amp;sn=68894d1621c317499fdfd8d313402c73&amp;chksm=ec43b47fdb343d69250c4027b7ad668cfd2963a4a842a41e17d481d2ac7a660bdea02605698d#rd)
