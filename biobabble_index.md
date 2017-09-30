@@ -1,4 +1,4 @@
-> 更新于2017-09-27
+> 更新于2017-09-30
 
 + **Y叔R包系列**
 	- [ChIPseeker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#chipseeker)
@@ -12,6 +12,7 @@
 	- [scatterpie](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#scatterpie)
 	- [seqcombo](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#seqcombo)
 	- [treeio](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#treeio)
+	- [yyplot](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#yyplot)
 + [R](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#r)
 + [ggplot2](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggplot2)
 + [ggfacet](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggfacet)
@@ -43,6 +44,7 @@
 + [非模式基因GO富集分析：以玉米为例+使用OrgDb](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484642&idx=1&sn=076e70b03bf040a11ef7e10954eef7f4&chksm=ec43b5a5db343cb39664852966f770d826b68e3a423e6f4ccc2a7e74382b44c4659a7ebebb26#rd)
 + [dotplot展示富集分析结果](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484645&idx=1&sn=23fc6453ae600126f7d3a74409a1ed05&chksm=ec43b5a2db343cb4883f234bec1c67feed8199fd9e27702a2950cc50268591d58f00fa8008bf#rd)
 + [为什么画出来的点比指定的数目要多？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484671&amp;idx=2&amp;sn=3b232111d07fbfaea82c8f05a73c1f93&amp;chksm=ec43b5b8db343caef250ea449481d9f8d99ec66e3d39e76c21a67ebba6a66acd9f68ded86669#rd)
++ [ko数据库ID转换](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484828&amp;idx=1&amp;sn=2d9271c7613811c99419e44a239bde38&amp;chksm=ec43b4dbdb343dcd92a9389a16931143ab7d056c80329f4c8ced7d4536e90e1f22468bba6f05#rd)
 + [DAVID分析结果转为enrichResult](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484096&amp;idx=2&amp;sn=48c4fd6a609993c04a85b2223901f3fa&amp;chksm=ec43b387db343a911a19fd421dc0e2a87391effd48a54769f90aa8f804e9c8c675afec20d700#rd)
 + [DAVID functional analysis with clusterProfiler](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484446&amp;idx=1&amp;sn=a43cac9844c5f4d7792bafd6b87fd80e&amp;chksm=ec43b559db343c4f4c417b69a7c15e581dd8b0e8a96297bf97a8d50576207d0fdfb828bb4b89#rd)
 + [enrichDAVID支持自定义背景](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484447&amp;idx=1&amp;sn=e81c5fd381a01388db7f003f1e892e1a&amp;chksm=ec43b558db343c4e5de7d9b6c4e1a9fa3cdc84b15d148f73e055447af52e430587180348d632#rd)
@@ -130,6 +132,11 @@
 + [树变图，图变树？](http://mp.weixin.qq.com/s/Uhx3l3lKQS88OJ4SHntkNg)
 + [treeio: 进化树基础类和方法](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247483835&amp;idx=1&amp;sn=58d8461b8e8dc4bd5ce0afee4cc55158&amp;chksm=ec43b0fcdb3439ea768de8d326008f46f828b4fe277a8a44289e7cf5d01ff398009cdf68589b#rd)
 
+## yyplot
+
++ [Y叔的新玩意--yyplot](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484505&idx=3&sn=6d71f2ac1d274e4217acdd0e5df6053b&chksm=ec43b51edb343c081069f68174c981735769709d1710d3f771e978dccb0287f4f0000265175a#rd)
++ [一次解决ggplot2所有字体](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484795&idx=1&sn=d2704a9e573e55dc8f6e9170358fb58d&chksm=ec43b43cdb343d2a817a21ee67104de0279052935a9e62c52c3f5d05aca9d30a55cd021de9dd#rd)
+
 ## R
 
 + [食色性也](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483955&idx=1&sn=0b753422e337e8dd63056d62af9b9e80&chksm=ec43b374db343a62b102a22bc1ebc288c5c4c0ac27db4228bd5214b54b59fa20a948348cebdd)
@@ -155,7 +162,6 @@
 + [ggplot2作图5招：《R入门25个菜谱》中所有图片的ggplot2版本](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484533&amp;idx=1&amp;sn=9edbcc86516ef2e4bda9a907f8ce6709&amp;chksm=ec43b532db343c2435ff8d27ba39c1f82b93369a54d2ff320fcea290064573f290cb4eb0db43#rd)
 + [ggplot2字体溢出的那点破事](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484089&idx=1&sn=f6e11d54a18e96a94145a2b802c37dc1&chksm=ec43b3fedb343ae89e3630900033f055af4bbe211897076291e351ae18cc89b2ddf7651ee0be#rd)
 + [wrapping labels in ggplot2](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483972&idx=1&sn=fa1f4b6299f94eeb52baf5bda6a5ff6b&chksm=ec43b303db343a150806b3b1ab22a1df1c90405235bb399b155f7c50de2a0a23faf2f4ad0beb#rd)
-+ [一次解决ggplot2所有字体](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484795&idx=1&sn=d2704a9e573e55dc8f6e9170358fb58d&chksm=ec43b43cdb343d2a817a21ee67104de0279052935a9e62c52c3f5d05aca9d30a55cd021de9dd#rd)
 + [根据GTF画基因的多个转录本结构](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483986&idx=1&sn=43214f77337bc660a733bbc80ab1124b&chksm=ec43b315db343a03cd51ee6cb96e1646975d08e9ea7a980bed236472b77bc6166e601a977dab#rd)
 + [如何画类似MEME的注释序列](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483899&idx=1&sn=8183bf53f5e8fc8e5a5dd9c93da5a95f&chksm=ec43b0bcdb3439aa302d2a07358743ab59a4a0ec0540c2d009fa4b6064ba5fb174f119738ca3#rd)
 + [joyplot：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484586&idx=1&sn=2c4aaca92147d901fb5421cdb99d16de&chksm=ec43b5eddb343cfb34c907ddfdba74e129ee7ef896219a888a56b36738a0f6062bb2cf0ab99f#rd)
@@ -176,6 +182,7 @@
 + [什么是T检验](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247483943&amp;idx=1&amp;sn=0e23181d7736e70f848858bcbc0cfd1d&amp;chksm=ec43b360db343a76f0cac8204f3f71d77f2b08ef861c900c2e0ba9bea2b01930da0f35bf99c4#rd)
 + [富集基因之注释缺失](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247483999&amp;idx=1&amp;sn=e5d7ff75e6f0b4c8e596710129b070b4&amp;chksm=ec43b318db343a0e826cf3f94bd45ec02bfbd9cdbf737711841cc517b44fbaa4e38a3a93caa8#rd)
 + [落入窠臼](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484001&amp;idx=1&amp;sn=1935b5282340e5c4f19414a7eeb9e0ee&amp;chksm=ec43b326db343a302dc03bf19108237ca20c760e319b641ad2b161be69a1963e24c3e08ffb64#rd)
++ [富集分析，俩人做的结果差5岁 | 你用的注释文件有多老？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484828&amp;idx=2&amp;sn=85d080f3800881866d1208471b13797b&amp;chksm=ec43b4dbdb343dcd0db34313d876abb366236889467dcfdf171ed6e7661fe645bff1d6bd2e81#rd)
 + [boxplot](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247483996&amp;idx=1&amp;sn=b230b29c33ef380e03cd41f92a7f40d6&amp;chksm=ec43b31bdb343a0d744ae9f6088dd9f51b17f36653e3f8104b038de8e78828ef274e8c5097fd#rd)
 + [如何告别单身](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484778&amp;idx=1&amp;sn=6c654f2c807ee802bb06491998d36830&amp;chksm=ec43b42ddb343d3b39c5f2a48b31e34bb5d419db8450778e9686ff38f64189082841a55546e2#rd)
 
@@ -208,7 +215,6 @@
 + [从业超过10年，未见过如此厚颜无耻之人](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484640&idx=1&sn=478f77b8f03eb9793bafc8f18e126097&chksm=ec43b5a7db343cb11fc9e0c232e0de0db7ec444abf5e8e3bd703f83a3cb31695f10359b47b8f#rd)
 + [活久见，抄袭竟是重用他人代码没有致谢？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484697&amp;idx=1&amp;sn=43132e24ee4385c05b1802068c834ade&amp;chksm=ec43b45edb343d48ff7f28451c250ee99901675cd084b77a112111af941049a3017208f0039d#rd)
 + [祝你们缠缠绵绵到天涯](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484702&amp;idx=1&amp;sn=4f6ff6caddb3cdec61e3925770c95a45&amp;chksm=ec43b459db343d4f1ae381b4cbae6815346311ebdac158fce8089c31bba4161f475ed5533a9b#rd)
-+ [科学网文章：BMC Systems Biology没有学术不端](http://mp.weixin.qq.com/s/1pWBT5Mp50e6xBAM8SaIWA)
 + [大学教授力挺抄袭，强行洗地到裤衩都不要了，到底图什么？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484733&amp;idx=1&amp;sn=b43739e02ef7e7892f196aa51a1c2e59&amp;chksm=ec43b47adb343d6c98b240a0dfed9abe1ab46e230535a44f2b47bf69cc7b45520f7c7fd38231#rd)
 + [关于重用代码与文章抄袭](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484741&amp;idx=1&amp;sn=057f733b79521917e6b56f4e62278f6f&amp;chksm=ec43b402db343d14196ab395ddc18f5d4eed435ff6f3b0d6d36bc139d9f1bb9affbb1a3ad43f#rd)
 
@@ -265,6 +271,7 @@
 + [auto-complete in ESS](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484448&amp;idx=1&amp;sn=17dba9b792656e2087f20c6c59d4b658&amp;chksm=ec43b567db343c7117fd6dfb64ae53d6f34f277ce31c32d83826f60e86bff9cc73294d0dbf6f#rd)
 + [科研人员必备特性：拖！拖！拖！](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484449&amp;idx=1&amp;sn=df5bf412c0d5e1c2436a9c68fba90605&amp;chksm=ec43b566db343c70dcfb0c40ddce54eb752e0f5ae6cf572643aba609f8b6301f30ffb2c2b400#rd)
 + [中国人民的翻墙情结](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484686&amp;idx=1&amp;sn=3e46694d76854e5b1e32138f5aa9ed77&amp;chksm=ec43b449db343d5f47c17ed60c86dfe75a90a61e044d913d23bc889e271e745c0929a9a1b81d#rd)
++ [中国人民的翻墙情结(搭梯版)](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484833&amp;idx=1&amp;sn=3b07224391c310ecfc2205b1154c7aaf&amp;chksm=ec43b4e6db343df01abe40cde268b7a4e1fd4a8c4357caa1dd617ce6909b1fbfa6c30a7a65d2#rd)
 + [来香港读博其实是被逼的](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484727&amp;idx=2&amp;sn=f165daa97e961a7c648078e0ca67858d&amp;chksm=ec43b470db343d66b2f0fd6dd477f99e86d3e9d846e23d4524dea531bce13cd660b856fc63d2#rd)
 + [博士养成记](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484727&amp;idx=1&amp;sn=a70494626e7c329addea51ac6b82c578&amp;chksm=ec43b470db343d6661ba2498e5b03d300f281cb24c82dff0b53fac62b55831ab6207e9a0c20e#rd)
 + [IBW2011](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484690&amp;idx=2&amp;sn=b09ad35daa300f2682bb3e99514340fe&amp;chksm=ec43b455db343d430ee860d8d4da83e9892cdbcf49928f05a8b34d9e1bfaebf98999cb4bccfb#rd)
