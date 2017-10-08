@@ -1,4 +1,4 @@
-> 更新于2017-09-30
+> 更新于2017-10-08
 
 + **Y叔R包系列**
 	- [ChIPseeker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#chipseeker)
@@ -17,6 +17,7 @@
 + [ggplot2](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggplot2)
 + [ggfacet](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggfacet)
 + [统计](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%BB%9F%E8%AE%A1)
++ [算法](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#算法)
 + [生物](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%94%9F%E7%89%A9)
 + [神器系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%A5%9E%E5%99%A8%E7%B3%BB%E5%88%97)
 + [抄袭系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E6%8A%84%E8%A2%AD%E7%B3%BB%E5%88%97)
@@ -34,6 +35,8 @@
 + [CS3: peak注释](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484023&idx=1&sn=affbe46869290ffc4f2be2c73209bdad&chksm=ec43b330db343a262602f57156578195011ae6ef3d61ad928d60ef919811678bf605b5048a64#rd)
 + [CS4：关于ChIPseq注释的几个问题](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484084&idx=1&sn=b3fb1b88a9f73e26278688dfbce60679&chksm=ec43b3f3db343ae5ea5a657b22bd0ed427c928f75c45484badaf6a6714777d8239cb0b1997b5#rd)
 + [CS5: 吃着火锅，唱着歌，还把分析给做了](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484728&amp;idx=1&amp;sn=68894d1621c317499fdfd8d313402c73&amp;chksm=ec43b47fdb343d69250c4027b7ad668cfd2963a4a842a41e17d481d2ac7a660bdea02605698d#rd)
++ [CS6: ChIPseeker的可视化方法（中秋节的视觉饕餮）](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484887&amp;idx=1&amp;sn=899efd5476443f9c358b0b81214588c5&amp;chksm=ec43b490db343d8634b20456a7d3b74066bed81a298fccb21f2d21676ebcdaf78618a1bf6c69#rd)
+
 
 ## clusterProfiler
 
@@ -81,6 +84,7 @@
 
 + [Ask me anything about ggtree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483962&idx=1&sn=7240c1fe0e09a142ef95ac594922b890&chksm=ec43b37ddb343a6bc7c2633597aba751b7f257846d26bc0060b7782ecd3ae20fece8085f0295)
 + [当年ggtree发布文，为整合数据而生！](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484487&amp;idx=1&amp;sn=23adde24b641243e56d36ce5db8decba&amp;chksm=ec43b500db343c1658b885ce39147379ba69f544e631a2f6a22340e3d97f3feae5d954f3ec2f#rd)
++ [Introduction to ggplot2 and to ggtree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484894&amp;idx=2&amp;sn=69d5c43787782ef57f6cd35f8878935e&amp;chksm=ec43b499db343d8f3f7613e424238adbdbef5dea73928e9db5394b327dc1938d68fae9ebdcbe#rd)
 + [ggtree无根树及注释](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484825&amp;idx=1&amp;sn=f99ff716b31911d7f65bbfcc9e9a36b8&amp;chksm=ec43b4dedb343dc8e99a7b978f742db5c64730dafc76264c3a31df5fbd6ef44ddfb8cd36270b#rd)
 + [ggtree版本的plotTree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483987&idx=1&sn=9c1f71d39be69536ea1930b6b4da6736&chksm=ec43b314db343a02ea15e3c0e8877d48ac48c2488b8854799388b1a25fb0527fe1076dd4de67#rd)
 + [align genomic features with phylogenetic tree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483954&idx=1&sn=9fac75fa938f1da1a96e013343113bbd&chksm=ec43b375db343a63e55b1828b9c0f3454b300ab2c66d8126d038563336b67446becac96ae4e4#rd)
@@ -91,6 +95,7 @@
 + [用户数据注释进化树](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484184&amp;idx=1&amp;sn=6a881d998ec16caf0ca9cc2385d602e6&amp;chksm=ec43b25fdb343b4962eaf57135dab8f60133524191194870a08947ee6c00492bc7f20d34e5c1#rd)
 + [使用自己的数据来给进化树上色](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484166&amp;idx=1&amp;sn=8c7f2d2d771d12903687dc69095e4da9&amp;chksm=ec43b241db343b5728c98c35136c9430739dde2383884c2f652aee37873a33fa1aa893190585#rd)
 + [bootstrap分段标记](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484186&amp;idx=1&amp;sn=d41ee81398a8c18d07e3b1ffe680d521&amp;chksm=ec43b25ddb343b4b87254521c6c134513a3b3535d28064d2bf71d37f9183948895056151c8d0#rd)
++ [ggtree中标记树分支？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484894&amp;idx=1&amp;sn=5c6b8acc94f44a4aec2040f01755c58d&amp;chksm=ec43b499db343d8f215ef97bd0b635409a13be2347e2c8402a9f860f5458ceffe299267b1855#rd)
 + [xlim_tree: set x axis limits for only Tree panel](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483855&idx=1&sn=d425adcb2bc1bc3f66c64485b8a6501d&chksm=ec43b088db34399e9981564df247f7c9c51274e78f0af882158b8d567b3f8d776f2313bf0985#rd)
 + [reverse time scale](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484166&amp;idx=2&amp;sn=9aa4e928854731aadaa2ec4af35a61b1&amp;chksm=ec43b241db343b57348439f3cbc80216b9bd58a21265ae41206c2203d158ab7e551a841b6f0c#rd)
 + [vertical dendrogram in ggtree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484166&amp;idx=3&amp;sn=944d674b976b1f3fa2f691cef322f52f&amp;chksm=ec43b241db343b57a147d75d95d339ab0c1e90eacefda729f0b9d80f352566e841841acb8488#rd)
@@ -167,7 +172,7 @@
 + [joyplot：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484586&idx=1&sn=2c4aaca92147d901fb5421cdb99d16de&chksm=ec43b5eddb343cfb34c907ddfdba74e129ee7ef896219a888a56b36738a0f6062bb2cf0ab99f#rd)
 + [邪恶的曲线](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247483816&amp;idx=1&amp;sn=cbfbc284f4edb165ac65f7926f7f8fcc&amp;chksm=ec43b0efdb3439f91ec4f570f7be65e442e21e403481b969d69449464ae1986c7983551de04d#rd)
 + [draw batman logo](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247483836&amp;idx=1&amp;sn=4200a8e2724cd1188e2d7abcc4f004e2&amp;chksm=ec43b0fbdb3439ed140702c043933c14015fdcb6da5b50ec509c9afb772e5740d6ccb1e15b2a#rd)
-
++ [听说你还不会画热图](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484882&amp;idx=1&amp;sn=d7426087ca6c2a9ddd89ee0fa9da59f7&amp;chksm=ec43b495db343d83854be5d6b2271c1b03bfd7409295863f79a9f35b2b4377e01b20432de421#rd)
 
 
 ## ggfacet
@@ -195,6 +200,14 @@
 + [a simple gene finder](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484690&amp;idx=1&amp;sn=02c3124a08b319622a396cedd34a28ac&amp;chksm=ec43b455db343d43236ccf633df046cd2ffac4e0ad11d270a440abf77b7520c259800c90b58e#rd)
 + [搭建本地blast](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484770&amp;idx=1&amp;sn=16ad58f0c931a732b9f99d20547f1a20&amp;chksm=ec43b425db343d336972acbf199e2ebbb8bc0ee1335679cb0d67f1b73555ad7d0964bfd8fe44#rd)
 + [blast一大坑：无法输出query sequence title](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483692&idx=1&sn=d5ed2b6d6e3b09751805623c381f7777&chksm=ec43b06bdb34397d46db142a5446abd5e0de39f9b510b88ab02579e82e095d9202549d80d64c#rd)
++ [简简单单讲insertion size](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484895&amp;idx=1&amp;sn=58ca77060da3889bddb2a346ea0c0dad&amp;chksm=ec43b498db343d8e2482811bcb395b389d444e6ed976d1c2e7df40e87d028271f7dcbbdf1365#rd)
+
+## 算法
+
++ [用动态规划实现全局序列比对](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484896&amp;idx=1&amp;sn=855ba82513608ee030a6e3e0d14aff32&amp;chksm=ec43b4a7db343db19b370eeac9fcc5d056a11b5c19e1da8d28cbb5beb7cb122cfa0c4ed4c064#rd)
++ [Support Vector Machine](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484884&amp;idx=1&amp;sn=d174a0ded1ad744fcfde19bff9b5da6d&amp;chksm=ec43b493db343d853698dbf8c375a2bc60429109c083d0bdaff51eeab793145cb228d8ede7f7#rd)
+
+
 
 
 ## 神器系列
@@ -278,4 +291,10 @@
 + [scau校园网认证](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484782&idx=1&sn=28905e301028cda8d1b1536ca0e7c149&chksm=ec43b429db343d3fac1cf1d936600f9d4347c66e5196ce0124e18b141d69f391c5b8c8619973#rd)
 + [博士版2048](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483737&idx=1&sn=326b2992f2f1e23c868ace4b982315a0&chksm=ec43b01edb343908ff3ba1a6cd074db96296c718688e89d4a706d0adca7dcf32d94b6a1b5051#rd)
 + [3D版邪恶的曲线](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484823&amp;idx=1&amp;sn=4af972da15535c1d7dcf837ace320592&amp;chksm=ec43b4d0db343dc6ec2e622523a5aabb67f25e4b9e4b93a67ab37125570fbab907741351da18#rd)
++ [8天假期应该这样度过！](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484837&idx=1&sn=8b96ef3fb325636961b545b2f2b7591f&chksm=ec43b4e2db343df474b055f4105566a2cfb2b1a1d118183da88b70975400d9256f224177de02#rd)
++ [假期如何假装我们还在工作？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484893&amp;idx=1&amp;sn=d3d830d45bae5d97e23fbbacc81e80af&amp;chksm=ec43b49adb343d8c9d3be306c0a7be5df2cdaa929e8acb2c91617439768943d451c9c59fe126#rd)
++ [诺贝尔奖游戏](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484887&amp;idx=3&amp;sn=e96a959c8de482e72bc56c74033537ec&amp;chksm=ec43b490db343d86894b1580ca7dcfcf7b62e593e21a986b2341c770cf200fcbc5625d27c543#rd)
+
+
+
 
