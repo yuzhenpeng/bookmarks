@@ -3,6 +3,14 @@
 + [Shirin's playgRound exploring and playing with data in R](https://shiring.github.io/)
 
 
+## Evolution
+
++ <https://bookdown.org/bomeara/comparative-methods/>
++ <https://github.com/simjoly/CourseComparativeMethods>
++ <http://evomics.org/learning/>
+    - <http://evomics.org/learning/bioinformatics/>
+
+
 ## Workshop
 
 + <https://bioinformatics.ca/workshops>
@@ -16,10 +24,6 @@
 ## Machine Learning
 
 + <https://github.com/aldro61/microbiome-summer-school-2017>
-
-## Phylogeny
-
-+ <https://github.com/simjoly/CourseComparativeMethods>
 
 ## Microbiome
 

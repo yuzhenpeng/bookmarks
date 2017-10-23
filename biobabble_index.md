@@ -1,4 +1,4 @@
-> 更新于2017-10-08
+> 更新于2017-10-19
 
 + **Y叔R包系列**
 	- [ChIPseeker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#chipseeker)
@@ -19,6 +19,7 @@
 + [统计](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%BB%9F%E8%AE%A1)
 + [算法](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#算法)
 + [生物](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%94%9F%E7%89%A9)
++ [ROSALIND](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#rosalind)
 + [神器系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%A5%9E%E5%99%A8%E7%B3%BB%E5%88%97)
 + [抄袭系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E6%8A%84%E8%A2%AD%E7%B3%BB%E5%88%97)
 + [操作系统](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
@@ -36,7 +37,7 @@
 + [CS4：关于ChIPseq注释的几个问题](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484084&idx=1&sn=b3fb1b88a9f73e26278688dfbce60679&chksm=ec43b3f3db343ae5ea5a657b22bd0ed427c928f75c45484badaf6a6714777d8239cb0b1997b5#rd)
 + [CS5: 吃着火锅，唱着歌，还把分析给做了](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484728&amp;idx=1&amp;sn=68894d1621c317499fdfd8d313402c73&amp;chksm=ec43b47fdb343d69250c4027b7ad668cfd2963a4a842a41e17d481d2ac7a660bdea02605698d#rd)
 + [CS6: ChIPseeker的可视化方法（中秋节的视觉饕餮）](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484887&amp;idx=1&amp;sn=899efd5476443f9c358b0b81214588c5&amp;chksm=ec43b490db343d8634b20456a7d3b74066bed81a298fccb21f2d21676ebcdaf78618a1bf6c69#rd)
-
++ [CS7：Genomic coordination的富集性分析（1）](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484914&idx=1&sn=d1cbd0beb6b9cf580eb057ff11672a4c&chksm=ec43b4b5db343da3c136fb2aba4042d73f12fab282973e86f09fc40d36c0fcaa273a3478088c#rd)
 
 ## clusterProfiler
 
@@ -79,6 +80,7 @@
 + [geom_pokemon: 使用pokemon画图](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484079&idx=1&sn=2f37b54ad09b966ccb9e8bf93ebd6643&chksm=ec43b3e8db343afed5d55c25aaaba233f3339686e9eba0e65f004a5ca58ac13bba7ba9b5bacc#rd)
 + [大开眼界+多图慎点：Pokémon x NBA and other fun with ggimage](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484149&idx=1&sn=0058b64bc269a05937ba97dccd9c0e23&chksm=ec43b3b2db343aa4799e68b1f5c51cde7b4b5452fe69158b93de6f7b368738ecbc2dcf275abc#rd)
 + [你的专业是那一只Pokémon神兽？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484594&amp;idx=1&amp;sn=d35474d1ff032b54152935ef55088340&amp;chksm=ec43b5f5db343ce311e0d54e1b936cb4982f952ce38e940ba6c3cf354436c91b1ae22fc17ea1#rd)
++ [我的名字和我的姓氏](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484952&idx=1&sn=0d6c583068ae91a183855e3b5af55f54&chksm=ec43b75fdb343e49afcb077edd65cbba7d0af27d29d3f136c16bd15ecc97e812d3447ae9a62f#rd)
 
 ## ggtree
 
@@ -86,6 +88,7 @@
 + [当年ggtree发布文，为整合数据而生！](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484487&amp;idx=1&amp;sn=23adde24b641243e56d36ce5db8decba&amp;chksm=ec43b500db343c1658b885ce39147379ba69f544e631a2f6a22340e3d97f3feae5d954f3ec2f#rd)
 + [Introduction to ggplot2 and to ggtree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484894&amp;idx=2&amp;sn=69d5c43787782ef57f6cd35f8878935e&amp;chksm=ec43b499db343d8f3f7613e424238adbdbef5dea73928e9db5394b327dc1938d68fae9ebdcbe#rd)
 + [ggtree无根树及注释](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484825&amp;idx=1&amp;sn=f99ff716b31911d7f65bbfcc9e9a36b8&amp;chksm=ec43b4dedb343dc8e99a7b978f742db5c64730dafc76264c3a31df5fbd6ef44ddfb8cd36270b#rd)
++ [phylip树格式](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484918&idx=1&sn=a004bdaf6f5d1b19fa8a02bd4a3daa85&chksm=ec43b4b1db343da7877c3d75024a94018da6db1b8352fe8e3568c2fb2ccf4af98a55e4e11d2a#rd)
 + [ggtree版本的plotTree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483987&idx=1&sn=9c1f71d39be69536ea1930b6b4da6736&chksm=ec43b314db343a02ea15e3c0e8877d48ac48c2488b8854799388b1a25fb0527fe1076dd4de67#rd)
 + [align genomic features with phylogenetic tree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483954&idx=1&sn=9fac75fa938f1da1a96e013343113bbd&chksm=ec43b375db343a63e55b1828b9c0f3454b300ab2c66d8126d038563336b67446becac96ae4e4#rd)
 + [ggjoy facet with ggtree](http://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484682&idx=1&sn=21944039080612bed8bda7b3070015b3&chksm=ec43b44ddb343d5bcba5c22e33b6b26ce8bfee6e7b913115c19e0e14e930699ab602445d0e89#rd)
@@ -103,13 +106,18 @@
 + [交互式操作进化树](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484185&amp;idx=1&amp;sn=513c35f617ba7942c883ded5886a389b&amp;chksm=ec43b25edb343b48254413602cbf5760b0aa9a3a662d4c0a9094ad7a50e24c9b193312aa3f3c#rd)
 + [可视化操作树的拓扑结构](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484748&amp;idx=1&amp;sn=4704933578dd855bd07f27208804cd8f&amp;chksm=ec43b40bdb343d1d9bbdbcb9f2160d24c4566af5ccfee2b4833022905a27b862003261a0b641#rd)
 + [用ggtree重现Figtree的示例进化树](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484731&amp;idx=1&amp;sn=d732e749b71ac6f45de5d83e3e3c9248&amp;chksm=ec43b47cdb343d6a812964f513e3b0c4dd2aaf2d14366f655d9a5f4fc49b3584aaf5e6d6dbe9#rd)
++ [五彩进化树与热图更配-ggtree美颜进化树(宏基因组扩增子)](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484919&idx=2&sn=884b2a2c400f6d27aaf57209e108da89&chksm=ec43b4b0db343da6026e06ef55e8cd48feed52f267a952b2ef5726f76954a95d24518d0f518c#rd)
 + [facet_plot: 加图层到特定的分面上](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247483856&amp;idx=1&amp;sn=8ead6d0ed5fc303423f995a58ad75e80&amp;chksm=ec43b097db343981f0f2f08d6488dc193d5d12c44e2c5b342d5b522bc82c93db8ebf33a3b552#rd)
 + [facet_plot：加图层到特定分面，方法二](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484178&amp;idx=1&amp;sn=16d1ec1c645585869f8b3fc1488ab11f&amp;chksm=ec43b255db343b435e6c9633308897bdbb631b560ee7865bc246479eeb549b70f894be2ce619#rd)
 + [facet_plot: 关联数据和进化树的通用方法](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484780&amp;idx=1&amp;sn=258a20ee34a12705ff31a92923253200&amp;chksm=ec43b42bdb343d3d8ae687e0b296a1d8cdf322313a403df190376be40eb5469c4c5246c81b48#rd)
 + [漫画版的进化树你见过吗？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484753&amp;idx=1&amp;sn=bdbe66d9bb2961818133357e4530cc02&amp;chksm=ec43b416db343d000e72d02083467a051a42dddb2d15a87a8ae8852249b32592676f75e42c64#rd)
++ [取子集画图](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484897&idx=1&sn=1390a34e7ed290780a66c4aee8b52afe&chksm=ec43b4a6db343db0e3cd262dc8614d77f5c568196acaa22f28b014cd509362de3fce9c1d5c7a#rd)
 + [Phylogenetic trees in R using ggtree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484224&idx=1&sn=ebf4e7f434bf78feade8403d82a6554a&chksm=ec43b207db343b11a9dc7d02e8fbf595aec5905a89798b321ac878839552d7fbb94500d2ab08#rd)
 + [Growing a ggtree](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484476&idx=1&sn=f17ea26f2f1a7887dd471b0368ddad87&chksm=ec43b57bdb343c6d0f72dddc191b22728e36294d0eb1c1ddfc173e40babc83ef73337a9a66c3#rd)
 + [Growing a ggtree - part 2, adding tip shapes](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484589&idx=1&sn=482ce7e6621271dd73a3025854e0f74c&chksm=ec43b5eadb343cfc9e3f8ecc9d1dd3393c57ed0a590e741c4e212419a73f69d06045c6ff2b4b#rd)
++ [Plotting a Sequential Binary Partition on a Tree in R](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484918&idx=2&sn=f54793db647d1edb89495afb6ca4c4cf&chksm=ec43b4b1db343da73bee7c899d913134bf238f0deff9925cab1b1cf01ade15db6a191738acc7#rd)
++ [线上沙龙 (2017-10-24)：plotting trees + data](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484958&idx=1&sn=d58e3bb5b43899849101c60efd29df53&chksm=ec43b759db343e4fefd48ec618a5a2d42f46256e7f455bf9373d90157be0b47df9bd7fd069a9#rd)
+
 
 
 ## GOSemSim
@@ -167,6 +175,7 @@
 + [ggplot2作图5招：《R入门25个菜谱》中所有图片的ggplot2版本](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484533&amp;idx=1&amp;sn=9edbcc86516ef2e4bda9a907f8ce6709&amp;chksm=ec43b532db343c2435ff8d27ba39c1f82b93369a54d2ff320fcea290064573f290cb4eb0db43#rd)
 + [ggplot2字体溢出的那点破事](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484089&idx=1&sn=f6e11d54a18e96a94145a2b802c37dc1&chksm=ec43b3fedb343ae89e3630900033f055af4bbe211897076291e351ae18cc89b2ddf7651ee0be#rd)
 + [wrapping labels in ggplot2](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483972&idx=1&sn=fa1f4b6299f94eeb52baf5bda6a5ff6b&chksm=ec43b303db343a150806b3b1ab22a1df1c90405235bb399b155f7c50de2a0a23faf2f4ad0beb#rd)
++ [映射变量给axis上色](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484959&idx=1&sn=022e29bd86d56c4af8a521cce3cf6942&chksm=ec43b758db343e4e2b4ec36f4dd8897ff12047d83fce50a08c4f8ecbae57b8fe516ed4d78705#rd)
 + [根据GTF画基因的多个转录本结构](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483986&idx=1&sn=43214f77337bc660a733bbc80ab1124b&chksm=ec43b315db343a03cd51ee6cb96e1646975d08e9ea7a980bed236472b77bc6166e601a977dab#rd)
 + [如何画类似MEME的注释序列](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483899&idx=1&sn=8183bf53f5e8fc8e5a5dd9c93da5a95f&chksm=ec43b0bcdb3439aa302d2a07358743ab59a4a0ec0540c2d009fa4b6064ba5fb174f119738ca3#rd)
 + [joyplot：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484586&idx=1&sn=2c4aaca92147d901fb5421cdb99d16de&chksm=ec43b5eddb343cfb34c907ddfdba74e129ee7ef896219a888a56b36738a0f6062bb2cf0ab99f#rd)
@@ -201,6 +210,11 @@
 + [搭建本地blast](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484770&amp;idx=1&amp;sn=16ad58f0c931a732b9f99d20547f1a20&amp;chksm=ec43b425db343d336972acbf199e2ebbb8bc0ee1335679cb0d67f1b73555ad7d0964bfd8fe44#rd)
 + [blast一大坑：无法输出query sequence title](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483692&idx=1&sn=d5ed2b6d6e3b09751805623c381f7777&chksm=ec43b06bdb34397d46db142a5446abd5e0de39f9b510b88ab02579e82e095d9202549d80d64c#rd)
 + [简简单单讲insertion size](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484895&amp;idx=1&amp;sn=58ca77060da3889bddb2a346ea0c0dad&amp;chksm=ec43b498db343d8e2482811bcb395b389d444e6ed976d1c2e7df40e87d028271f7dcbbdf1365#rd)
+
+## ROSALIND
+
++ [s01 - Counting DNA Nucleotides](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484921&idx=1&sn=b729438c35c7d491ef75fdf8dab5f09f&chksm=ec43b4bedb343da85853e234b5eb86267276e78a6b53dd1360367cca94d764955594ef86e910#rd)
+
 
 ## 算法
 
@@ -265,6 +279,9 @@
 + [怀疑人生！我不欠你们钱，好吗？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484431&amp;idx=1&amp;sn=26e2768905e2f3f8d9c80f85f9457725&amp;chksm=ec43b548db343c5e20953f5b71621a7ad5cecde9eebd868050778ad067cbea4b27de8fd576b2#rd)
 + [真爱是什么？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484688&amp;idx=2&amp;sn=c01e5ebbac2a29ba3c46c6a90a7f0ac8&amp;chksm=ec43b457db343d41960b0aa687e6714ae224bd1314628301f50a7e52d00e68314391f0b92f38#rd)
 + [纯代码生成banner](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484095&amp;idx=1&amp;sn=e98fb2e95cd7d2775a5611ab076fdeb5&amp;chksm=ec43b3f8db343aee763e85b21b4fcf26b36049f0ea48066d65f86ee9895073d0c8e010f4a7ee#rd)
++ [biobabble公众号文章目录-2017.10.01版本](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484849&idx=1&sn=c05739b4c02e61bb10f7bf715c513205&chksm=ec43b4f6db343de05e0fb8b3c329cd559aa7374b05bd51dc8283a71ac275ec65e3a11c9d3095#rd)
+
+
 
 
 ## C++
@@ -294,7 +311,5 @@
 + [8天假期应该这样度过！](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484837&idx=1&sn=8b96ef3fb325636961b545b2f2b7591f&chksm=ec43b4e2db343df474b055f4105566a2cfb2b1a1d118183da88b70975400d9256f224177de02#rd)
 + [假期如何假装我们还在工作？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484893&amp;idx=1&amp;sn=d3d830d45bae5d97e23fbbacc81e80af&amp;chksm=ec43b49adb343d8c9d3be306c0a7be5df2cdaa929e8acb2c91617439768943d451c9c59fe126#rd)
 + [诺贝尔奖游戏](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484887&amp;idx=3&amp;sn=e96a959c8de482e72bc56c74033537ec&amp;chksm=ec43b490db343d86894b1580ca7dcfcf7b62e593e21a986b2341c770cf200fcbc5625d27c543#rd)
-
-
 
 
