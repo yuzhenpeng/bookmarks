@@ -156,7 +156,7 @@
 + [prettyB: 美化B](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483738&idx=1&sn=69b10b0c5503f95d6bba15d0c0b64f1f&chksm=ec43b01ddb34390b5b4cb1e05358499cfbbe246a487def2904c6872b8fa275bee1cf43c96420#rd)
 + [R包辣鸡之CorMut](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483948&idx=1&sn=e57e385ada66c991a5c3cf6eb48f7169&chksm=ec43b36bdb343a7dbd39574bb6b02cf8057a4d068399630e77e0580113a2807bb8c34edafbf0)
 + [来自R的桌面提醒](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484109&idx=1&sn=9988b955cb4a995dfcfbe31f31d929da&chksm=ec43b38adb343a9cc2ce4ab9fabf3e6ff1db82f6627c91a1035ef94279c6d51e72ffea247f1a)
-+ [有魔性的图来一发](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484673&amp;idx=1&amp;sn=bd8bff907b288c0b2c39b65d157c656a&amp;chksm=ec43b446db343d5033d47019ad9da2c89aaaeb2037bdb78bf148e2fb084d9d61c1690370a961#rd)
++ [有魔性的图来一发](http://mp.weixin.qq.com/s/cu7J62fVQ74vaOYuRXUmqA)
 + [再见joyplot](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484824&amp;idx=1&amp;sn=752161d4968cb67a42b3c3de63b83c80&amp;chksm=ec43b4dfdb343dc9395d74ff532b28e336444edab0ba06502d4f42951fe97a40a7d26da48a2f#rd)
 + [听说你想学R？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484641&idx=1&sn=3ff11eef4cf48ebc6c2d1b06be950834&chksm=ec43b5a6db343cb04355c149b52bbd9bcb11b7983e48ddb5d40b85081003937d5e582b0f69b5)
 + [我在MSnbase里做了什么？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484054&idx=2&sn=9a42f1094349a0bd09a5e0b7c44595e0&chksm=ec43b3d1db343ac7e11d92eda3eb1837aab46f79bb109e6cdbba466e4693d041a87fa698ef1b)
