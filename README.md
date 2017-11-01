@@ -10,6 +10,10 @@
 + <http://evomics.org/learning/>
     - <http://evomics.org/learning/bioinformatics/>
 
+## Ordination Methods
+
++ <http://ordination.okstate.edu/>
++ <https://cran.r-project.org/package=vegan>
 
 ## Workshop
 

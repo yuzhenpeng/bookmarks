@@ -170,7 +170,7 @@
 + [听说你想学R？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484641&idx=1&sn=3ff11eef4cf48ebc6c2d1b06be950834&chksm=ec43b5a6db343cb04355c149b52bbd9bcb11b7983e48ddb5d40b85081003937d5e582b0f69b5)
 + [我在MSnbase里做了什么？](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484054&idx=2&sn=9a42f1094349a0bd09a5e0b7c44595e0&chksm=ec43b3d1db343ac7e11d92eda3eb1837aab46f79bb109e6cdbba466e4693d041a87fa698ef1b)
 + [clifun: 在R里装装逼](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247483868&idx=1&sn=412e13481ad636032125a035bf2216b0&chksm=ec43b09bdb34398d060b1898d286b84975e578c1230da0ce2782d56278a6ce0ee95c0965ac5d)
-+ [Update R packages](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247484173&idx=1&sn=ad1817e4acd1362428b3beaa1cd4fede&chksm=ec43b24adb343b5cad6c7ff528182e9c95f0f292044399e127d7495c77bbe2e1cbccb095179c)
++ [Update R packages](http://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
 + [无中生有windows版R包](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484018&amp;idx=2&amp;sn=ac3dcf63c63e1589d8cf146ea4e8e1b1&amp;chksm=ec43b335db343a23f5711410c91efd7705f93b13ae2a14b2ce5c458924d2549d5cceb461ef16#rd)
 + [R binary is untrustable](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484223&amp;idx=1&amp;sn=432c339a00af75b0defb2b2d5e4a9e5d&amp;chksm=ec43b278db343b6e83b15556fd27d094667952a86247df6a44ec869f619adb9fb84acb582fcd#rd)
 + [R kernel in Jupyter notebook 3](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&amp;mid=2247484445&amp;idx=1&amp;sn=1b2f5cbfd724764259dc3008f052498c&amp;chksm=ec43b55adb343c4c9968d486a8a7b69ce20021f4a2562f1ec3bd25fde6c03d8bd2aa27d32963#rd)
