@@ -2,6 +2,7 @@
 
 + [Shirin's playgRound exploring and playing with data in R](https://shiring.github.io/)
 + [From the bottom of the heap](https://www.fromthebottomoftheheap.net/)
++ [Sample (Ecology)](https://jonlefcheck.net/)
 
 ## Evolution
 
@@ -28,6 +29,8 @@
 ## Machine Learning
 
 + <https://github.com/aldro61/microbiome-summer-school-2017>
++ <http://mlr-org.github.io/>
+
 
 ## Microbiome
 
