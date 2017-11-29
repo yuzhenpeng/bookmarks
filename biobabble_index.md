@@ -30,7 +30,7 @@
 
 ## ChIPseeker
 
-+ [CS0: ChIPseq从入门到放弃](http://mp.weixin.qq.com/s/0xJtTr98budE02XExApInw)
++ [CS0: ChIPseq从入门到放弃](https://mp.weixin.qq.com/s/lFi1m7k-9t6nD0SER1r1hw)
 + [CS1: ChIPseq简介](http://mp.weixin.qq.com/s/vgXrscsUkfYdC5qt_PUNlw)
 + [CS2: BED文件](https://mp.weixin.qq.com/s/D06NEG7blksGugb0srL7KQ) 
 + [CS3: peak注释](http://mp.weixin.qq.com/s/vWTf59KDs1lp_sQXjEhI_g)
@@ -292,6 +292,7 @@
 
 + [为什么要开这个公众号](http://mp.weixin.qq.com/s/f-c5Q63SY166ZGzYCsqthA)
 + [关于《关于转载》](https://mp.weixin.qq.com/s/JuMoFfgbNSM2KFQ74KVw0Q)
++ [赞赏专用通道](http://mp.weixin.qq.com/s/yfZKyxjFX3IbpbGEBXmdxQ)
 + [微信公众文 -- markdown一键排版](http://mp.weixin.qq.com/s/hAQ0OiObsCqa9jgKMuRPZw)
 + [公号狗的福音](http://mp.weixin.qq.com/s/SUwUL-RaeRRRQ7eRDeNQiw)
 + [话题投票](http://mp.weixin.qq.com/s/5DMqX7bLsnvjj7KF4yIyVg)
