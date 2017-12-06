@@ -46,15 +46,18 @@
 + [why clusterProfiler fails](http://mp.weixin.qq.com/s/bxzWQa02b_mXSi5Y0vSCiA)
 + [buildGOmap](http://mp.weixin.qq.com/s/-DHe6rcBEY9gyU_Fo7qh8w)
 + [非模式基因GO富集分析：以玉米为例+使用OrgDb](https://mp.weixin.qq.com/s/lHKZtzpN2k9uPN7e6HjH3w)
++ [水稻如何做KEGG富集分析](https://mp.weixin.qq.com/s/UnUPVoaMpfJWCQEpkmdTWA)
 + [dotplot展示富集分析结果](https://mp.weixin.qq.com/s/KzcnIH88d4E41Ybvr_76zA)
 + [为什么画出来的点比指定的数目要多？](https://mp.weixin.qq.com/s/VW4LvtQqXumrs6SMvwGgvQ)
 + [ko数据库ID转换](http://mp.weixin.qq.com/s/jhEVWW33LBf6VlmfGBkT3g)
++ [听说你的KEGG分析有大量的基因没注释](https://mp.weixin.qq.com/s/-zahrNFeTvhRTCn7J2YjUQ)
 + [DAVID分析结果转为enrichResult](http://mp.weixin.qq.com/s/lRhKPow1YTixpdq_fxMN0w)
 + [DAVID functional analysis with clusterProfiler](http://mp.weixin.qq.com/s/-uFDvuDyU_BE1cPGFZuC8w)
 + [enrichDAVID支持自定义背景](http://mp.weixin.qq.com/s/PHhXlNvpnGG5dT1e8NgSbg)
 + [SCIENCE文章用了DAVID被吐槽](http://mp.weixin.qq.com/s/9M3lprc3rL6XII3ffpDHAw)
 + [Comparison of clusterProfiler and GSEA-P](http://mp.weixin.qq.com/s/Q5aovZPfouw8_cIn2kWe1A)
 + [听说你有RNAseq数据却不知道怎么跑GSEA](http://mp.weixin.qq.com/s/aht5fQ10nH_07CYttKFH7Q)
+
 
 ## DOSE
 
@@ -76,6 +79,7 @@
 + [emojifont新功能（有视频哦）](http://mp.weixin.qq.com/s/ARxyTRpMs6OeCqOQPp9OwA)
 + [phylomoji：用emoji画进化树](http://mp.weixin.qq.com/s/JxcfuJVT1ySFPphYwSmYSQ)
 + [你所没见过的苹果](http://mp.weixin.qq.com/s/vuFSTrDzxZJJ0A0s-D9eEw)
++ [火鸡全家桶](https://mp.weixin.qq.com/s/Crd5VsNIsmIU0mtyOSgOgg)
 
 ## ggimage
 
@@ -115,8 +119,13 @@
 + [facet_plot: 关联数据和进化树的通用方法](http://mp.weixin.qq.com/s/FlrnY9GeV5fHa6EZpZhTJA)
 + [漫画版的进化树你见过吗？](http://mp.weixin.qq.com/s/P7yUFLwW4OLGBrPw05iQ_A)
 + [取子集画图](http://mp.weixin.qq.com/s/JXpakSKqPPRHhcyQQVdoGA)
+
+### 直播
+
 + [线上沙龙 (2017-10-24)：plotting trees + data](http://mp.weixin.qq.com/s/f_iirv0xEnDM6wESAcSLkg)
 + [webinar录播 (2017-10-24)：plotting tree + data](http://mp.weixin.qq.com/s/YuUOztQg3nUnhdvyg8asvg)
++ [ggtree直播PPT第一部分](https://mp.weixin.qq.com/s/3yEN-8oUck2WPmNQ368qYA)
++ [ggtree直播PPT第二部分](https://mp.weixin.qq.com/s/7-YhGzzu_tVAwySrYOKGFg)
 
 ### 用户笔记
 
@@ -126,6 +135,7 @@
 + [Growing a ggtree - part 2, adding tip shapes](http://mp.weixin.qq.com/s/G7yiFz7FBxyD-TK4jn878w)
 + [Plotting a Sequential Binary Partition on a Tree in R](http://mp.weixin.qq.com/s/D5tWuXOwzWHc4O2Yv_uNjA)
 + [五彩进化树与热图更配-ggtree美颜进化树(宏基因组扩增子)](https://mp.weixin.qq.com/s/NGxErJtktxf9cSbQ4vD3Eg)
++ [Enhanced annotation of a primate phylogeny with ggtree](https://mp.weixin.qq.com/s/GootWrMwI9dbt7q1NLMUmQ)
 
 
 ## GOSemSim
@@ -162,7 +172,14 @@
 
 ## yyplot
 
++ [Y叔的新玩意--yyplot](https://mp.weixin.qq.com/s/ne2AEUxmD7EDcWzh7i-jAQ)
 + [一次解决ggplot2所有字体](http://mp.weixin.qq.com/s/yVAP09kfE0af79egYENBRA)
++ [映射变量给axis上色](https://mp.weixin.qq.com/s/1bJe7VPZ2qbBRSaONXvxKA)
+
+## 知识星球问题解答
+
++ [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
++ [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
 
 ## R
 
@@ -181,6 +198,7 @@
 + [R kernel in Jupyter notebook 3](http://mp.weixin.qq.com/s/gabXNyiCPHfQwx7L4tsJVQ)
 + [你所不知道的，R的N种打开方式](http://mp.weixin.qq.com/s/BsEm76Eq9_tbw3myobD_SA)
 + [R，python喊你回家吃饭啦](http://mp.weixin.qq.com/s/WX4bHl8a-BKEKp4Dp3KFag)
++ [一个要复活的R包和一个404的网站](https://mp.weixin.qq.com/s/kBnLyNl2anXuMa6sDepRQw)
 
 
 ## ggplot2
@@ -189,7 +207,6 @@
 + [ggplot2作图5招：《R入门25个菜谱》中所有图片的ggplot2版本](http://mp.weixin.qq.com/s/9F_yPk1AJXBFVhMJpezTPw)
 + [ggplot2字体溢出的那点破事](http://mp.weixin.qq.com/s/BTBP_snTRKrjmRCjF6Cp3A)
 + [wrapping labels in ggplot2](https://mp.weixin.qq.com/s/AsXtK8wpr5UitCug5UQwBA)
-+ [映射变量给axis上色](https://mp.weixin.qq.com/s/1bJe7VPZ2qbBRSaONXvxKA)
 + [根据GTF画基因的多个转录本结构](http://mp.weixin.qq.com/s/UySUZRIpfX0VhNqveTPHwQ)
 + [如何画类似MEME的注释序列](https://mp.weixin.qq.com/s/4kJXBm7ojaTH6okLOFC7pA)
 + [joyplot：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](http://mp.weixin.qq.com/s/QWd-Np2R7W28OcTN6W-_6A)
@@ -212,6 +229,7 @@
 + [富集基因之注释缺失](http://mp.weixin.qq.com/s/awieqE2LAk7YKZNkNQr9VQ)
 + [落入窠臼](http://mp.weixin.qq.com/s/lRrlgQizYw_npMuL5ij8Jg)
 + [你昨天才做的分析，可能是几年前的结果！](http://mp.weixin.qq.com/s/miGQs6U1d3aHwcm7vgNCVw)
++ [掐架的额外收获x](https://mp.weixin.qq.com/s/EJFtbEq6nJJALCa8BQWgSA)
 + [boxplot](http://mp.weixin.qq.com/s/kk3M1eoVhCiYmyu92P0zwA)
 + [同一数据多变量分组的boxplot?](http://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
 + [如何告别单身](http://mp.weixin.qq.com/s/2j9VRgar5ExSma6B7Yc3dw)
@@ -226,6 +244,8 @@
 + [搭建本地blast](http://mp.weixin.qq.com/s/Pwp5XradVRx3iE5ueStEqg)
 + [blast一大坑：无法输出query sequence title](http://mp.weixin.qq.com/s/RyYbZs3tJNQQYYYWaeVsqw)
 + [简简单单讲insertion size](http://mp.weixin.qq.com/s/JiCn5m0E2afBR27ryRYYRQ)
++ [pubmed年度趋势，你的开题报告需要它！](https://mp.weixin.qq.com/s/YaDxF4ZUISWlUR_7bQnbSQ)
+
 
 ## ROSALIND
 
@@ -248,8 +268,10 @@
 + [在这个看脸（哦不对，看图）的时代，做科研的你怎么能错过这个帮你找一张漂亮脸蛋的神器！](http://mp.weixin.qq.com/s/7S_Iw331JRrAp7ZnDScf4A)
 + [什么？听说你有文章却不知道该往那里投！](http://mp.weixin.qq.com/s/tS_rUyPZfcB7CUfR_2LysA)
 + [sci-hub如果挂了，你还有神器下文献吗？](http://mp.weixin.qq.com/s/aaIby87LSQgxpvCAECFxkw)
++ [再不用担心打不开sci-hub了](https://mp.weixin.qq.com/s/5JGC1bcVZOmdaPxo_uXYYw)
 + [听说你也在读文献](https://mp.weixin.qq.com/s/AGQn7Lfn_nHHrtVQyJSTmg)
 + [什么？杂志要求图片要300dpi的TIFF，还限制了文件大小，臣妾做不到啊](http://mp.weixin.qq.com/s/8cUADsfjJqKKbLEGVdA3gw)
+
 
 ## 抄袭系列
 
@@ -331,5 +353,5 @@
 + [假期如何假装我们还在工作？](http://mp.weixin.qq.com/s/zt2Xkj_VBRPkzwl3dzfimw)
 + [诺贝尔奖游戏](http://mp.weixin.qq.com/s/Gw5REFxJ2ZthBtScm15Jcw)
 + [请用事实怼我 -,-](http://mp.weixin.qq.com/s/M_0kIsE7A-vxMEusBtzJow)
-
++ [老板，我需要一部iPhone X来做科研！](https://mp.weixin.qq.com/s/4I08BkntXkGArOy4gscchg)
 
