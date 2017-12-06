@@ -1,4 +1,4 @@
-> 更新于2017-11-13
+> 更新于2017-12-06
 
 + **Y叔R包系列**
 	- [ChIPseeker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#chipseeker)
@@ -13,6 +13,7 @@
 	- [seqcombo](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#seqcombo)
 	- [treeio](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#treeio)
 	- [yyplot](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#yyplot)
++ [知识星球问题解答](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#知识星球问题解答)
 + [R](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#r)
 + [ggplot2](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggplot2)
 + [ggfacet](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggfacet)
