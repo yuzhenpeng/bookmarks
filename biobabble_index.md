@@ -13,7 +13,7 @@
 	- [seqcombo](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#seqcombo)
 	- [treeio](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#treeio)
 	- [yyplot](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#yyplot)
-+ [知识星球问题解答](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#知识星球问题解答)
++ [知识星球系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#知识星球系列)
 + [R](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#r)
 + [ggplot2](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggplot2)
 + [ggfacet](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggfacet)
@@ -180,8 +180,10 @@
 + [一次解决ggplot2所有字体](http://mp.weixin.qq.com/s/yVAP09kfE0af79egYENBRA)
 + [映射变量给axis上色](https://mp.weixin.qq.com/s/1bJe7VPZ2qbBRSaONXvxKA)
 
-## 知识星球问题解答
+## 知识星球系列
 
++ [怀疑人生！我不欠你们钱，好吗？](http://mp.weixin.qq.com/s/vB7mJG9FQYXsYZh9Bcp0_g)
++ [同一数据多变量分组的boxplot?](http://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
 + [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
 + [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
 
@@ -235,7 +237,6 @@
 + [你昨天才做的分析，可能是几年前的结果！](http://mp.weixin.qq.com/s/miGQs6U1d3aHwcm7vgNCVw)
 + [掐架的额外收获x](https://mp.weixin.qq.com/s/EJFtbEq6nJJALCa8BQWgSA)
 + [boxplot](http://mp.weixin.qq.com/s/kk3M1eoVhCiYmyu92P0zwA)
-+ [同一数据多变量分组的boxplot?](http://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
 + [如何告别单身](http://mp.weixin.qq.com/s/2j9VRgar5ExSma6B7Yc3dw)
 
 
@@ -323,7 +324,6 @@
 + [微信公众文 -- markdown一键排版](http://mp.weixin.qq.com/s/hAQ0OiObsCqa9jgKMuRPZw)
 + [公号狗的福音](http://mp.weixin.qq.com/s/SUwUL-RaeRRRQ7eRDeNQiw)
 + [话题投票](http://mp.weixin.qq.com/s/5DMqX7bLsnvjj7KF4yIyVg)
-+ [怀疑人生！我不欠你们钱，好吗？](http://mp.weixin.qq.com/s/vB7mJG9FQYXsYZh9Bcp0_g)
 + [真爱是什么？](http://mp.weixin.qq.com/s/krcSjt6UTg1cIlFiBasbJw)
 + [纯代码生成banner](http://mp.weixin.qq.com/s/bnWtD7buxDTj9Gsuv5ilRw)
 + [biobabble公众号文章目录-2017.10.01版本](http://mp.weixin.qq.com/s/rcG6fmJVjRwI9mTanC-wDg)
