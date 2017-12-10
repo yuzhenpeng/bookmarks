@@ -1,4 +1,4 @@
-> 更新于2017-12-06
+> 更新于2017-12-10
 
 + **Y叔R包系列**
 	- [ChIPseeker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#chipseeker)
@@ -39,6 +39,8 @@
 + [CS5: 吃着火锅，唱着歌，还把分析给做了](http://mp.weixin.qq.com/s/gDpsdj6cLDtnG1Kla79wLA)
 + [CS6: ChIPseeker的可视化方法（中秋节的视觉饕餮）](http://mp.weixin.qq.com/s/MqpfgkMJSFj0pYwcEjV9kQ)
 + [CS7：Genomic coordination的富集性分析（1）](http://mp.weixin.qq.com/s/v61LjQEfyi_CZucHW53ETw)
++ [CS8：Genomic coordination的富集性分析（2）](https://mp.weixin.qq.com/s/vbkZrGwD7dZ-OPOiqkyTnA)
+
 
 ## clusterProfiler
 
@@ -152,6 +154,7 @@
 ## meme
 
 + [用R画meme ;)](http://mp.weixin.qq.com/s/jDXjkrkq_YVhW-Z5Vx2-Fg)
++ [使用外部字体画meme](https://mp.weixin.qq.com/s/4b8enFCd_lLt278Ddxp3rg)
 
 ## scatterpie
 
@@ -315,6 +318,7 @@
 
 + [为什么要开这个公众号](http://mp.weixin.qq.com/s/f-c5Q63SY166ZGzYCsqthA)
 + [关于《关于转载》](https://mp.weixin.qq.com/s/JuMoFfgbNSM2KFQ74KVw0Q)
++ [公众号「biobabble」是什么意思？](https://mp.weixin.qq.com/s/wpk7gCW4oxgmPaGf4NSOBg)
 + [赞赏专用通道](http://mp.weixin.qq.com/s/yfZKyxjFX3IbpbGEBXmdxQ)
 + [微信公众文 -- markdown一键排版](http://mp.weixin.qq.com/s/hAQ0OiObsCqa9jgKMuRPZw)
 + [公号狗的福音](http://mp.weixin.qq.com/s/SUwUL-RaeRRRQ7eRDeNQiw)
