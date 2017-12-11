@@ -1,5 +1,8 @@
 > 更新于2017-12-10
 
+公众号biobabble后台回复「目录」二字可以获取本目录。
+
+
 + **Y叔R包系列**
 	- [ChIPseeker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#chipseeker)
 	- [clusterProfiler](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#clusterprofiler)
@@ -179,6 +182,8 @@
 + [Y叔的新玩意--yyplot](https://mp.weixin.qq.com/s/ne2AEUxmD7EDcWzh7i-jAQ)
 + [一次解决ggplot2所有字体](http://mp.weixin.qq.com/s/yVAP09kfE0af79egYENBRA)
 + [映射变量给axis上色](https://mp.weixin.qq.com/s/1bJe7VPZ2qbBRSaONXvxKA)
++ [pubmed年度趋势，你的开题报告需要它！](https://mp.weixin.qq.com/s/YaDxF4ZUISWlUR_7bQnbSQ)
+
 
 ## 知识星球系列
 
@@ -194,7 +199,6 @@
 + [R包辣鸡之CorMut](https://mp.weixin.qq.com/s/JODhkZ5-qPMDx1zrWHyW_w)
 + [来自R的桌面提醒](http://mp.weixin.qq.com/s/MuPCMV__XIgAgmz-9HxM0Q)
 + [有魔性的图来一发](http://mp.weixin.qq.com/s/cu7J62fVQ74vaOYuRXUmqA)
-+ [再见joyplot](http://mp.weixin.qq.com/s/3qx0JhJ1Q7D6QEZ19ibtRA)
 + [听说你想学R？](https://mp.weixin.qq.com/s/9jQQlLRpWL01K2Py8CsnNw)
 + [我在MSnbase里做了什么？](http://mp.weixin.qq.com/s/9pS9w7tHhlV8zlqxd8jImA)
 + [clifun: 在R里装装逼](https://mp.weixin.qq.com/s/4DojzE5Vfmkm80u2MygNcQ)
@@ -216,6 +220,7 @@
 + [根据GTF画基因的多个转录本结构](http://mp.weixin.qq.com/s/UySUZRIpfX0VhNqveTPHwQ)
 + [如何画类似MEME的注释序列](https://mp.weixin.qq.com/s/4kJXBm7ojaTH6okLOFC7pA)
 + [joyplot：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](http://mp.weixin.qq.com/s/QWd-Np2R7W28OcTN6W-_6A)
++ [再见joyplot](http://mp.weixin.qq.com/s/3qx0JhJ1Q7D6QEZ19ibtRA)
 + [邪恶的曲线](http://mp.weixin.qq.com/s/AJ3IXCuXTOaWROc-TOjKww)
 + [draw batman logo](http://mp.weixin.qq.com/s/t_jpFpj99-DLz-iUdyhosw)
 + [什么！你的图上有一双看不见的手](http://mp.weixin.qq.com/s/8bzkJY1zzNc83iBUq4Fy1w)
@@ -249,7 +254,7 @@
 + [搭建本地blast](http://mp.weixin.qq.com/s/Pwp5XradVRx3iE5ueStEqg)
 + [blast一大坑：无法输出query sequence title](http://mp.weixin.qq.com/s/RyYbZs3tJNQQYYYWaeVsqw)
 + [简简单单讲insertion size](http://mp.weixin.qq.com/s/JiCn5m0E2afBR27ryRYYRQ)
-+ [pubmed年度趋势，你的开题报告需要它！](https://mp.weixin.qq.com/s/YaDxF4ZUISWlUR_7bQnbSQ)
+
 
 
 ## ROSALIND
