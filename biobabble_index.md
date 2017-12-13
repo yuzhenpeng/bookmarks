@@ -1,4 +1,4 @@
-> 更新于2017-12-10
+> 更新于2017-12-13
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -43,6 +43,7 @@
 + [CS6: ChIPseeker的可视化方法（中秋节的视觉饕餮）](http://mp.weixin.qq.com/s/MqpfgkMJSFj0pYwcEjV9kQ)
 + [CS7：Genomic coordination的富集性分析（1）](http://mp.weixin.qq.com/s/v61LjQEfyi_CZucHW53ETw)
 + [CS8：Genomic coordination的富集性分析（2）](https://mp.weixin.qq.com/s/vbkZrGwD7dZ-OPOiqkyTnA)
++ [CS9: GEO数据挖掘](https://mp.weixin.qq.com/s/98k_L3CmjH817xMF2VfYtA)
 
 
 ## clusterProfiler
@@ -95,7 +96,7 @@
 + [你的专业是那一只Pokémon神兽？](http://mp.weixin.qq.com/s/MMn5TGOuI1ntanbShou_gA)
 + [我的名字和我的姓氏](https://mp.weixin.qq.com/s/4F6jvuL4GA5bxNo-z5b9dg)
 + [正经的图千篇一律，不正经的叔万里挑一](http://mp.weixin.qq.com/s/KFU7dVF0Z-Uj20VhqATKUQ)
-
++ [饼图版气泡图](https://mp.weixin.qq.com/s/PH3xZKVZC9NUElbVfD7UpA)
 
 ## ggtree
 
@@ -200,6 +201,7 @@
 + [来自R的桌面提醒](http://mp.weixin.qq.com/s/MuPCMV__XIgAgmz-9HxM0Q)
 + [有魔性的图来一发](http://mp.weixin.qq.com/s/cu7J62fVQ74vaOYuRXUmqA)
 + [听说你想学R？](https://mp.weixin.qq.com/s/9jQQlLRpWL01K2Py8CsnNw)
++ [R语言的最好资源，一个就够！](https://mp.weixin.qq.com/s/gVzjoYRB4vfq_8TMy3F8TA)
 + [我在MSnbase里做了什么？](http://mp.weixin.qq.com/s/9pS9w7tHhlV8zlqxd8jImA)
 + [clifun: 在R里装装逼](https://mp.weixin.qq.com/s/4DojzE5Vfmkm80u2MygNcQ)
 + [Update R packages](http://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
