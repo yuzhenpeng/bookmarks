@@ -19,7 +19,7 @@
 + [知识星球系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#知识星球系列)
 + [R](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#r)
 + [ggplot2](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggplot2)
-+ [ggfacet](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggfacet)
+	- [ggfacet](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggfacet)
 + [统计](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%BB%9F%E8%AE%A1)
 + [算法](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#算法)
 + [生物](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%94%9F%E7%89%A9)
