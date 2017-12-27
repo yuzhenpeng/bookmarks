@@ -229,7 +229,7 @@
 
 
 
-## ggfacet
+### ggfacet
 
 + [按地理位置分面](http://mp.weixin.qq.com/s/6Cqes8F4UF2Zsi722E3WvA)
 + [ggplot2分面之像素艺术](http://mp.weixin.qq.com/s/uK-9ql7XXe_RlM2K24hyDw)
