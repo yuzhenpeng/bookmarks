@@ -1,4 +1,4 @@
-> 更新于2017-12-13
+> 更新于2017-12-28
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -10,6 +10,8 @@
 	- [emojifont](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#emojifont)
 	- [ggimage](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggimage)
 	- [ggtree](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggtree)
+		- [直播](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%9B%B4%E6%92%AD)
+		- [用户笔记](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%94%A8%E6%88%B7%E7%AC%94%E8%AE%B0)
 	- [GOSemSim](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#gosemsim)
 	- [hexSticker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#hexsticker)
 	- [scatterpie](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#scatterpie)
@@ -20,6 +22,7 @@
 + [R](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#r)
 + [ggplot2](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggplot2)
 	- [ggfacet](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggfacet)
+	- [ggridges](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggridges)
 + [统计](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%BB%9F%E8%AE%A1)
 + [算法](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#算法)
 + [生物](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%94%9F%E7%89%A9)
@@ -44,7 +47,7 @@
 + [CS7：Genomic coordination的富集性分析（1）](http://mp.weixin.qq.com/s/v61LjQEfyi_CZucHW53ETw)
 + [CS8：Genomic coordination的富集性分析（2）](https://mp.weixin.qq.com/s/vbkZrGwD7dZ-OPOiqkyTnA)
 + [CS9: GEO数据挖掘](https://mp.weixin.qq.com/s/98k_L3CmjH817xMF2VfYtA)
-
++ [CS10: 八卦终结版](https://mp.weixin.qq.com/s/iRC_ak53PbN9DJbkPzgBOQ)
 
 ## clusterProfiler
 
@@ -58,6 +61,7 @@
 + [为什么画出来的点比指定的数目要多？](https://mp.weixin.qq.com/s/VW4LvtQqXumrs6SMvwGgvQ)
 + [ko数据库ID转换](http://mp.weixin.qq.com/s/jhEVWW33LBf6VlmfGBkT3g)
 + [听说你的KEGG分析有大量的基因没注释](https://mp.weixin.qq.com/s/-zahrNFeTvhRTCn7J2YjUQ)
++ [enrichGO出不来结果？没结果也是正确的结果](https://mp.weixin.qq.com/s/6i4HSPT5ac4cr2ol4pLIHw)
 + [DAVID分析结果转为enrichResult](http://mp.weixin.qq.com/s/lRhKPow1YTixpdq_fxMN0w)
 + [DAVID functional analysis with clusterProfiler](http://mp.weixin.qq.com/s/-uFDvuDyU_BE1cPGFZuC8w)
 + [enrichDAVID支持自定义背景](http://mp.weixin.qq.com/s/PHhXlNvpnGG5dT1e8NgSbg)
@@ -97,6 +101,8 @@
 + [我的名字和我的姓氏](https://mp.weixin.qq.com/s/4F6jvuL4GA5bxNo-z5b9dg)
 + [正经的图千篇一律，不正经的叔万里挑一](http://mp.weixin.qq.com/s/KFU7dVF0Z-Uj20VhqATKUQ)
 + [饼图版气泡图](https://mp.weixin.qq.com/s/PH3xZKVZC9NUElbVfD7UpA)
++ [转发5个群，Y叔送你一顶帽子](https://mp.weixin.qq.com/s/EojwBbg0MUWijwGeNIjntg)
+
 
 ## ggtree
 
@@ -148,6 +154,8 @@
 ## GOSemSim
 
 + [[GOSemSim]: 跨物种计算基因相似性](http://mp.weixin.qq.com/s/xI4t0M2HDdgctaoq-Def5Q)
++ [GOSemSim：GO语义相似性度量](https://mp.weixin.qq.com/s/FTzgf1JHXAhDta2u-cDksQ)
+
 
 ## hexSticker
 
@@ -184,7 +192,7 @@
 + [一次解决ggplot2所有字体](http://mp.weixin.qq.com/s/yVAP09kfE0af79egYENBRA)
 + [映射变量给axis上色](https://mp.weixin.qq.com/s/1bJe7VPZ2qbBRSaONXvxKA)
 + [pubmed年度趋势，你的开题报告需要它！](https://mp.weixin.qq.com/s/YaDxF4ZUISWlUR_7bQnbSQ)
-
++ [130岁了，祝你生快](https://mp.weixin.qq.com/s/Iqcqo5YTy1qmXdsuIrlrYQ)
 
 ## 知识星球系列
 
@@ -221,8 +229,7 @@
 + [wrapping labels in ggplot2](https://mp.weixin.qq.com/s/AsXtK8wpr5UitCug5UQwBA)
 + [根据GTF画基因的多个转录本结构](http://mp.weixin.qq.com/s/UySUZRIpfX0VhNqveTPHwQ)
 + [如何画类似MEME的注释序列](https://mp.weixin.qq.com/s/4kJXBm7ojaTH6okLOFC7pA)
-+ [joyplot：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](http://mp.weixin.qq.com/s/QWd-Np2R7W28OcTN6W-_6A)
-+ [再见joyplot](http://mp.weixin.qq.com/s/3qx0JhJ1Q7D6QEZ19ibtRA)
++ [Q-Q plot](https://mp.weixin.qq.com/s/WTHuFlHOL8MHeizY8dh3_w)
 + [邪恶的曲线](http://mp.weixin.qq.com/s/AJ3IXCuXTOaWROc-TOjKww)
 + [draw batman logo](http://mp.weixin.qq.com/s/t_jpFpj99-DLz-iUdyhosw)
 + [什么！你的图上有一双看不见的手](http://mp.weixin.qq.com/s/8bzkJY1zzNc83iBUq4Fy1w)
@@ -234,6 +241,11 @@
 + [按地理位置分面](http://mp.weixin.qq.com/s/6Cqes8F4UF2Zsi722E3WvA)
 + [ggplot2分面之像素艺术](http://mp.weixin.qq.com/s/uK-9ql7XXe_RlM2K24hyDw)
 
+### ggridges
+
++ [joyplot：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](http://mp.weixin.qq.com/s/QWd-Np2R7W28OcTN6W-_6A)
++ [再见joyplot](http://mp.weixin.qq.com/s/3qx0JhJ1Q7D6QEZ19ibtRA)
+
 
 ## 统计
 
@@ -242,10 +254,10 @@
 + [富集基因之注释缺失](http://mp.weixin.qq.com/s/awieqE2LAk7YKZNkNQr9VQ)
 + [落入窠臼](http://mp.weixin.qq.com/s/lRrlgQizYw_npMuL5ij8Jg)
 + [你昨天才做的分析，可能是几年前的结果！](http://mp.weixin.qq.com/s/miGQs6U1d3aHwcm7vgNCVw)
-+ [掐架的额外收获x](https://mp.weixin.qq.com/s/EJFtbEq6nJJALCa8BQWgSA)
++ [掐架的额外收获](https://mp.weixin.qq.com/s/EJFtbEq6nJJALCa8BQWgSA)
 + [boxplot](http://mp.weixin.qq.com/s/kk3M1eoVhCiYmyu92P0zwA)
 + [如何告别单身](http://mp.weixin.qq.com/s/2j9VRgar5ExSma6B7Yc3dw)
-
++ [主成分分析](https://mp.weixin.qq.com/s/hPLlBAoN94TcyM-lP6jKCQ)
 
 ## 生物
 
@@ -265,6 +277,8 @@
 + [s02 - Transcribing DNA into RNA](http://mp.weixin.qq.com/s/rvjM52rHDMe29aPFONJgtw)
 + [s03 - Complementing a Strand of DNA](http://mp.weixin.qq.com/s/MjIjwEfJyQncrQTTjWWxgg)
 + [s04 - Computing GC Content](http://mp.weixin.qq.com/s/X9K7fqRqlg6ty4wAE7NwQQ)
++ [s05 - Finding a Motif in DNA](https://mp.weixin.qq.com/s/vaF2WznQAImyOxTlY04UJA)
++ [s06 - Consensus and Profile](https://mp.weixin.qq.com/s/_cEZzxiZY5GIRa0d_MhnYA)
 
 ## 算法
 
@@ -283,6 +297,8 @@
 + [再不用担心打不开sci-hub了](https://mp.weixin.qq.com/s/5JGC1bcVZOmdaPxo_uXYYw)
 + [听说你也在读文献](https://mp.weixin.qq.com/s/AGQn7Lfn_nHHrtVQyJSTmg)
 + [什么？杂志要求图片要300dpi的TIFF，还限制了文件大小，臣妾做不到啊](http://mp.weixin.qq.com/s/8cUADsfjJqKKbLEGVdA3gw)
++ [csvtk - 跨平台、高效、实用的CSV/TSV命令行工具](https://mp.weixin.qq.com/s/NCqJInsvfmc5FEvnijrjYw)
++ [bioSyntax:针对生物数据的语法高亮](https://mp.weixin.qq.com/s/Qm81KlOK4yyFahqs7rL7Ww)
 
 
 ## 抄袭系列
