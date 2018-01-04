@@ -12,6 +12,10 @@
     - <http://evomics.org/learning/bioinformatics/>
 + <http://bedford.io/>
 
+### Phylodynamics
+
++ <https://github.com/sdwfrost/exploratory-phylodynamics>
+
 ## Ordination Methods
 
 + <http://ordination.okstate.edu/>
