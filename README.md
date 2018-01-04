@@ -10,6 +10,7 @@
 + <https://github.com/simjoly/CourseComparativeMethods>
 + <http://evomics.org/learning/>
     - <http://evomics.org/learning/bioinformatics/>
++ <http://bedford.io/>
 
 ## Ordination Methods
 
