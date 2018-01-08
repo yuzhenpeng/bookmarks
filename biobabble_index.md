@@ -1,4 +1,4 @@
-> 更新于2017-12-28
+> 更新于2018-01-07
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -155,7 +155,7 @@
 
 + [[GOSemSim]: 跨物种计算基因相似性](http://mp.weixin.qq.com/s/xI4t0M2HDdgctaoq-Def5Q)
 + [GOSemSim：GO语义相似性度量](https://mp.weixin.qq.com/s/FTzgf1JHXAhDta2u-cDksQ)
-
++ [基因或蛋白之间，谁是谁的死党？](http://mp.weixin.qq.com/s/_Wt_GmC8yjcvEdXBNRUQTw)
 
 ## hexSticker
 
@@ -167,6 +167,8 @@
 
 + [用R画meme ;)](http://mp.weixin.qq.com/s/jDXjkrkq_YVhW-Z5Vx2-Fg)
 + [使用外部字体画meme](https://mp.weixin.qq.com/s/4b8enFCd_lLt278Ddxp3rg)
++ [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
+
 
 ## scatterpie
 
@@ -350,7 +352,7 @@
 + [真爱是什么？](http://mp.weixin.qq.com/s/krcSjt6UTg1cIlFiBasbJw)
 + [纯代码生成banner](http://mp.weixin.qq.com/s/bnWtD7buxDTj9Gsuv5ilRw)
 + [biobabble公众号文章目录-2017.10.01版本](http://mp.weixin.qq.com/s/rcG6fmJVjRwI9mTanC-wDg)
-
++ [爱要高声喊出来](http://mp.weixin.qq.com/s/Els_-ZxTSt71fPAMbVFCAg)
 
 
 
@@ -376,6 +378,7 @@
 + [博士养成记](http://mp.weixin.qq.com/s/81IQghBHUfqS1934yUAsCw)
 + [IBW2011](http://mp.weixin.qq.com/s/eQGKlUY9ncdirAXrIwDY-g)
 + [博士版2048](http://mp.weixin.qq.com/s/wmuiQHSqANI9sDJrhRGKXg)
++ [自动玩微信小游戏跳一跳](http://mp.weixin.qq.com/s/xSG59fWC201Kx5Bx9i3KmQ)
 + [3D版邪恶的曲线](http://mp.weixin.qq.com/s/YN4GYWZkKA7eIgQcCdgqtQ)
 + [8天假期应该这样度过！](http://mp.weixin.qq.com/s/s-itSHOzq_PF2ywgsR2GAw)
 + [假期如何假装我们还在工作？](http://mp.weixin.qq.com/s/zt2Xkj_VBRPkzwl3dzfimw)
