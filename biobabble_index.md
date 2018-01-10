@@ -78,8 +78,6 @@
 + [enrichment map](http://mp.weixin.qq.com/s/D3beTxF7cjUGLRsht4Q6SQ)
 + [joyplot：GSEA的结果也能快乐起来](https://mp.weixin.qq.com/s/sQ-vq5qJQek7XQ3yYD7XOg)
 + [gseaplot自定义颜色](http://mp.weixin.qq.com/s/hZHkNZq5NbwZ4d9FX7VoTw)
-+ [听说你还不会画热图](http://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
-
 
 
 ## emojifont
@@ -200,8 +198,11 @@
 
 + [怀疑人生！我不欠你们钱，好吗？](http://mp.weixin.qq.com/s/vB7mJG9FQYXsYZh9Bcp0_g)
 + [同一数据多变量分组的boxplot?](http://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
++ [听说你还不会画热图](http://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
 + [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
 + [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
+
+
 
 ## R
 
