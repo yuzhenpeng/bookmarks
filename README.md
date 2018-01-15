@@ -46,3 +46,6 @@
 + [Reproducible Research in Ecology, Evolution, Behaviour, and Environmental Studies](https://github.com/opetchey/RREEBES)
 
 
+## Puzzle
+
++ [Advent of Code](https://adventofcode.com/)
