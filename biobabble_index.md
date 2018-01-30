@@ -1,4 +1,4 @@
-> 更新于2018-01-07
+> 更新于2018-01-29
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -20,6 +20,7 @@
 	- [yyplot](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#yyplot)
 + [知识星球系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#知识星球系列)
 + [R](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#r)
++ [R包介绍](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#R包介绍)
 + [ggplot2](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggplot2)
 	- [ggfacet](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggfacet)
 	- [ggridges](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggridges)
@@ -28,7 +29,9 @@
 + [生物](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%94%9F%E7%89%A9)
 + [ROSALIND](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#rosalind)
 + [神器系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%A5%9E%E5%99%A8%E7%B3%BB%E5%88%97)
-+ [抄袭系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E6%8A%84%E8%A2%AD%E7%B3%BB%E5%88%97)
+	- [Sci-Hub](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#sci-hub)
++ [学术八卦](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#学术八卦)
+	- [抄袭系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E6%8A%84%E8%A2%AD%E7%B3%BB%E5%88%97)
 + [操作系统](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 + [公众号](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E5%85%AC%E4%BC%97%E5%8F%B7)
 + [C++](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#c)
@@ -57,7 +60,6 @@
 + [buildGOmap](http://mp.weixin.qq.com/s/-DHe6rcBEY9gyU_Fo7qh8w)
 + [非模式基因GO富集分析：以玉米为例+使用OrgDb](https://mp.weixin.qq.com/s/lHKZtzpN2k9uPN7e6HjH3w)
 + [水稻如何做KEGG富集分析](https://mp.weixin.qq.com/s/UnUPVoaMpfJWCQEpkmdTWA)
-+ [dotplot展示富集分析结果](https://mp.weixin.qq.com/s/KzcnIH88d4E41Ybvr_76zA)
 + [为什么画出来的点比指定的数目要多？](https://mp.weixin.qq.com/s/VW4LvtQqXumrs6SMvwGgvQ)
 + [ko数据库ID转换](http://mp.weixin.qq.com/s/jhEVWW33LBf6VlmfGBkT3g)
 + [听说你的KEGG分析有大量的基因没注释](https://mp.weixin.qq.com/s/-zahrNFeTvhRTCn7J2YjUQ)
@@ -74,6 +76,7 @@
 
 + [搞大你的点，让我们画真正的气泡图](https://mp.weixin.qq.com/s/JNIncz3W-59yjGk2ibJWUw)
 + [听说你也在画dotplot，但是我不服！](https://mp.weixin.qq.com/s/bloMPypAkQ3Ovlh406M-FQ)
++ [dotplot展示富集分析结果](https://mp.weixin.qq.com/s/KzcnIH88d4E41Ybvr_76zA)
 + [dotplot for GSEA](https://mp.weixin.qq.com/s/JLon7oaddmTpsMzL03OJIA)
 + [enrichment map](http://mp.weixin.qq.com/s/D3beTxF7cjUGLRsht4Q6SQ)
 + [joyplot：GSEA的结果也能快乐起来](https://mp.weixin.qq.com/s/sQ-vq5qJQek7XQ3yYD7XOg)
@@ -130,6 +133,7 @@
 + [facet_plot: 关联数据和进化树的通用方法](http://mp.weixin.qq.com/s/FlrnY9GeV5fHa6EZpZhTJA)
 + [漫画版的进化树你见过吗？](http://mp.weixin.qq.com/s/P7yUFLwW4OLGBrPw05iQ_A)
 + [取子集画图](http://mp.weixin.qq.com/s/JXpakSKqPPRHhcyQQVdoGA)
++ [Y叔不想养蛙，只想养你！](https://mp.weixin.qq.com/s/S5K9HwgCC2LtUJsnKBx0Yg)
 
 ### 直播
 
@@ -193,6 +197,9 @@
 + [映射变量给axis上色](https://mp.weixin.qq.com/s/1bJe7VPZ2qbBRSaONXvxKA)
 + [pubmed年度趋势，你的开题报告需要它！](https://mp.weixin.qq.com/s/YaDxF4ZUISWlUR_7bQnbSQ)
 + [130岁了，祝你生快](https://mp.weixin.qq.com/s/Iqcqo5YTy1qmXdsuIrlrYQ)
++ [画个小圈圈](https://mp.weixin.qq.com/s/8kqTVSDjuHpivGaim6ukNg)
++ [ggplot扩展学习笔记--逐行解析Y叔的"geom_ord_ellipse.R"](https://mp.weixin.qq.com/s/_XH6u2hPv_JJi_MbGbeoHA)
+
 
 ## 知识星球系列
 
@@ -206,23 +213,29 @@
 
 ## R
 
-+ [食色性也](https://mp.weixin.qq.com/s/wLMGkmHKlYZ_Sg0sZCwlCQ)
-+ [prettyB: 美化B](https://mp.weixin.qq.com/s/4luzn-3ovOR8esblf5edeg)
-+ [R包辣鸡之CorMut](https://mp.weixin.qq.com/s/JODhkZ5-qPMDx1zrWHyW_w)
-+ [来自R的桌面提醒](http://mp.weixin.qq.com/s/MuPCMV__XIgAgmz-9HxM0Q)
-+ [有魔性的图来一发](http://mp.weixin.qq.com/s/cu7J62fVQ74vaOYuRXUmqA)
+
 + [听说你想学R？](https://mp.weixin.qq.com/s/9jQQlLRpWL01K2Py8CsnNw)
 + [R语言的最好资源，一个就够！](https://mp.weixin.qq.com/s/gVzjoYRB4vfq_8TMy3F8TA)
 + [我在MSnbase里做了什么？](http://mp.weixin.qq.com/s/9pS9w7tHhlV8zlqxd8jImA)
-+ [clifun: 在R里装装逼](https://mp.weixin.qq.com/s/4DojzE5Vfmkm80u2MygNcQ)
-+ [Update R packages](http://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
 + [无中生有windows版R包](http://mp.weixin.qq.com/s/VoWEamFLK6ktiMOdDj0bEA)
 + [R binary is untrustable](http://mp.weixin.qq.com/s/oevSP-AvpkaRxxlIlVkuoQ)
 + [R kernel in Jupyter notebook 3](http://mp.weixin.qq.com/s/gabXNyiCPHfQwx7L4tsJVQ)
 + [你所不知道的，R的N种打开方式](http://mp.weixin.qq.com/s/BsEm76Eq9_tbw3myobD_SA)
 + [R，python喊你回家吃饭啦](http://mp.weixin.qq.com/s/WX4bHl8a-BKEKp4Dp3KFag)
-+ [一个要复活的R包和一个404的网站](https://mp.weixin.qq.com/s/kBnLyNl2anXuMa6sDepRQw)
++ [R里的赋值符号？](https://mp.weixin.qq.com/s/46uWLy9r8_9wJxxETcGFeg)
++ [R的诡异事件](https://mp.weixin.qq.com/s/nt3siXtdTGKQfTBt_vhf_g)
 
+### R包介绍
++ [食色性也](https://mp.weixin.qq.com/s/wLMGkmHKlYZ_Sg0sZCwlCQ)
++ [prettyB: 美化B](https://mp.weixin.qq.com/s/4luzn-3ovOR8esblf5edeg)
++ [R包辣鸡之CorMut](https://mp.weixin.qq.com/s/JODhkZ5-qPMDx1zrWHyW_w)
++ [来自R的桌面提醒](http://mp.weixin.qq.com/s/MuPCMV__XIgAgmz-9HxM0Q)
++ [有魔性的图来一发](http://mp.weixin.qq.com/s/cu7J62fVQ74vaOYuRXUmqA)
++ [用R画一只恐龙？](https://mp.weixin.qq.com/s/2dJnJYgb6K7sT89-ECi7SA)
++ [basicTrendline：CRAN最新发布的线性非线性拟合的R函数包介绍](https://mp.weixin.qq.com/s/p38EPM6rV0gmwOj5FpBf4A)
++ [clifun: 在R里装装逼](https://mp.weixin.qq.com/s/4DojzE5Vfmkm80u2MygNcQ)
++ [Update R packages](http://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
++ [一个要复活的R包和一个404的网站](https://mp.weixin.qq.com/s/kBnLyNl2anXuMa6sDepRQw)
 
 ## ggplot2
 
@@ -261,6 +274,8 @@
 + [boxplot](http://mp.weixin.qq.com/s/kk3M1eoVhCiYmyu92P0zwA)
 + [如何告别单身](http://mp.weixin.qq.com/s/2j9VRgar5ExSma6B7Yc3dw)
 + [主成分分析](https://mp.weixin.qq.com/s/hPLlBAoN94TcyM-lP6jKCQ)
++ [一文解决RT-PCR的统计分析](https://mp.weixin.qq.com/s/URpIfwGLCzm30Ao9-_StJA)
+
 
 ## 生物
 
@@ -271,7 +286,9 @@
 + [搭建本地blast](http://mp.weixin.qq.com/s/Pwp5XradVRx3iE5ueStEqg)
 + [blast一大坑：无法输出query sequence title](http://mp.weixin.qq.com/s/RyYbZs3tJNQQYYYWaeVsqw)
 + [简简单单讲insertion size](http://mp.weixin.qq.com/s/JiCn5m0E2afBR27ryRYYRQ)
-
++ [pubmed停更？和你没半毛钱关系！你们是想放假想疯了吧？](https://mp.weixin.qq.com/s/VfLmahpFqdmXfwId-d_BWQ)
++ [实锤-PubMed没有停更](https://mp.weixin.qq.com/s/fQ1VpiaXmLo8xbGnTJYviw)
++ [如何用bioconductor进行注释](https://mp.weixin.qq.com/s/tT225Z1yiopUtXibwuuaJQ)
 
 
 ## ROSALIND
@@ -296,15 +313,26 @@
 + [如何获取文献](https://mp.weixin.qq.com/s/TMmsOsEn0wV9yXKOLma3Rw)
 + [在这个看脸（哦不对，看图）的时代，做科研的你怎么能错过这个帮你找一张漂亮脸蛋的神器！](http://mp.weixin.qq.com/s/7S_Iw331JRrAp7ZnDScf4A)
 + [什么？听说你有文章却不知道该往那里投！](http://mp.weixin.qq.com/s/tS_rUyPZfcB7CUfR_2LysA)
-+ [sci-hub如果挂了，你还有神器下文献吗？](http://mp.weixin.qq.com/s/aaIby87LSQgxpvCAECFxkw)
-+ [再不用担心打不开sci-hub了](https://mp.weixin.qq.com/s/5JGC1bcVZOmdaPxo_uXYYw)
 + [听说你也在读文献](https://mp.weixin.qq.com/s/AGQn7Lfn_nHHrtVQyJSTmg)
 + [什么？杂志要求图片要300dpi的TIFF，还限制了文件大小，臣妾做不到啊](http://mp.weixin.qq.com/s/8cUADsfjJqKKbLEGVdA3gw)
 + [csvtk - 跨平台、高效、实用的CSV/TSV命令行工具](https://mp.weixin.qq.com/s/NCqJInsvfmc5FEvnijrjYw)
 + [bioSyntax:针对生物数据的语法高亮](https://mp.weixin.qq.com/s/Qm81KlOK4yyFahqs7rL7Ww)
 
+### Sci-Hub
 
-## 抄袭系列
++ [sci-hub如果挂了，你还有神器下文献吗？](http://mp.weixin.qq.com/s/aaIby87LSQgxpvCAECFxkw)
++ [再不用担心打不开sci-hub了](https://mp.weixin.qq.com/s/5JGC1bcVZOmdaPxo_uXYYw)
++ [2018最新可用的sci-hub镜像+桌面版程序](https://mp.weixin.qq.com/s/RK1CYEboiEDzapdHsiwEGg)
++ [独家：SciHub苹果桌面版](https://mp.weixin.qq.com/s/u5ssgN1SVDTPzsQVPZ-QNg)
+
+
+## 学术八卦
+
++ [我被oncotarget撞了腰的不传奇故事](https://mp.weixin.qq.com/s/5QlVVt_0ytMTJww9eGjt9Q)
++ [科研人员必备特性：拖！拖！拖！](http://mp.weixin.qq.com/s/35grHvrs_L9_Es1oP2sLqQ)
++ [学术朋友圈这一波刷屏的狗粮](https://mp.weixin.qq.com/s/Il2ri0wbPUPe9mb34boEgQ)
+
+### 抄袭系列
 
 + [[连载1]：学术期刊的学术不端，你见过吗？](http://mp.weixin.qq.com/s/F2k8iAawh6eK7P1pPu6ceQ)
 + [[连载2]：Editor你的心不会痛吗？](http://mp.weixin.qq.com/s/GEbaP79ph9Ym4rFLs2CTAA)
@@ -316,6 +344,7 @@
 + [大学教授力挺抄袭，强行洗地到裤衩都不要了，到底图什么？](http://mp.weixin.qq.com/s/sutzmqaE4BkMQh5ESEBgOA)
 + [关于重用代码与文章抄袭](http://mp.weixin.qq.com/s/v0i9piwWCL3_XU6SoNDsqw)
 + [虐狗节来看一下这个裤衩都不要的故事](http://mp.weixin.qq.com/s/kXyVYfnBLQ0m4HPF_ugR_w)
+
 
 ## 操作系统
 
@@ -354,6 +383,8 @@
 + [纯代码生成banner](http://mp.weixin.qq.com/s/bnWtD7buxDTj9Gsuv5ilRw)
 + [biobabble公众号文章目录-2017.10.01版本](http://mp.weixin.qq.com/s/rcG6fmJVjRwI9mTanC-wDg)
 + [爱要高声喊出来](http://mp.weixin.qq.com/s/Els_-ZxTSt71fPAMbVFCAg)
++ [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
+
 
 
 
@@ -372,9 +403,9 @@
 
 + [how to bug author](http://mp.weixin.qq.com/s/fvCsdNVl87PtKuGXmcikDw)
 + [auto-complete in ESS](http://mp.weixin.qq.com/s/EvQVp283RZlT3Wz69kKRAw)
-+ [科研人员必备特性：拖！拖！拖！](http://mp.weixin.qq.com/s/35grHvrs_L9_Es1oP2sLqQ)
 + [中国人民的翻墙情结](http://mp.weixin.qq.com/s/d56oJ8CviQGieJpv3eb8wQ)
 + [中国人民的翻墙情结(搭梯版)](http://mp.weixin.qq.com/s/b6xyVv-HjQQSn0pq7ILQzw)
++ [港大福利：无限量google drive](https://mp.weixin.qq.com/s/7q7_OtG2E5eUUUP1dorfvw)
 + [来香港读博其实是被逼的](https://mp.weixin.qq.com/s/LzwSAYT7yyYTMrNnck9KCg)
 + [博士养成记](http://mp.weixin.qq.com/s/81IQghBHUfqS1934yUAsCw)
 + [IBW2011](http://mp.weixin.qq.com/s/eQGKlUY9ncdirAXrIwDY-g)
@@ -386,4 +417,8 @@
 + [诺贝尔奖游戏](http://mp.weixin.qq.com/s/Gw5REFxJ2ZthBtScm15Jcw)
 + [请用事实怼我 -,-](http://mp.weixin.qq.com/s/M_0kIsE7A-vxMEusBtzJow)
 + [老板，我需要一部iPhone X来做科研！](https://mp.weixin.qq.com/s/4I08BkntXkGArOy4gscchg)
+
+
+
+
 
