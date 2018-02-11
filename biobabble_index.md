@@ -226,6 +226,7 @@
 + [R的诡异事件](https://mp.weixin.qq.com/s/nt3siXtdTGKQfTBt_vhf_g)
 
 ### R包介绍
+
 + [食色性也](https://mp.weixin.qq.com/s/wLMGkmHKlYZ_Sg0sZCwlCQ)
 + [prettyB: 美化B](https://mp.weixin.qq.com/s/4luzn-3ovOR8esblf5edeg)
 + [R包辣鸡之CorMut](https://mp.weixin.qq.com/s/JODhkZ5-qPMDx1zrWHyW_w)

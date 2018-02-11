@@ -12,10 +12,14 @@
     - <http://evomics.org/learning/bioinformatics/>
 + <http://bedford.io/>
 
-### Phylodynamics
+### Phylogenetics
 
++ <https://github.com/Don86/practical-pathogen-phylogenetics>
 + <https://github.com/Phylogenetics-Brown-BIOL1425/phylogeneticbiology>
 + <https://github.com/sdwfrost/exploratory-phylodynamics>
++ <http://epicscotland.github.io/PhylodynamicDataSets/index.html>
++ <https://github.com/emvolz-phylodynamics/ebola2014-practical>
+
 
 ## Ordination Methods
 
@@ -46,6 +50,13 @@
 
 + [Reproducible Research in Ecology, Evolution, Behaviour, and Environmental Studies](https://github.com/opetchey/RREEBES)
 
+### Reproducible Research
+
++ Combining gene mutation with gene expression data improves outcome prediction
+  in myelodysplastic syndromes
+  - <https://www.ncbi.nlm.nih.gov/pubmed/25574665>
+  - <https://github.com/gerstung-lab/MDS-expression>
+  
 
 ## Puzzle
 
