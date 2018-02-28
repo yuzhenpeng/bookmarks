@@ -1,11 +1,12 @@
-> 更新于2018-02-23
+> 更新于2018-02-28
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
-
 
 + **Y叔R包系列**
 	- [ChIPseeker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#chipseeker)
 	- [clusterProfiler](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#clusterprofiler)
+	 	- [GO](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#go)
+	  	- [KEGG](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#kegg)
 	- [DOSE](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#dose)
 	- [emojifont](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#emojifont)
 	- [ggimage](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggimage)
@@ -14,6 +15,8 @@
 		- [用户笔记](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%94%A8%E6%88%B7%E7%AC%94%E8%AE%B0)
 	- [GOSemSim](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#gosemsim)
 	- [hexSticker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#hexsticker)
+	- [meme](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#meme)
+	- [meshes](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#meshes)
 	- [scatterpie](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#scatterpie)
 	- [seqcombo](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#seqcombo)
 	- [treeio](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#treeio)
@@ -57,19 +60,26 @@
 + [富集分析](http://mp.weixin.qq.com/s/PVJj2o86MT_FvacOi_NGhA)
 + [clusterProfiler for enrichment analysis](http://mp.weixin.qq.com/s/ScwaofLd_ybfECYjL1dGow)
 + [why clusterProfiler fails](http://mp.weixin.qq.com/s/bxzWQa02b_mXSi5Y0vSCiA)
-+ [buildGOmap](http://mp.weixin.qq.com/s/-DHe6rcBEY9gyU_Fo7qh8w)
-+ [非模式基因GO富集分析：以玉米为例+使用OrgDb](https://mp.weixin.qq.com/s/lHKZtzpN2k9uPN7e6HjH3w)
-+ [水稻如何做KEGG富集分析](https://mp.weixin.qq.com/s/UnUPVoaMpfJWCQEpkmdTWA)
 + [为什么画出来的点比指定的数目要多？](https://mp.weixin.qq.com/s/VW4LvtQqXumrs6SMvwGgvQ)
-+ [ko数据库ID转换](http://mp.weixin.qq.com/s/jhEVWW33LBf6VlmfGBkT3g)
-+ [听说你的KEGG分析有大量的基因没注释](https://mp.weixin.qq.com/s/-zahrNFeTvhRTCn7J2YjUQ)
-+ [enrichGO出不来结果？没结果也是正确的结果](https://mp.weixin.qq.com/s/6i4HSPT5ac4cr2ol4pLIHw)
 + [DAVID分析结果转为enrichResult](http://mp.weixin.qq.com/s/lRhKPow1YTixpdq_fxMN0w)
 + [DAVID functional analysis with clusterProfiler](http://mp.weixin.qq.com/s/-uFDvuDyU_BE1cPGFZuC8w)
 + [enrichDAVID支持自定义背景](http://mp.weixin.qq.com/s/PHhXlNvpnGG5dT1e8NgSbg)
 + [SCIENCE文章用了DAVID被吐槽](http://mp.weixin.qq.com/s/9M3lprc3rL6XII3ffpDHAw)
 + [Comparison of clusterProfiler and GSEA-P](http://mp.weixin.qq.com/s/Q5aovZPfouw8_cIn2kWe1A)
 + [听说你有RNAseq数据却不知道怎么跑GSEA](http://mp.weixin.qq.com/s/aht5fQ10nH_07CYttKFH7Q)
+
+### GO
+
++ [buildGOmap](http://mp.weixin.qq.com/s/-DHe6rcBEY9gyU_Fo7qh8w)
++ [非模式基因GO富集分析：以玉米为例+使用OrgDb](https://mp.weixin.qq.com/s/lHKZtzpN2k9uPN7e6HjH3w)
++ [enrichGO出不来结果？没结果也是正确的结果](https://mp.weixin.qq.com/s/6i4HSPT5ac4cr2ol4pLIHw)
+
+### KEGG
+
++ [ko数据库ID转换](http://mp.weixin.qq.com/s/jhEVWW33LBf6VlmfGBkT3g)
++ [听说你的KEGG分析有大量的基因没注释](https://mp.weixin.qq.com/s/-zahrNFeTvhRTCn7J2YjUQ)
++ [水稻如何做KEGG富集分析](https://mp.weixin.qq.com/s/UnUPVoaMpfJWCQEpkmdTWA)
++ [使用新姿势玩KEGG，是种什么体验...](https://mp.weixin.qq.com/s/17ujVhcrkX1DLsUJBtUGEw)
 
 
 ## DOSE
@@ -119,6 +129,7 @@
 + [用ggtree重现Figtree的示例进化树](http://mp.weixin.qq.com/s/3Fc83au6gV5p6ZdlzlAC2w)
 + [ggtree for microbiome data](http://mp.weixin.qq.com/s/KScSppwajYsuHuf1w3bQTQ)
 + [用户数据注释进化树](http://mp.weixin.qq.com/s/ClTWsdyIYyHeNN0enwlglw)
++ [改变outgroup的枝长](https://mp.weixin.qq.com/s/d2sLLmuMTXLZNfQbWtKUxg)
 + [使用自己的数据来给进化树上色](http://mp.weixin.qq.com/s/8ryU-3HjMvE7RFgo4rQ3Ew)
 + [bootstrap分段标记](http://mp.weixin.qq.com/s/7dq1br8LCY5jAtQDm1bXPg)
 + [ggtree中标记树分支？](http://mp.weixin.qq.com/s/nlAGbHMJ2tBEaaBxCQC13A)
@@ -172,6 +183,10 @@
 + [使用外部字体画meme](https://mp.weixin.qq.com/s/4b8enFCd_lLt278Ddxp3rg)
 + [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
 
+## meshes
+
++ [using meshes for MeSH Enrichment Analysis](https://mp.weixin.qq.com/s/NzXxCZBYXuZm7eEC_QRJyQ)
+
 
 ## scatterpie
 
@@ -209,7 +224,7 @@
 + [听说你还不会画热图](http://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
 + [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
 + [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
-
++ [美化base plot](http://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
 
 
 ## R
@@ -229,7 +244,6 @@
 ### R包介绍
 
 + [食色性也](https://mp.weixin.qq.com/s/wLMGkmHKlYZ_Sg0sZCwlCQ)
-+ [美化base plot](http://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
 + [R包辣鸡之CorMut](https://mp.weixin.qq.com/s/JODhkZ5-qPMDx1zrWHyW_w)
 + [来自R的桌面提醒](http://mp.weixin.qq.com/s/MuPCMV__XIgAgmz-9HxM0Q)
 + [有魔性的图来一发](http://mp.weixin.qq.com/s/cu7J62fVQ74vaOYuRXUmqA)
@@ -242,7 +256,7 @@
 ## ggplot2
 
 + [Use ggplot2](http://mp.weixin.qq.com/s/oLgpTGdQgcka-OD757_3lA)
-+ [ggplot2作图5招：《R入门25个菜谱》中所有图片的ggplot2版本](http://mp.weixin.qq.com/s/9F_yPk1AJXBFVhMJpezTPw)
++ [ggplot2作图25招：《R入门25个菜谱》中所有图片的ggplot2版本](http://mp.weixin.qq.com/s/9F_yPk1AJXBFVhMJpezTPw)
 + [ggplot2字体溢出的那点破事](http://mp.weixin.qq.com/s/BTBP_snTRKrjmRCjF6Cp3A)
 + [wrapping labels in ggplot2](https://mp.weixin.qq.com/s/AsXtK8wpr5UitCug5UQwBA)
 + [根据GTF画基因的多个转录本结构](http://mp.weixin.qq.com/s/UySUZRIpfX0VhNqveTPHwQ)
@@ -327,6 +341,7 @@
 + [2018最新可用的sci-hub镜像+桌面版程序](https://mp.weixin.qq.com/s/RK1CYEboiEDzapdHsiwEGg)
 + [独家：SciHub苹果桌面版](https://mp.weixin.qq.com/s/u5ssgN1SVDTPzsQVPZ-QNg)
 + [关于scihub，一文就够了](http://mp.weixin.qq.com/s/Nf3XNB_oZCBubU89Zd3MaA)
++ [Library Genesis：堪比Sci-Hub的免费文献下载网站](http://mp.weixin.qq.com/s/UXFRFmhxwYP6tz7xpM6FDw)
 
 ## 学术八卦
 
