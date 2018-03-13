@@ -181,7 +181,7 @@
 
 + [用R画meme ;)](http://mp.weixin.qq.com/s/jDXjkrkq_YVhW-Z5Vx2-Fg)
 + [使用外部字体画meme](https://mp.weixin.qq.com/s/4b8enFCd_lLt278Ddxp3rg)
-+ [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
+
 
 ## meshes
 
@@ -226,6 +226,8 @@
 + [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
 + [美化base plot](http://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
 + [用par设置ggplot2参数？这个可以有！](https://mp.weixin.qq.com/s/iyKsEnY17DsRFWZcDJn-lw)
++ [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
+
 
 ## R
 
