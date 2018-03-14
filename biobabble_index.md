@@ -1,4 +1,4 @@
-> 更新于2018-03-08
+> 更新于2018-03-14
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -9,6 +9,7 @@
 	  	- [KEGG](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#kegg)
 	- [DOSE](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#dose)
 	- [emojifont](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#emojifont)
+	- [enrichplot](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#enrichplot)
 	- [ggimage](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggimage)
 	- [ggtree](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggtree)
 		- [直播](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%9B%B4%E6%92%AD)
@@ -102,6 +103,12 @@
 + [phylomoji：用emoji画进化树](http://mp.weixin.qq.com/s/JxcfuJVT1ySFPphYwSmYSQ)
 + [你所没见过的苹果](http://mp.weixin.qq.com/s/vuFSTrDzxZJJ0A0s-D9eEw)
 + [火鸡全家桶](https://mp.weixin.qq.com/s/Crd5VsNIsmIU0mtyOSgOgg)
+
+## enrichplot
+
++ [enrichplot: 让你们对clusterProfiler系列包无法自拔](https://mp.weixin.qq.com/s/93XIeDF3mUFX0koX6mTRpA)
++ [安装enrichplot及升级clusterProfiler](https://mp.weixin.qq.com/s/CyiIJNwAQkyHQ5OVU9oa7w)
+
 
 ## ggimage
 
@@ -239,7 +246,7 @@
 + [R binary is untrustable](http://mp.weixin.qq.com/s/oevSP-AvpkaRxxlIlVkuoQ)
 + [R kernel in Jupyter notebook 3](http://mp.weixin.qq.com/s/gabXNyiCPHfQwx7L4tsJVQ)
 + [你所不知道的，R的N种打开方式](http://mp.weixin.qq.com/s/BsEm76Eq9_tbw3myobD_SA)
-+ [R，python喊你回家吃饭啦](http://mp.weixin.qq.com/s/WX4bHl8a-BKEKp4Dp3KFag)
++ [R，python喊你回家吃饭啦](https://mp.weixin.qq.com/s/VbMq3ZKMdn0E3wauC4l_hg)
 + [R里的赋值符号？](https://mp.weixin.qq.com/s/46uWLy9r8_9wJxxETcGFeg)
 + [R的诡异事件](https://mp.weixin.qq.com/s/nt3siXtdTGKQfTBt_vhf_g)
 
