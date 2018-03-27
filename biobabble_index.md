@@ -3,21 +3,7 @@
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
 
-## 知识星球系列
-
-+ [怀疑人生！我不欠你们钱，好吗？](http://mp.weixin.qq.com/s/vB7mJG9FQYXsYZh9Bcp0_g)
-+ [同一数据多变量分组的boxplot?](http://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
-+ [听说你还不会画热图](http://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
-+ [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
-+ [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
-+ [美化base plot](http://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
-+ [用par设置ggplot2参数？这个可以有！](https://mp.weixin.qq.com/s/iyKsEnY17DsRFWZcDJn-lw)
-+ [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
-+ [用散点可视化一个矩阵](https://mp.weixin.qq.com/s/0Zn6xUbvwLp039EungxX6w)
-
-
-
-
++ [知识星球系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#知识星球系列)
 + **Y叔R包系列**
 	- [ChIPseeker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#chipseeker)
 	- [clusterProfiler](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#clusterprofiler)
@@ -38,7 +24,6 @@
 	- [seqcombo](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#seqcombo)
 	- [treeio](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#treeio)
 	- [yyplot](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#yyplot)
-+ [知识星球系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#知识星球系列)
 + [R](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#r)
 + [R包介绍](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#R包介绍)
 + [ggplot2](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggplot2)
@@ -56,6 +41,18 @@
 + [公众号](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E5%85%AC%E4%BC%97%E5%8F%B7)
 + [C++](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#c)
 + [MISC](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#misc)
+
+## 知识星球系列
+
++ [怀疑人生！我不欠你们钱，好吗？](http://mp.weixin.qq.com/s/vB7mJG9FQYXsYZh9Bcp0_g)
++ [同一数据多变量分组的boxplot?](http://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
++ [听说你还不会画热图](http://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
++ [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
++ [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
++ [美化base plot](http://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
++ [用par设置ggplot2参数？这个可以有！](https://mp.weixin.qq.com/s/iyKsEnY17DsRFWZcDJn-lw)
++ [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
++ [用散点可视化一个矩阵](https://mp.weixin.qq.com/s/0Zn6xUbvwLp039EungxX6w)
 
 
 ## ChIPseeker
