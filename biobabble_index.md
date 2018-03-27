@@ -1,6 +1,22 @@
-> 更新于2018-03-14
+> 更新于2018-03-27
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
+
+
+## 知识星球系列
+
++ [怀疑人生！我不欠你们钱，好吗？](http://mp.weixin.qq.com/s/vB7mJG9FQYXsYZh9Bcp0_g)
++ [同一数据多变量分组的boxplot?](http://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
++ [听说你还不会画热图](http://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
++ [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
++ [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
++ [美化base plot](http://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
++ [用par设置ggplot2参数？这个可以有！](https://mp.weixin.qq.com/s/iyKsEnY17DsRFWZcDJn-lw)
++ [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
++ [用散点可视化一个矩阵](https://mp.weixin.qq.com/s/0Zn6xUbvwLp039EungxX6w)
+
+
+
 
 + **Y叔R包系列**
 	- [ChIPseeker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#chipseeker)
@@ -224,17 +240,6 @@
 + [ggplot扩展学习笔记--逐行解析Y叔的"geom_ord_ellipse.R"](https://mp.weixin.qq.com/s/_XH6u2hPv_JJi_MbGbeoHA)
 
 
-## 知识星球系列
-
-+ [怀疑人生！我不欠你们钱，好吗？](http://mp.weixin.qq.com/s/vB7mJG9FQYXsYZh9Bcp0_g)
-+ [同一数据多变量分组的boxplot?](http://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
-+ [听说你还不会画热图](http://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
-+ [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
-+ [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
-+ [美化base plot](http://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
-+ [用par设置ggplot2参数？这个可以有！](https://mp.weixin.qq.com/s/iyKsEnY17DsRFWZcDJn-lw)
-+ [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
-
 
 ## R
 
@@ -249,6 +254,8 @@
 + [R，python喊你回家吃饭啦](https://mp.weixin.qq.com/s/VbMq3ZKMdn0E3wauC4l_hg)
 + [R里的赋值符号？](https://mp.weixin.qq.com/s/46uWLy9r8_9wJxxETcGFeg)
 + [R的诡异事件](https://mp.weixin.qq.com/s/nt3siXtdTGKQfTBt_vhf_g)
++ [你的数据被化了妆？](https://mp.weixin.qq.com/s/PF8r-VxZVsJdxrxgn1QqjQ)
+
 
 ### R包介绍
 
@@ -275,7 +282,8 @@
 + [draw batman logo](http://mp.weixin.qq.com/s/t_jpFpj99-DLz-iUdyhosw)
 + [什么！你的图上有一双看不见的手](http://mp.weixin.qq.com/s/8bzkJY1zzNc83iBUq4Fy1w)
 + [坑无处不在，以ggplot2的一个坑为例](https://mp.weixin.qq.com/s/Pi5xK4RCZ3q0Q3MHbFilPw)
-
++ [一条指令把统计+画图都给做了？似乎太美好！](https://mp.weixin.qq.com/s/vV6CiTh7BStXbqoVaklM0w)
++ [画图给点分组?](https://mp.weixin.qq.com/s/R8oqzNw88QGKbsfLyEQC9g)
 
 ### ggfacet
 
@@ -316,6 +324,8 @@
 + [如何用bioconductor进行注释](https://mp.weixin.qq.com/s/tT225Z1yiopUtXibwuuaJQ)
 + [秒杀一切手工画通路的素材](http://mp.weixin.qq.com/s/JsynsVGw8OM-GcizfoNq7Q)
 + [变异会影响转录？SNP影响转录因子结合？RegulomeDB](https://mp.weixin.qq.com/s/WNHSrak7fPUIPUtg3PlO9A)
++ [曾老湿最新私已：GATK4实战教程](https://mp.weixin.qq.com/s/6HMvleAnJKuCcR_yWr5MsA)
+
 
 
 ## ROSALIND
@@ -373,7 +383,7 @@
 + [大学教授力挺抄袭，强行洗地到裤衩都不要了，到底图什么？](http://mp.weixin.qq.com/s/sutzmqaE4BkMQh5ESEBgOA)
 + [关于重用代码与文章抄袭](http://mp.weixin.qq.com/s/v0i9piwWCL3_XU6SoNDsqw)
 + [虐狗节来看一下这个裤衩都不要的故事](http://mp.weixin.qq.com/s/kXyVYfnBLQ0m4HPF_ugR_w)
-
++ [虽然撤稿了，但足以令人心寒！](https://mp.weixin.qq.com/s/5z_TywS80wIyOZ31zs0czA)
 
 ## 操作系统
 
@@ -410,10 +420,10 @@
 + [话题投票](http://mp.weixin.qq.com/s/5DMqX7bLsnvjj7KF4yIyVg)
 + [真爱是什么？](http://mp.weixin.qq.com/s/krcSjt6UTg1cIlFiBasbJw)
 + [纯代码生成banner](http://mp.weixin.qq.com/s/bnWtD7buxDTj9Gsuv5ilRw)
-+ [biobabble公众号文章目录-2017.10.01版本](http://mp.weixin.qq.com/s/rcG6fmJVjRwI9mTanC-wDg)
 + [爱要高声喊出来](http://mp.weixin.qq.com/s/Els_-ZxTSt71fPAMbVFCAg)
 + [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
-
++ [biobabble公众号文章目录-2017.10.01版本](http://mp.weixin.qq.com/s/rcG6fmJVjRwI9mTanC-wDg)
++ [biobabble文章索引-2018.03.19版本](https://mp.weixin.qq.com/s/pvfXpj61_PppkMD4Dua_cg)
 
 
 
@@ -450,7 +460,7 @@
 + [网瘾你好，我是80后，请冲我来](http://mp.weixin.qq.com/s/tN6_Fe0jF2z2WDcjQRJayQ)
 + [一千个伤心的理由](http://mp.weixin.qq.com/s/UblSRGUOhNYTEMPc_mSdsg)
 + [轮到相思没处辞，眉间露一丝](http://mp.weixin.qq.com/s/lSkR9bCaAGRSy7vOfZq9vg)
-
++ [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/jqjRf9cwKAuOLA28Iw5fMA)
 
 
 
