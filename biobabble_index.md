@@ -1,4 +1,4 @@
-> 更新于2018-03-27
+> 更新于2018-04-16
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -94,7 +94,7 @@
 + [听说你的KEGG分析有大量的基因没注释](https://mp.weixin.qq.com/s/-zahrNFeTvhRTCn7J2YjUQ)
 + [水稻如何做KEGG富集分析](https://mp.weixin.qq.com/s/UnUPVoaMpfJWCQEpkmdTWA)
 + [使用新姿势玩KEGG，是种什么体验...](https://mp.weixin.qq.com/s/17ujVhcrkX1DLsUJBtUGEw)
-
++ [利用KEGG数据库进行ID转换](http://mp.weixin.qq.com/s/DorErMerquLuQpUOU0YJew)
 
 ## DOSE
 
@@ -121,7 +121,7 @@
 
 + [enrichplot: 让你们对clusterProfiler系列包无法自拔](https://mp.weixin.qq.com/s/93XIeDF3mUFX0koX6mTRpA)
 + [安装enrichplot及升级clusterProfiler](https://mp.weixin.qq.com/s/CyiIJNwAQkyHQ5OVU9oa7w)
-
++ [dotplot支持使用formula指定x轴变量](http://mp.weixin.qq.com/s/ZebT4OWDSIMoB6_ww2dYUg)
 
 ## ggimage
 
@@ -201,7 +201,7 @@
 
 + [用R画meme ;)](http://mp.weixin.qq.com/s/jDXjkrkq_YVhW-Z5Vx2-Fg)
 + [使用外部字体画meme](https://mp.weixin.qq.com/s/4b8enFCd_lLt278Ddxp3rg)
-
++ [扪心自问，meme几何？](http://mp.weixin.qq.com/s/BPY4dPFrrNrDKccMvax07w)
 
 ## meshes
 
@@ -249,6 +249,7 @@
 + [R kernel in Jupyter notebook 3](http://mp.weixin.qq.com/s/gabXNyiCPHfQwx7L4tsJVQ)
 + [你所不知道的，R的N种打开方式](http://mp.weixin.qq.com/s/BsEm76Eq9_tbw3myobD_SA)
 + [R，python喊你回家吃饭啦](https://mp.weixin.qq.com/s/VbMq3ZKMdn0E3wauC4l_hg)
++ [VSCode里愉快地使用R](http://mp.weixin.qq.com/s/oSZlH-HZQ3uPKSmNmD_5Yg)
 + [R里的赋值符号？](https://mp.weixin.qq.com/s/46uWLy9r8_9wJxxETcGFeg)
 + [R的诡异事件](https://mp.weixin.qq.com/s/nt3siXtdTGKQfTBt_vhf_g)
 + [你的数据被化了妆？](https://mp.weixin.qq.com/s/PF8r-VxZVsJdxrxgn1QqjQ)
@@ -256,7 +257,7 @@
 
 ### R包介绍
 
-+ [食色性也](https://mp.weixin.qq.com/s/wLMGkmHKlYZ_Sg0sZCwlCQ)
++ [食色性也](http://mp.weixin.qq.com/s/ZrS8IQOMSwx9R3006HYryA)
 + [R包辣鸡之CorMut](https://mp.weixin.qq.com/s/JODhkZ5-qPMDx1zrWHyW_w)
 + [来自R的桌面提醒](http://mp.weixin.qq.com/s/MuPCMV__XIgAgmz-9HxM0Q)
 + [有魔性的图来一发](http://mp.weixin.qq.com/s/cu7J62fVQ74vaOYuRXUmqA)
@@ -281,6 +282,8 @@
 + [坑无处不在，以ggplot2的一个坑为例](https://mp.weixin.qq.com/s/Pi5xK4RCZ3q0Q3MHbFilPw)
 + [一条指令把统计+画图都给做了？似乎太美好！](https://mp.weixin.qq.com/s/vV6CiTh7BStXbqoVaklM0w)
 + [画图给点分组?](https://mp.weixin.qq.com/s/R8oqzNw88QGKbsfLyEQC9g)
++ [怎样用HOMER算出的P-value画出CNS级别的泡泡图？](https://mp.weixin.qq.com/s/rn6HL8Yn89Ua1uM8SpwtZw)
+
 
 ### ggfacet
 
@@ -320,6 +323,7 @@
 + [实锤-PubMed没有停更](https://mp.weixin.qq.com/s/fQ1VpiaXmLo8xbGnTJYviw)
 + [如何用bioconductor进行注释](https://mp.weixin.qq.com/s/tT225Z1yiopUtXibwuuaJQ)
 + [秒杀一切手工画通路的素材](http://mp.weixin.qq.com/s/JsynsVGw8OM-GcizfoNq7Q)
++ [我把Nature的Figure画成了蒙娜丽莎](https://mp.weixin.qq.com/s/Gggtmn5SgRdXU7s9PKIo9Q)
 + [变异会影响转录？SNP影响转录因子结合？RegulomeDB](https://mp.weixin.qq.com/s/WNHSrak7fPUIPUtg3PlO9A)
 + [曾老湿最新私已：GATK4实战教程](https://mp.weixin.qq.com/s/6HMvleAnJKuCcR_yWr5MsA)
 
@@ -350,7 +354,7 @@
 + [听说你也在读文献](https://mp.weixin.qq.com/s/AGQn7Lfn_nHHrtVQyJSTmg)
 + [什么？杂志要求图片要300dpi的TIFF，还限制了文件大小，臣妾做不到啊](http://mp.weixin.qq.com/s/8cUADsfjJqKKbLEGVdA3gw)
 + [csvtk - 跨平台、高效、实用的CSV/TSV命令行工具](https://mp.weixin.qq.com/s/NCqJInsvfmc5FEvnijrjYw)
-+ [bioSyntax:针对生物数据的语法高亮](https://mp.weixin.qq.com/s/Qm81KlOK4yyFahqs7rL7Ww)
++ [bioSyntax:针对生物数据的语法高亮](http://mp.weixin.qq.com/s/9sOn0eQ82P7W0WOGvDSEvw)
 
 ### Sci-Hub
 
@@ -361,6 +365,8 @@
 + [关于scihub，一文就够了](https://mp.weixin.qq.com/s/6qmI0MI9vlwvxoXJuVl0sQ)
 + [Library Genesis：堪比Sci-Hub的免费文献下载网站](http://mp.weixin.qq.com/s/UXFRFmhxwYP6tz7xpM6FDw)
 + [Y学术-谷歌学术镜像检索并一键下载文献](https://mp.weixin.qq.com/s/vbI6sKR8yOr956IYm2U90w)
++ [一图告诉你sci-hub有多美好！](http://mp.weixin.qq.com/s/1Y0peNiRjh8WmGO1BJxvOQ)
+
 
 ## 学术八卦
 
@@ -421,7 +427,7 @@
 + [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
 + [biobabble公众号文章目录-2017.10.01版本](http://mp.weixin.qq.com/s/rcG6fmJVjRwI9mTanC-wDg)
 + [biobabble文章索引-2018.03.19版本](https://mp.weixin.qq.com/s/pvfXpj61_PppkMD4Dua_cg)
-
++ [你还能这样关注一个公众号](http://mp.weixin.qq.com/s/Ez_GfQciYnxJyP43u8swqw)
 
 
 ## C++
@@ -447,6 +453,7 @@
 + [博士养成记](http://mp.weixin.qq.com/s/81IQghBHUfqS1934yUAsCw)
 + [IBW2011](http://mp.weixin.qq.com/s/eQGKlUY9ncdirAXrIwDY-g)
 + [博士版2048](http://mp.weixin.qq.com/s/wmuiQHSqANI9sDJrhRGKXg)
++ [滚吧，骚年](http://mp.weixin.qq.com/s/j7AI-5gIwitiJgk1nePZhw)
 + [自动玩微信小游戏跳一跳](http://mp.weixin.qq.com/s/xSG59fWC201Kx5Bx9i3KmQ)
 + [3D版邪恶的曲线](http://mp.weixin.qq.com/s/YN4GYWZkKA7eIgQcCdgqtQ)
 + [8天假期应该这样度过！](http://mp.weixin.qq.com/s/s-itSHOzq_PF2ywgsR2GAw)
@@ -459,5 +466,7 @@
 + [轮到相思没处辞，眉间露一丝](http://mp.weixin.qq.com/s/lSkR9bCaAGRSy7vOfZq9vg)
 + [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/jqjRf9cwKAuOLA28Iw5fMA)
 
+## 每周一图
 
++ [base X ggplot2](http://mp.weixin.qq.com/s/4Qh_fqoA0sF3K98CmM933g)
 
