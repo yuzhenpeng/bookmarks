@@ -1,4 +1,4 @@
-> 更新于2018-04-16
+> 更新于2018-05-01
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -133,6 +133,7 @@
 + [正经的图千篇一律，不正经的叔万里挑一](http://mp.weixin.qq.com/s/KFU7dVF0Z-Uj20VhqATKUQ)
 + [饼图版气泡图](https://mp.weixin.qq.com/s/PH3xZKVZC9NUElbVfD7UpA)
 + [转发5个群，Y叔送你一顶帽子](https://mp.weixin.qq.com/s/EojwBbg0MUWijwGeNIjntg)
++ [用图片当ggplot2画布](https://mp.weixin.qq.com/s/U1yVeRJJVLfT0zLTS-SllA)
 
 
 ## ggtree
@@ -166,6 +167,9 @@
 + [漫画版的进化树你见过吗？](http://mp.weixin.qq.com/s/P7yUFLwW4OLGBrPw05iQ_A)
 + [取子集画图](http://mp.weixin.qq.com/s/JXpakSKqPPRHhcyQQVdoGA)
 + [Y叔不想养蛙，只想养你！](https://mp.weixin.qq.com/s/S5K9HwgCC2LtUJsnKBx0Yg)
++ [交互式探索进化树](https://mp.weixin.qq.com/s/a0XHr8Vfr49tEBYZWoRBxA)
++ [杀花，ggtree引用已经过百](https://mp.weixin.qq.com/s/nR_m0d9m-v2P3b1wL2RFWg)
+
 
 ### 直播
 
@@ -235,6 +239,7 @@
 + [130岁了，祝你生快](https://mp.weixin.qq.com/s/Iqcqo5YTy1qmXdsuIrlrYQ)
 + [画个小圈圈](https://mp.weixin.qq.com/s/8kqTVSDjuHpivGaim6ukNg)
 + [ggplot扩展学习笔记--逐行解析Y叔的"geom_ord_ellipse.R"](https://mp.weixin.qq.com/s/_XH6u2hPv_JJi_MbGbeoHA)
++ [ggplot2版本的维恩图](https://mp.weixin.qq.com/s/zdXXnRfZNiyA4XhmUSL6Fw)
 
 
 
@@ -253,6 +258,8 @@
 + [R里的赋值符号？](https://mp.weixin.qq.com/s/46uWLy9r8_9wJxxETcGFeg)
 + [R的诡异事件](https://mp.weixin.qq.com/s/nt3siXtdTGKQfTBt_vhf_g)
 + [你的数据被化了妆？](https://mp.weixin.qq.com/s/PF8r-VxZVsJdxrxgn1QqjQ)
++ [R-3.5.0发布，又该升级了](https://mp.weixin.qq.com/s/tCIXW6H9v-PbMoPubbqzZQ)
++ [Windows用户如何无痛升级R](https://mp.weixin.qq.com/s/6_L6mlWpEkESIwrToG5Iug)
 
 
 ### R包介绍
@@ -355,6 +362,8 @@
 + [什么？杂志要求图片要300dpi的TIFF，还限制了文件大小，臣妾做不到啊](http://mp.weixin.qq.com/s/8cUADsfjJqKKbLEGVdA3gw)
 + [csvtk - 跨平台、高效、实用的CSV/TSV命令行工具](https://mp.weixin.qq.com/s/NCqJInsvfmc5FEvnijrjYw)
 + [bioSyntax:针对生物数据的语法高亮](http://mp.weixin.qq.com/s/9sOn0eQ82P7W0WOGvDSEvw)
++ [bioView - 一个生信常用文件格式的可读性增强工具](https://mp.weixin.qq.com/s/r64Lre0mggKyHETxDo20bA)
+
 
 ### Sci-Hub
 
@@ -465,8 +474,12 @@
 + [一千个伤心的理由](http://mp.weixin.qq.com/s/UblSRGUOhNYTEMPc_mSdsg)
 + [轮到相思没处辞，眉间露一丝](http://mp.weixin.qq.com/s/lSkR9bCaAGRSy7vOfZq9vg)
 + [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/jqjRf9cwKAuOLA28Iw5fMA)
++ [不为无益之事 何以遣有涯之生](https://mp.weixin.qq.com/s/lmGOvgdc-aFUBCjOGnbW1Q)
+
 
 ## 每周一图
 
++ [每周一图：请你吃碗面吧！](https://mp.weixin.qq.com/s/_iWMpaWXLB5tzGwtbHY0QQ)
 + [base X ggplot2](http://mp.weixin.qq.com/s/4Qh_fqoA0sF3K98CmM933g)
++ [劳动节快乐！](https://mp.weixin.qq.com/s/vRwypLzzPhZDCPxiqYx61g)
 
