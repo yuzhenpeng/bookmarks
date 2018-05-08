@@ -191,7 +191,7 @@
 
 ## GOSemSim
 
-+ [[GOSemSim]: 跨物种计算基因相似性](http://mp.weixin.qq.com/s/xI4t0M2HDdgctaoq-Def5Q)
++ [GOSemSim: 跨物种计算基因相似性](http://mp.weixin.qq.com/s/xI4t0M2HDdgctaoq-Def5Q)
 + [GOSemSim：GO语义相似性度量](https://mp.weixin.qq.com/s/FTzgf1JHXAhDta2u-cDksQ)
 + [基因或蛋白之间，谁是谁的死党？](http://mp.weixin.qq.com/s/_Wt_GmC8yjcvEdXBNRUQTw)
 
