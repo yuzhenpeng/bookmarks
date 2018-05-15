@@ -1,4 +1,4 @@
-#!/usr/local/bin/Rscript
+#!/usr/bin/env Rscript
 
 readLines("biobabble_index.md")-> x
 y = x[grep("weixin", x)]
