@@ -1,4 +1,4 @@
-> 更新于2018-05-01
+> 更新于2018-05-14
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -200,6 +200,8 @@
 + [ggtree hex sticker](https://mp.weixin.qq.com/s/27JYQ2PtUG4QuT9e35se5g)
 + [ggtree hexbin sticker投票结果](https://mp.weixin.qq.com/s/wV45RJ_VB73AcFq0F5FjBw)
 + [一大波贴纸来袭](http://mp.weixin.qq.com/s/wPREI4_FaoqtQUjSE6rnFQ)
++ [就是这么简单，你也能够纯代码生成六角贴！](https://mp.weixin.qq.com/s/bnP2LGjEv8KopLxPtJZfdQ)
+
 
 ## meme
 
@@ -229,6 +231,8 @@
 
 + [树变图，图变树？](http://mp.weixin.qq.com/s/Uhx3l3lKQS88OJ4SHntkNg)
 + [treeio: 进化树基础类和方法](http://mp.weixin.qq.com/s/uhxCqbnssgP_GHVHqANbaQ)
++ [进化树改名](https://mp.weixin.qq.com/s/-v1vklrKRwkEJ0amjVJjJQ)
+
 
 ## yyplot
 
@@ -260,6 +264,8 @@
 + [你的数据被化了妆？](https://mp.weixin.qq.com/s/PF8r-VxZVsJdxrxgn1QqjQ)
 + [R-3.5.0发布，又该升级了](https://mp.weixin.qq.com/s/tCIXW6H9v-PbMoPubbqzZQ)
 + [Windows用户如何无痛升级R](https://mp.weixin.qq.com/s/6_L6mlWpEkESIwrToG5Iug)
++ [逼着老狗学新把戏](https://mp.weixin.qq.com/s/qoOJCP4U50qZ5XfgQCq2kQ)
++ [R的全新IDE](https://mp.weixin.qq.com/s/qCSOMHCs_7x-3uuQR8t9RA)
 
 
 ### R包介绍
@@ -273,6 +279,8 @@
 + [clifun: 在R里装装逼](https://mp.weixin.qq.com/s/4DojzE5Vfmkm80u2MygNcQ)
 + [Update R packages](http://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
 + [一个要复活的R包和一个404的网站](https://mp.weixin.qq.com/s/kBnLyNl2anXuMa6sDepRQw)
++ [mathart：一个富有逼格的R包](https://mp.weixin.qq.com/s/tg2Re5VjBGwV7Xpt0Lb3Rw)
+
 
 ## ggplot2
 
@@ -299,7 +307,7 @@
 
 ### ggridges
 
-+ [joyplot：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](http://mp.weixin.qq.com/s/QWd-Np2R7W28OcTN6W-_6A)
++ [ggridges：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](https://mp.weixin.qq.com/s/TtSuT0d4j80A7NeNIl12Qg)
 + [再见joyplot](http://mp.weixin.qq.com/s/3qx0JhJ1Q7D6QEZ19ibtRA)
 
 
@@ -482,4 +490,5 @@
 + [每周一图：请你吃碗面吧！](https://mp.weixin.qq.com/s/_iWMpaWXLB5tzGwtbHY0QQ)
 + [base X ggplot2](http://mp.weixin.qq.com/s/4Qh_fqoA0sF3K98CmM933g)
 + [劳动节快乐！](https://mp.weixin.qq.com/s/vRwypLzzPhZDCPxiqYx61g)
++ [hello Sue](https://mp.weixin.qq.com/s/L08K9JGxLhvMOql43I6LGg)
 
