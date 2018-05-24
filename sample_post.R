@@ -2,6 +2,7 @@
 
 readLines("biobabble_index.md")-> x
 y = x[grep("weixin", x)]
-res = sample(y, 6)
+res = sample(y, 8)
+cat("----\n")
 cat(paste(res, '\n', collapse=""))
 
