@@ -1,4 +1,4 @@
-> 更新于2018-05-14
+> 更新于2018-05-27
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -53,6 +53,8 @@
 + [用par设置ggplot2参数？这个可以有！](https://mp.weixin.qq.com/s/iyKsEnY17DsRFWZcDJn-lw)
 + [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
 + [用散点可视化一个矩阵](https://mp.weixin.qq.com/s/0Zn6xUbvwLp039EungxX6w)
++ [爆炸型的饼图](https://mp.weixin.qq.com/s/fj9lMJvQov72i__0vj-_DA)
+
 
 
 ## ChIPseeker
@@ -279,6 +281,7 @@
 + [clifun: 在R里装装逼](https://mp.weixin.qq.com/s/4DojzE5Vfmkm80u2MygNcQ)
 + [Update R packages](http://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
 + [一个要复活的R包和一个404的网站](https://mp.weixin.qq.com/s/kBnLyNl2anXuMa6sDepRQw)
++ [自动抓取论文的引用数据](https://mp.weixin.qq.com/s/IBrEOh92r_90DRbGb3XlKg)
 + [mathart：一个富有逼格的R包](https://mp.weixin.qq.com/s/tg2Re5VjBGwV7Xpt0Lb3Rw)
 
 
@@ -298,6 +301,7 @@
 + [一条指令把统计+画图都给做了？似乎太美好！](https://mp.weixin.qq.com/s/vV6CiTh7BStXbqoVaklM0w)
 + [画图给点分组?](https://mp.weixin.qq.com/s/R8oqzNw88QGKbsfLyEQC9g)
 + [怎样用HOMER算出的P-value画出CNS级别的泡泡图？](https://mp.weixin.qq.com/s/rn6HL8Yn89Ua1uM8SpwtZw)
++ [ggplot2新功能，可以随处涂鸭了](https://mp.weixin.qq.com/s/flPMhBaStwPNq8v8sViS9w)
 
 
 ### ggfacet
@@ -383,6 +387,8 @@
 + [Library Genesis：堪比Sci-Hub的免费文献下载网站](http://mp.weixin.qq.com/s/UXFRFmhxwYP6tz7xpM6FDw)
 + [Y学术-谷歌学术镜像检索并一键下载文献](https://mp.weixin.qq.com/s/vbI6sKR8yOr956IYm2U90w)
 + [一图告诉你sci-hub有多美好！](http://mp.weixin.qq.com/s/1Y0peNiRjh8WmGO1BJxvOQ)
++ [Sci-Hub可用域名实时追踪](https://mp.weixin.qq.com/s/puPvCOQcOf7aG5ghY82XrQ)
+
 
 
 ## 学术八卦
@@ -491,4 +497,5 @@
 + [base X ggplot2](http://mp.weixin.qq.com/s/4Qh_fqoA0sF3K98CmM933g)
 + [劳动节快乐！](https://mp.weixin.qq.com/s/vRwypLzzPhZDCPxiqYx61g)
 + [hello Sue](https://mp.weixin.qq.com/s/L08K9JGxLhvMOql43I6LGg)
++ [我想学习](https://mp.weixin.qq.com/s/yJ1QLnsVqLrOY4GTsXEnrA)
 
