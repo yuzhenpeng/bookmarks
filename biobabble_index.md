@@ -1,4 +1,4 @@
-> 更新于2018-05-27
+> 更新于2018-06-04
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -83,12 +83,16 @@
 + [SCIENCE文章用了DAVID被吐槽](http://mp.weixin.qq.com/s/9M3lprc3rL6XII3ffpDHAw)
 + [Comparison of clusterProfiler and GSEA-P](http://mp.weixin.qq.com/s/Q5aovZPfouw8_cIn2kWe1A)
 + [听说你有RNAseq数据却不知道怎么跑GSEA](http://mp.weixin.qq.com/s/aht5fQ10nH_07CYttKFH7Q)
++ [单篇引用超过500了，来了解一下](https://mp.weixin.qq.com/s/UUf1hCAzNvQRII79vtI2Rg)
+
 
 ### GO
 
 + [buildGOmap](http://mp.weixin.qq.com/s/-DHe6rcBEY9gyU_Fo7qh8w)
 + [非模式基因GO富集分析：以玉米为例+使用OrgDb](https://mp.weixin.qq.com/s/lHKZtzpN2k9uPN7e6HjH3w)
 + [enrichGO出不来结果？没结果也是正确的结果](https://mp.weixin.qq.com/s/6i4HSPT5ac4cr2ol4pLIHw)
++ [GO analysis using clusterProfiler](https://mp.weixin.qq.com/s/RcIdbZX877gg0aL3EfB5qA)
+
 
 ### KEGG
 
@@ -377,18 +381,18 @@
 + [bioView - 一个生信常用文件格式的可读性增强工具](https://mp.weixin.qq.com/s/r64Lre0mggKyHETxDo20bA)
 
 
-### Sci-Hub
+### 文献下载神器
 
 + [sci-hub如果挂了，你还有神器下文献吗？](http://mp.weixin.qq.com/s/aaIby87LSQgxpvCAECFxkw)
 + [再不用担心打不开sci-hub了](https://mp.weixin.qq.com/s/5JGC1bcVZOmdaPxo_uXYYw)
 + [2018最新可用的sci-hub镜像+桌面版程序](https://mp.weixin.qq.com/s/RK1CYEboiEDzapdHsiwEGg)
 + [独家：SciHub苹果桌面版](https://mp.weixin.qq.com/s/P3WhPkTrf2dUkzvOba3hlQ)
 + [关于scihub，一文就够了](https://mp.weixin.qq.com/s/6qmI0MI9vlwvxoXJuVl0sQ)
-+ [Library Genesis：堪比Sci-Hub的免费文献下载网站](http://mp.weixin.qq.com/s/UXFRFmhxwYP6tz7xpM6FDw)
-+ [Y学术-谷歌学术镜像检索并一键下载文献](https://mp.weixin.qq.com/s/vbI6sKR8yOr956IYm2U90w)
 + [一图告诉你sci-hub有多美好！](http://mp.weixin.qq.com/s/1Y0peNiRjh8WmGO1BJxvOQ)
 + [Sci-Hub可用域名实时追踪](https://mp.weixin.qq.com/s/puPvCOQcOf7aG5ghY82XrQ)
-
++ [Library Genesis：堪比Sci-Hub的免费文献下载网站](http://mp.weixin.qq.com/s/UXFRFmhxwYP6tz7xpM6FDw)
++ [Y学术-谷歌学术镜像检索并一键下载文献](https://mp.weixin.qq.com/s/vbI6sKR8yOr956IYm2U90w)
++ [Kopernio: 快速一键下文献](https://mp.weixin.qq.com/s/IbfI3C8--soC2H9HzyZgAA)
 
 
 ## 学术八卦
@@ -396,6 +400,8 @@
 + [我被oncotarget撞了腰的不传奇故事](https://mp.weixin.qq.com/s/5QlVVt_0ytMTJww9eGjt9Q)
 + [科研人员必备特性：拖！拖！拖！](http://mp.weixin.qq.com/s/35grHvrs_L9_Es1oP2sLqQ)
 + [学术朋友圈这一波刷屏的狗粮](https://mp.weixin.qq.com/s/Il2ri0wbPUPe9mb34boEgQ)
++ [做科研都是在给邪恶的出版社卖命](https://mp.weixin.qq.com/s/8UTXpClnOOHX94p-3KVv8Q)
+
 
 ### 抄袭系列
 
@@ -498,4 +504,5 @@
 + [劳动节快乐！](https://mp.weixin.qq.com/s/vRwypLzzPhZDCPxiqYx61g)
 + [hello Sue](https://mp.weixin.qq.com/s/L08K9JGxLhvMOql43I6LGg)
 + [我想学习](https://mp.weixin.qq.com/s/yJ1QLnsVqLrOY4GTsXEnrA)
++ [儿童节快乐](https://mp.weixin.qq.com/s/3XeikTAnk7PEVp_NL_aYyA)
 
