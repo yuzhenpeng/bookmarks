@@ -225,6 +225,11 @@
 + [scatterpie：离散饼图](http://mp.weixin.qq.com/s/Jca8BqGFCLTa0aaLrQFNHA)
 + [邪恶的我画出了善良的饼图](http://mp.weixin.qq.com/s/plOB7ngCbbV9JHPF2bVcqw)
 
+## scholar
+
++ [一个要复活的R包和一个404的网站](https://mp.weixin.qq.com/s/kBnLyNl2anXuMa6sDepRQw)
++ [自动抓取论文的引用数据](https://mp.weixin.qq.com/s/IBrEOh92r_90DRbGb3XlKg)
+
 ## seqcombo
 
 + [DNA序列差异作图](http://mp.weixin.qq.com/s/rAgi6bvLwWMBx-kBS58b6g)
@@ -284,8 +289,6 @@
 + [basicTrendline：CRAN最新发布的线性非线性拟合的R函数包介绍](https://mp.weixin.qq.com/s/p38EPM6rV0gmwOj5FpBf4A)
 + [clifun: 在R里装装逼](https://mp.weixin.qq.com/s/4DojzE5Vfmkm80u2MygNcQ)
 + [Update R packages](http://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
-+ [一个要复活的R包和一个404的网站](https://mp.weixin.qq.com/s/kBnLyNl2anXuMa6sDepRQw)
-+ [自动抓取论文的引用数据](https://mp.weixin.qq.com/s/IBrEOh92r_90DRbGb3XlKg)
 + [mathart：一个富有逼格的R包](https://mp.weixin.qq.com/s/tg2Re5VjBGwV7Xpt0Lb3Rw)
 
 
