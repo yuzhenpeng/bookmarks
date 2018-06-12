@@ -1,4 +1,4 @@
-> 更新于2018-06-04
+> 更新于2018-06-10
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -262,7 +262,6 @@
 
 
 + [听说你想学R？](https://mp.weixin.qq.com/s/9jQQlLRpWL01K2Py8CsnNw)
-+ [R语言的最好资源，一个就够！](https://mp.weixin.qq.com/s/gVzjoYRB4vfq_8TMy3F8TA)
 + [我在MSnbase里做了什么？](http://mp.weixin.qq.com/s/9pS9w7tHhlV8zlqxd8jImA)
 + [无中生有windows版R包](http://mp.weixin.qq.com/s/VoWEamFLK6ktiMOdDj0bEA)
 + [R binary is untrustable](http://mp.weixin.qq.com/s/oevSP-AvpkaRxxlIlVkuoQ)
@@ -296,6 +295,8 @@
 
 + [Use ggplot2](http://mp.weixin.qq.com/s/oLgpTGdQgcka-OD757_3lA)
 + [ggplot2作图25招：《R入门25个菜谱》中所有图片的ggplot2版本](http://mp.weixin.qq.com/s/9F_yPk1AJXBFVhMJpezTPw)
++ [不需要花时间去学ggplot2主题系统](https://mp.weixin.qq.com/s/a3UuoCH4wU_ccCHVzwNi8Q)
++ [代码无感者的福音，小白也能ggplot2画出高大上的图](https://mp.weixin.qq.com/s/Crhz8iz5h79czGVEJ9grmg)
 + [ggplot2字体溢出的那点破事](http://mp.weixin.qq.com/s/BTBP_snTRKrjmRCjF6Cp3A)
 + [wrapping labels in ggplot2](https://mp.weixin.qq.com/s/AsXtK8wpr5UitCug5UQwBA)
 + [根据GTF画基因的多个转录本结构](http://mp.weixin.qq.com/s/UySUZRIpfX0VhNqveTPHwQ)
@@ -393,7 +394,6 @@
 + [关于scihub，一文就够了](https://mp.weixin.qq.com/s/6qmI0MI9vlwvxoXJuVl0sQ)
 + [一图告诉你sci-hub有多美好！](http://mp.weixin.qq.com/s/1Y0peNiRjh8WmGO1BJxvOQ)
 + [Sci-Hub可用域名实时追踪](https://mp.weixin.qq.com/s/puPvCOQcOf7aG5ghY82XrQ)
-+ [Library Genesis：堪比Sci-Hub的免费文献下载网站](http://mp.weixin.qq.com/s/UXFRFmhxwYP6tz7xpM6FDw)
 + [Y学术-谷歌学术镜像检索并一键下载文献](https://mp.weixin.qq.com/s/vbI6sKR8yOr956IYm2U90w)
 + [Kopernio: 快速一键下文献](https://mp.weixin.qq.com/s/IbfI3C8--soC2H9HzyZgAA)
 
@@ -508,4 +508,5 @@
 + [hello Sue](https://mp.weixin.qq.com/s/L08K9JGxLhvMOql43I6LGg)
 + [我想学习](https://mp.weixin.qq.com/s/yJ1QLnsVqLrOY4GTsXEnrA)
 + [儿童节快乐](https://mp.weixin.qq.com/s/3XeikTAnk7PEVp_NL_aYyA)
++ [百二秦关终属楚](https://mp.weixin.qq.com/s/mlo9ZRl8ujHcagZZKd5Orw)
 
