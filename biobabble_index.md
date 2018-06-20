@@ -1,9 +1,9 @@
-> 更新于2018-06-10
+> 更新于2018-06-20
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
 
-+ [知识星球系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#知识星球系列)
+
 + **Y叔R包系列**
 	- [ChIPseeker](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#chipseeker)
 	- [clusterProfiler](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#clusterprofiler)
@@ -24,6 +24,7 @@
 	- [seqcombo](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#seqcombo)
 	- [treeio](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#treeio)
 	- [yyplot](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#yyplot)
++ [知识星球系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#知识星球系列)	
 + [R](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#r)
 + [R包介绍](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#R包介绍)
 + [ggplot2](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#ggplot2)
@@ -42,18 +43,7 @@
 + [C++](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#c)
 + [MISC](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#misc)
 
-## 知识星球系列
 
-+ [怀疑人生！我不欠你们钱，好吗？](http://mp.weixin.qq.com/s/vB7mJG9FQYXsYZh9Bcp0_g)
-+ [同一数据多变量分组的boxplot?](http://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
-+ [听说你还不会画热图](http://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
-+ [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
-+ [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
-+ [美化base plot](http://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
-+ [用par设置ggplot2参数？这个可以有！](https://mp.weixin.qq.com/s/iyKsEnY17DsRFWZcDJn-lw)
-+ [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
-+ [用散点可视化一个矩阵](https://mp.weixin.qq.com/s/0Zn6xUbvwLp039EungxX6w)
-+ [爆炸型的饼图](https://mp.weixin.qq.com/s/fj9lMJvQov72i__0vj-_DA)
 
 
 
@@ -135,6 +125,7 @@
 + [geom_pokemon: 使用pokemon画图](http://mp.weixin.qq.com/s/H2DgfMflAWgi1ON3V3vwxg)
 + [大开眼界+多图慎点：Pokémon x NBA and other fun with ggimage](http://mp.weixin.qq.com/s/H3EZFB1UVzEqsIz9DSAsug)
 + [你的专业是那一只Pokémon神兽？](http://mp.weixin.qq.com/s/MMn5TGOuI1ntanbShou_gA)
++ [纯代码生成banner](http://mp.weixin.qq.com/s/bnWtD7buxDTj9Gsuv5ilRw)
 + [我的名字和我的姓氏](https://mp.weixin.qq.com/s/4F6jvuL4GA5bxNo-z5b9dg)
 + [正经的图千篇一律，不正经的叔万里挑一](http://mp.weixin.qq.com/s/KFU7dVF0Z-Uj20VhqATKUQ)
 + [饼图版气泡图](https://mp.weixin.qq.com/s/PH3xZKVZC9NUElbVfD7UpA)
@@ -155,6 +146,7 @@
 + [phylomoji：用emoji画进化树](http://mp.weixin.qq.com/s/JxcfuJVT1ySFPphYwSmYSQ)
 + [用ggtree重现Figtree的示例进化树](http://mp.weixin.qq.com/s/3Fc83au6gV5p6ZdlzlAC2w)
 + [ggtree for microbiome data](http://mp.weixin.qq.com/s/KScSppwajYsuHuf1w3bQTQ)
++ [ggtree for outbreak data ](https://mp.weixin.qq.com/s/eo_lrVctJ3X3OCdAQqK9Dw)
 + [用户数据注释进化树](http://mp.weixin.qq.com/s/ClTWsdyIYyHeNN0enwlglw)
 + [改变outgroup的枝长](https://mp.weixin.qq.com/s/d2sLLmuMTXLZNfQbWtKUxg)
 + [使用自己的数据来给进化树上色](http://mp.weixin.qq.com/s/8ryU-3HjMvE7RFgo4rQ3Ew)
@@ -229,6 +221,8 @@
 
 + [一个要复活的R包和一个404的网站](https://mp.weixin.qq.com/s/kBnLyNl2anXuMa6sDepRQw)
 + [自动抓取论文的引用数据](https://mp.weixin.qq.com/s/IBrEOh92r_90DRbGb3XlKg)
++ [scholar包支持检索期刊影响因子](https://mp.weixin.qq.com/s/qnuiepL4-nSiSWJVJH54ug)
+
 
 ## seqcombo
 
@@ -237,6 +231,8 @@
 ## shadowtext
 
 + [带你装逼带你飞，画图的文本打出阴影立体效果 ](http://mp.weixin.qq.com/s/eZAmqeKBsbvAj9AvrTZRQQ)
++ [制作meme的通用方式，来了解一下](https://mp.weixin.qq.com/s/ruihRJ5I20grzuTqO-Q1sA)
+
 
 ## treeio
 
@@ -256,7 +252,23 @@
 + [ggplot扩展学习笔记--逐行解析Y叔的"geom_ord_ellipse.R"](https://mp.weixin.qq.com/s/_XH6u2hPv_JJi_MbGbeoHA)
 + [ggplot2版本的维恩图](https://mp.weixin.qq.com/s/zdXXnRfZNiyA4XhmUSL6Fw)
 
+----
 
+## 知识星球系列
+
++ [怀疑人生！我不欠你们钱，好吗？](http://mp.weixin.qq.com/s/vB7mJG9FQYXsYZh9Bcp0_g)
++ [同一数据多变量分组的boxplot?](http://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
++ [听说你还不会画热图](http://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
++ [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
++ [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
++ [美化base plot](http://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
++ [用par设置ggplot2参数？这个可以有！](https://mp.weixin.qq.com/s/iyKsEnY17DsRFWZcDJn-lw)
++ [花式打水印](http://mp.weixin.qq.com/s/R5CxcdufLy6_yRPzOG4Baw)
++ [用散点可视化一个矩阵](https://mp.weixin.qq.com/s/0Zn6xUbvwLp039EungxX6w)
++ [爆炸型的饼图](https://mp.weixin.qq.com/s/fj9lMJvQov72i__0vj-_DA)
++ [听说你还不会画动图](https://mp.weixin.qq.com/s/rzEoUjWZXvdPYjwEzNfYOw)
+
+----
 
 ## R
 
@@ -289,7 +301,7 @@
 + [clifun: 在R里装装逼](https://mp.weixin.qq.com/s/4DojzE5Vfmkm80u2MygNcQ)
 + [Update R packages](http://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
 + [mathart：一个富有逼格的R包](https://mp.weixin.qq.com/s/tg2Re5VjBGwV7Xpt0Lb3Rw)
-
++ [用R玩一个小游戏吧！拖延症的老毛病又犯了！](https://mp.weixin.qq.com/s/X7hbjzJUIbn9Pbcz9YIoQw)
 
 ## ggplot2
 
@@ -322,6 +334,7 @@
 + [ggridges：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](https://mp.weixin.qq.com/s/TtSuT0d4j80A7NeNIl12Qg)
 + [再见joyplot](http://mp.weixin.qq.com/s/3qx0JhJ1Q7D6QEZ19ibtRA)
 
+----
 
 ## 统计
 
@@ -353,6 +366,7 @@
 + [我把Nature的Figure画成了蒙娜丽莎](https://mp.weixin.qq.com/s/Gggtmn5SgRdXU7s9PKIo9Q)
 + [变异会影响转录？SNP影响转录因子结合？RegulomeDB](https://mp.weixin.qq.com/s/WNHSrak7fPUIPUtg3PlO9A)
 + [曾老湿最新私已：GATK4实战教程](https://mp.weixin.qq.com/s/6HMvleAnJKuCcR_yWr5MsA)
++ [SIR Model of Epidemics](https://mp.weixin.qq.com/s/jxFxiiHY_cA0viq_ywK0DQ)
 
 
 
@@ -449,16 +463,14 @@
 + [为什么要开这个公众号](http://mp.weixin.qq.com/s/f-c5Q63SY166ZGzYCsqthA)
 + [关于《关于转载》](https://mp.weixin.qq.com/s/JuMoFfgbNSM2KFQ74KVw0Q)
 + [公众号「biobabble」是什么意思？](https://mp.weixin.qq.com/s/wpk7gCW4oxgmPaGf4NSOBg)
-+ [赞赏专用通道](http://mp.weixin.qq.com/s/yfZKyxjFX3IbpbGEBXmdxQ)
 + [微信公众文 -- markdown一键排版](http://mp.weixin.qq.com/s/hAQ0OiObsCqa9jgKMuRPZw)
 + [公号狗的福音](http://mp.weixin.qq.com/s/SUwUL-RaeRRRQ7eRDeNQiw)
 + [话题投票](http://mp.weixin.qq.com/s/5DMqX7bLsnvjj7KF4yIyVg)
 + [真爱是什么？](http://mp.weixin.qq.com/s/krcSjt6UTg1cIlFiBasbJw)
-+ [纯代码生成banner](http://mp.weixin.qq.com/s/bnWtD7buxDTj9Gsuv5ilRw)
 + [爱要高声喊出来](http://mp.weixin.qq.com/s/Els_-ZxTSt71fPAMbVFCAg)
 + [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
-+ [biobabble公众号文章目录-2017.10.01版本](http://mp.weixin.qq.com/s/rcG6fmJVjRwI9mTanC-wDg)
-+ [biobabble文章索引-2018.03.19版本](https://mp.weixin.qq.com/s/pvfXpj61_PppkMD4Dua_cg)
++ [所有历史文章的全文都在这里(2016.11-2018.06)](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)
++ [biobabble文章索引](https://mp.weixin.qq.com/s/pvfXpj61_PppkMD4Dua_cg)
 + [你还能这样关注一个公众号](http://mp.weixin.qq.com/s/Ez_GfQciYnxJyP43u8swqw)
 
 
@@ -497,6 +509,7 @@
 + [轮到相思没处辞，眉间露一丝](http://mp.weixin.qq.com/s/lSkR9bCaAGRSy7vOfZq9vg)
 + [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/jqjRf9cwKAuOLA28Iw5fMA)
 + [不为无益之事 何以遣有涯之生](https://mp.weixin.qq.com/s/lmGOvgdc-aFUBCjOGnbW1Q)
++ [你是我的巧克力 - Windows包管理器Chocolatey](https://mp.weixin.qq.com/s/o4I2MACzOXnpk4Zga3KDNQ)
 
 
 ## 每周一图
