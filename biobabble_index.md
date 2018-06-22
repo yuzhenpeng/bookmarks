@@ -1,4 +1,4 @@
-> 更新于2018-06-20
+> 更新于2018-06-22
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -131,6 +131,7 @@
 + [饼图版气泡图](https://mp.weixin.qq.com/s/PH3xZKVZC9NUElbVfD7UpA)
 + [转发5个群，Y叔送你一顶帽子](https://mp.weixin.qq.com/s/EojwBbg0MUWijwGeNIjntg)
 + [用图片当ggplot2画布](https://mp.weixin.qq.com/s/U1yVeRJJVLfT0zLTS-SllA)
++ [2018世界杯专属图层](https://mp.weixin.qq.com/s/6GO_e1R8pO4p-QwKs5bQnw)
 
 
 ## ggtree
@@ -281,12 +282,12 @@
 + [你所不知道的，R的N种打开方式](http://mp.weixin.qq.com/s/BsEm76Eq9_tbw3myobD_SA)
 + [R，python喊你回家吃饭啦](https://mp.weixin.qq.com/s/VbMq3ZKMdn0E3wauC4l_hg)
 + [VSCode里愉快地使用R](http://mp.weixin.qq.com/s/oSZlH-HZQ3uPKSmNmD_5Yg)
-+ [R里的赋值符号？](https://mp.weixin.qq.com/s/46uWLy9r8_9wJxxETcGFeg)
 + [R的诡异事件](https://mp.weixin.qq.com/s/nt3siXtdTGKQfTBt_vhf_g)
++ [R里的赋值符号？](https://mp.weixin.qq.com/s/46uWLy9r8_9wJxxETcGFeg)
 + [你的数据被化了妆？](https://mp.weixin.qq.com/s/PF8r-VxZVsJdxrxgn1QqjQ)
++ [逼着老狗学新把戏](https://mp.weixin.qq.com/s/qoOJCP4U50qZ5XfgQCq2kQ)
 + [R-3.5.0发布，又该升级了](https://mp.weixin.qq.com/s/tCIXW6H9v-PbMoPubbqzZQ)
 + [Windows用户如何无痛升级R](https://mp.weixin.qq.com/s/6_L6mlWpEkESIwrToG5Iug)
-+ [逼着老狗学新把戏](https://mp.weixin.qq.com/s/qoOJCP4U50qZ5XfgQCq2kQ)
 + [R的全新IDE](https://mp.weixin.qq.com/s/qCSOMHCs_7x-3uuQR8t9RA)
 
 
@@ -306,7 +307,7 @@
 ## ggplot2
 
 + [Use ggplot2](http://mp.weixin.qq.com/s/oLgpTGdQgcka-OD757_3lA)
-+ [ggplot2作图25招：《R入门25个菜谱》中所有图片的ggplot2版本](http://mp.weixin.qq.com/s/9F_yPk1AJXBFVhMJpezTPw)
++ [ggplot2作图25招：《R入门25个菜谱》中所有图片的ggplot2版本](https://mp.weixin.qq.com/s/eFENzS5JxbF9GPm-rR3O8g)
 + [不需要花时间去学ggplot2主题系统](https://mp.weixin.qq.com/s/a3UuoCH4wU_ccCHVzwNi8Q)
 + [代码无感者的福音，小白也能ggplot2画出高大上的图](https://mp.weixin.qq.com/s/Crhz8iz5h79czGVEJ9grmg)
 + [ggplot2字体溢出的那点破事](http://mp.weixin.qq.com/s/BTBP_snTRKrjmRCjF6Cp3A)
@@ -469,7 +470,7 @@
 + [真爱是什么？](http://mp.weixin.qq.com/s/krcSjt6UTg1cIlFiBasbJw)
 + [爱要高声喊出来](http://mp.weixin.qq.com/s/Els_-ZxTSt71fPAMbVFCAg)
 + [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
-+ [所有历史文章的全文都在这里(2016.11-2018.06)](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)
++ [所有历史文章的全文都在这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)
 + [biobabble文章索引](https://mp.weixin.qq.com/s/pvfXpj61_PppkMD4Dua_cg)
 + [你还能这样关注一个公众号](http://mp.weixin.qq.com/s/Ez_GfQciYnxJyP43u8swqw)
 
@@ -521,4 +522,5 @@
 + [我想学习](https://mp.weixin.qq.com/s/yJ1QLnsVqLrOY4GTsXEnrA)
 + [儿童节快乐](https://mp.weixin.qq.com/s/3XeikTAnk7PEVp_NL_aYyA)
 + [百二秦关终属楚](https://mp.weixin.qq.com/s/mlo9ZRl8ujHcagZZKd5Orw)
+
 
