@@ -491,7 +491,6 @@
 + [how to bug author](http://mp.weixin.qq.com/s/fvCsdNVl87PtKuGXmcikDw)
 + [auto-complete in ESS](http://mp.weixin.qq.com/s/EvQVp283RZlT3Wz69kKRAw)
 + [中国人民的翻墙情结](http://mp.weixin.qq.com/s/d56oJ8CviQGieJpv3eb8wQ)
-+ [中国人民的翻墙情结(搭梯版)](http://mp.weixin.qq.com/s/b6xyVv-HjQQSn0pq7ILQzw)
 + [港大福利：无限量google drive](https://mp.weixin.qq.com/s/7q7_OtG2E5eUUUP1dorfvw)
 + [来香港读博其实是被逼的](https://mp.weixin.qq.com/s/LzwSAYT7yyYTMrNnck9KCg)
 + [博士养成记](http://mp.weixin.qq.com/s/81IQghBHUfqS1934yUAsCw)
