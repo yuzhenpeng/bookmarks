@@ -489,7 +489,6 @@
 ## MISC
 
 + [how to bug author](http://mp.weixin.qq.com/s/fvCsdNVl87PtKuGXmcikDw)
-+ [Y叔要求职](http://mp.weixin.qq.com/s/sLkmn2i5AbPN_XcWBEmKsQ)
 + [auto-complete in ESS](http://mp.weixin.qq.com/s/EvQVp283RZlT3Wz69kKRAw)
 + [中国人民的翻墙情结](http://mp.weixin.qq.com/s/d56oJ8CviQGieJpv3eb8wQ)
 + [中国人民的翻墙情结(搭梯版)](http://mp.weixin.qq.com/s/b6xyVv-HjQQSn0pq7ILQzw)
