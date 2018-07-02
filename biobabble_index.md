@@ -1,4 +1,4 @@
-> 更新于2018-06-22
+> 更新于2018-07-02
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -74,7 +74,7 @@
 + [Comparison of clusterProfiler and GSEA-P](http://mp.weixin.qq.com/s/Q5aovZPfouw8_cIn2kWe1A)
 + [听说你有RNAseq数据却不知道怎么跑GSEA](http://mp.weixin.qq.com/s/aht5fQ10nH_07CYttKFH7Q)
 + [单篇引用超过500了，来了解一下](https://mp.weixin.qq.com/s/UUf1hCAzNvQRII79vtI2Rg)
-
++ [use clusterProfiler as an universal enrichment analysis tool](https://mp.weixin.qq.com/s/2UqgAJIg75jG6LmRAhqWAw)
 
 ### GO
 
@@ -82,6 +82,7 @@
 + [非模式基因GO富集分析：以玉米为例+使用OrgDb](https://mp.weixin.qq.com/s/lHKZtzpN2k9uPN7e6HjH3w)
 + [enrichGO出不来结果？没结果也是正确的结果](https://mp.weixin.qq.com/s/6i4HSPT5ac4cr2ol4pLIHw)
 + [GO analysis using clusterProfiler](https://mp.weixin.qq.com/s/RcIdbZX877gg0aL3EfB5qA)
++ [use simplify to remove redundancy of enriched GO terms](https://mp.weixin.qq.com/s/wmRndNBhTBPEhrcGA-IfFg)
 
 
 ### KEGG
@@ -322,7 +323,7 @@
 + [一条指令把统计+画图都给做了？似乎太美好！](https://mp.weixin.qq.com/s/vV6CiTh7BStXbqoVaklM0w)
 + [画图给点分组?](https://mp.weixin.qq.com/s/R8oqzNw88QGKbsfLyEQC9g)
 + [怎样用HOMER算出的P-value画出CNS级别的泡泡图？](https://mp.weixin.qq.com/s/rn6HL8Yn89Ua1uM8SpwtZw)
-+ [ggplot2新功能，可以随处涂鸭了](https://mp.weixin.qq.com/s/flPMhBaStwPNq8v8sViS9w)
++ [ggplot2 - 3.0.0版本的新功能](https://mp.weixin.qq.com/s/rj3JKkLM6wKWRG-BiTfq-w)
 
 
 ### ggfacet
@@ -471,9 +472,8 @@
 + [爱要高声喊出来](http://mp.weixin.qq.com/s/Els_-ZxTSt71fPAMbVFCAg)
 + [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
 + [所有历史文章的全文都在这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)
-+ [biobabble文章索引](https://mp.weixin.qq.com/s/pvfXpj61_PppkMD4Dua_cg)
 + [你还能这样关注一个公众号](http://mp.weixin.qq.com/s/Ez_GfQciYnxJyP43u8swqw)
-
++ [biobabble文章索引](https://mp.weixin.qq.com/s/NMBRMTO-GaJXuF2k7mm1KA)
 
 ## C++
 
@@ -492,10 +492,11 @@
 + [auto-complete in ESS](http://mp.weixin.qq.com/s/EvQVp283RZlT3Wz69kKRAw)
 + [中国人民的翻墙情结](http://mp.weixin.qq.com/s/d56oJ8CviQGieJpv3eb8wQ)
 + [港大福利：无限量google drive](https://mp.weixin.qq.com/s/7q7_OtG2E5eUUUP1dorfvw)
++ [匆匆那年，如一场不真实的梦。](https://mp.weixin.qq.com/s/nTslUm7qy1bIFgntLtkNBg)
 + [来香港读博其实是被逼的](https://mp.weixin.qq.com/s/LzwSAYT7yyYTMrNnck9KCg)
 + [博士养成记](http://mp.weixin.qq.com/s/81IQghBHUfqS1934yUAsCw)
 + [IBW2011](http://mp.weixin.qq.com/s/eQGKlUY9ncdirAXrIwDY-g)
-+ [博士版2048](http://mp.weixin.qq.com/s/wmuiQHSqANI9sDJrhRGKXg)
++ [博士版2048，不服来战！](https://mp.weixin.qq.com/s/Y5becN7t5LqMC3mcBbar_w)
 + [滚吧，骚年](http://mp.weixin.qq.com/s/j7AI-5gIwitiJgk1nePZhw)
 + [自动玩微信小游戏跳一跳](http://mp.weixin.qq.com/s/xSG59fWC201Kx5Bx9i3KmQ)
 + [3D版邪恶的曲线](http://mp.weixin.qq.com/s/YN4GYWZkKA7eIgQcCdgqtQ)
@@ -520,5 +521,5 @@
 + [我想学习](https://mp.weixin.qq.com/s/yJ1QLnsVqLrOY4GTsXEnrA)
 + [儿童节快乐](https://mp.weixin.qq.com/s/3XeikTAnk7PEVp_NL_aYyA)
 + [百二秦关终属楚](https://mp.weixin.qq.com/s/mlo9ZRl8ujHcagZZKd5Orw)
-
++ [每周一图之粉丝来袭～](https://mp.weixin.qq.com/s/RDWp_sVMH-RDAe5AX8LUUw)
 
