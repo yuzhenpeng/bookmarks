@@ -1,4 +1,4 @@
-> 更新于2018-07-02
+> 更新于2018-07-03
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -473,6 +473,7 @@
 + [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
 + [所有历史文章的全文都在这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)
 + [你还能这样关注一个公众号](http://mp.weixin.qq.com/s/Ez_GfQciYnxJyP43u8swqw)
++ [听说你找不到公众号的入口了！](https://mp.weixin.qq.com/s/u8-BP7SL--iQKIh149Y3LA)
 + [biobabble文章索引](https://mp.weixin.qq.com/s/NMBRMTO-GaJXuF2k7mm1KA)
 
 ## C++
