@@ -1,4 +1,4 @@
-> 更新于2018-07-03
+> 更新于2018-07-04
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
@@ -222,7 +222,7 @@
 
 + [一个要复活的R包和一个404的网站](https://mp.weixin.qq.com/s/kBnLyNl2anXuMa6sDepRQw)
 + [自动抓取论文的引用数据](https://mp.weixin.qq.com/s/IBrEOh92r_90DRbGb3XlKg)
-+ [scholar包支持检索期刊影响因子](https://mp.weixin.qq.com/s/qnuiepL4-nSiSWJVJH54ug)
++ [scholar包检索期刊影响因子](https://mp.weixin.qq.com/s/g9wNjL1BtQGvfucv4JRXMQ)
 
 
 ## seqcombo
