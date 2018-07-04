@@ -173,7 +173,6 @@
 
 ### 直播
 
-+ [线上沙龙 (2017-10-24)：plotting trees + data](http://mp.weixin.qq.com/s/f_iirv0xEnDM6wESAcSLkg)
 + [webinar录播 (2017-10-24)：plotting tree + data](http://mp.weixin.qq.com/s/YuUOztQg3nUnhdvyg8asvg)
 + [ggtree直播PPT第一部分](https://mp.weixin.qq.com/s/3yEN-8oUck2WPmNQ368qYA)
 + [ggtree直播PPT第二部分](https://mp.weixin.qq.com/s/7-YhGzzu_tVAwySrYOKGFg)
