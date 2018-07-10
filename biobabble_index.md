@@ -1,6 +1,6 @@
-> 更新于2018-07-04
+> 更新于2018-07-10
 
-公众号biobabble后台回复「目录」二字可以获取本目录。
+公众号biobabble后台回复「目录」二字可以获取本目录，[全文下载点这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)。
 
 
 
@@ -120,6 +120,7 @@
 + [安装enrichplot及升级clusterProfiler](https://mp.weixin.qq.com/s/CyiIJNwAQkyHQ5OVU9oa7w)
 + [dotplot支持使用formula指定x轴变量](http://mp.weixin.qq.com/s/ZebT4OWDSIMoB6_ww2dYUg)
 
+
 ## ggimage
 
 + [ggimage：ggplot2中愉快地使用图片](http://mp.weixin.qq.com/s/eVX3-3zT4p3s0JU_oy7lIQ)
@@ -134,6 +135,10 @@
 + [用图片当ggplot2画布](https://mp.weixin.qq.com/s/U1yVeRJJVLfT0zLTS-SllA)
 + [2018世界杯专属图层](https://mp.weixin.qq.com/s/6GO_e1R8pO4p-QwKs5bQnw)
 
+## ggplotify
+
++ [base X ggplot2](http://mp.weixin.qq.com/s/4Qh_fqoA0sF3K98CmM933g)
++ [ggsave支持base plot](https://mp.weixin.qq.com/s/9T0XDRTPPp_Wwfvi-Z3uFA)
 
 ## ggtree
 
@@ -240,7 +245,7 @@
 + [树变图，图变树？](http://mp.weixin.qq.com/s/Uhx3l3lKQS88OJ4SHntkNg)
 + [treeio: 进化树基础类和方法](http://mp.weixin.qq.com/s/uhxCqbnssgP_GHVHqANbaQ)
 + [进化树改名](https://mp.weixin.qq.com/s/-v1vklrKRwkEJ0amjVJjJQ)
-
++ [treeio: Phylogenetic data integration](https://mp.weixin.qq.com/s/vLcoF2yMpOa4VzO2nxhZEw)
 
 ## yyplot
 
@@ -285,6 +290,7 @@
 + [R的诡异事件](https://mp.weixin.qq.com/s/nt3siXtdTGKQfTBt_vhf_g)
 + [R里的赋值符号？](https://mp.weixin.qq.com/s/46uWLy9r8_9wJxxETcGFeg)
 + [你的数据被化了妆？](https://mp.weixin.qq.com/s/PF8r-VxZVsJdxrxgn1QqjQ)
++ [R总给我惊喜](https://mp.weixin.qq.com/s/MZFGTKGh0pDQ1knCDoKEmw)
 + [逼着老狗学新把戏](https://mp.weixin.qq.com/s/qoOJCP4U50qZ5XfgQCq2kQ)
 + [R-3.5.0发布，又该升级了](https://mp.weixin.qq.com/s/tCIXW6H9v-PbMoPubbqzZQ)
 + [Windows用户如何无痛升级R](https://mp.weixin.qq.com/s/6_L6mlWpEkESIwrToG5Iug)
@@ -384,7 +390,7 @@
 
 + [用动态规划实现全局序列比对](http://mp.weixin.qq.com/s/4DL-pJVItOhkYJAbPEg7BQ)
 + [Support Vector Machine](http://mp.weixin.qq.com/s/sd_z3doU4V05aKFekpQkrA)
-
++ [Newton-Raphson Method估算函数的根](https://mp.weixin.qq.com/s/qhT_sooSINjjvWpwq2d1VA)
 
 
 
@@ -515,11 +521,14 @@
 ## 每周一图
 
 + [每周一图：请你吃碗面吧！](https://mp.weixin.qq.com/s/_iWMpaWXLB5tzGwtbHY0QQ)
-+ [base X ggplot2](http://mp.weixin.qq.com/s/4Qh_fqoA0sF3K98CmM933g)
 + [劳动节快乐！](https://mp.weixin.qq.com/s/vRwypLzzPhZDCPxiqYx61g)
 + [hello Sue](https://mp.weixin.qq.com/s/L08K9JGxLhvMOql43I6LGg)
 + [我想学习](https://mp.weixin.qq.com/s/yJ1QLnsVqLrOY4GTsXEnrA)
 + [儿童节快乐](https://mp.weixin.qq.com/s/3XeikTAnk7PEVp_NL_aYyA)
 + [百二秦关终属楚](https://mp.weixin.qq.com/s/mlo9ZRl8ujHcagZZKd5Orw)
 + [每周一图之粉丝来袭～](https://mp.weixin.qq.com/s/RDWp_sVMH-RDAe5AX8LUUw)
+
+
+
+
 
