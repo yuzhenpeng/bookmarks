@@ -1,4 +1,4 @@
-> 更新于2018-07-10
+> 更新于2018-07-11
 
 公众号biobabble后台回复「目录」二字可以获取本目录，[全文下载点这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)。
 
@@ -75,6 +75,7 @@
 + [听说你有RNAseq数据却不知道怎么跑GSEA](http://mp.weixin.qq.com/s/aht5fQ10nH_07CYttKFH7Q)
 + [单篇引用超过500了，来了解一下](https://mp.weixin.qq.com/s/UUf1hCAzNvQRII79vtI2Rg)
 + [use clusterProfiler as an universal enrichment analysis tool](https://mp.weixin.qq.com/s/2UqgAJIg75jG6LmRAhqWAw)
++ [拟南芥富集分析](https://mp.weixin.qq.com/s/R_l8o-Grat2ozbzrvcqGyg)
 
 ### GO
 
