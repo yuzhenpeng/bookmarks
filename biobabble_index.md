@@ -75,7 +75,7 @@
 + [听说你有RNAseq数据却不知道怎么跑GSEA](http://mp.weixin.qq.com/s/aht5fQ10nH_07CYttKFH7Q)
 + [单篇引用超过500了，来了解一下](https://mp.weixin.qq.com/s/UUf1hCAzNvQRII79vtI2Rg)
 + [use clusterProfiler as an universal enrichment analysis tool](https://mp.weixin.qq.com/s/2UqgAJIg75jG6LmRAhqWAw)
-+ [拟南芥富集分析](https://mp.weixin.qq.com/s/R_l8o-Grat2ozbzrvcqGyg)
+
 
 ### GO
 
@@ -274,6 +274,8 @@
 + [用散点可视化一个矩阵](https://mp.weixin.qq.com/s/0Zn6xUbvwLp039EungxX6w)
 + [爆炸型的饼图](https://mp.weixin.qq.com/s/fj9lMJvQov72i__0vj-_DA)
 + [听说你还不会画动图](https://mp.weixin.qq.com/s/rzEoUjWZXvdPYjwEzNfYOw)
++ [拟南芥富集分析](https://mp.weixin.qq.com/s/R_l8o-Grat2ozbzrvcqGyg)
+
 
 ----
 
