@@ -1,4 +1,4 @@
-> 更新于2018-07-11
+> 更新于2018-07-13
 
 公众号biobabble后台回复「目录」二字可以获取本目录，[全文下载点这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)。
 
@@ -257,7 +257,7 @@
 + [130岁了，祝你生快](https://mp.weixin.qq.com/s/Iqcqo5YTy1qmXdsuIrlrYQ)
 + [画个小圈圈](https://mp.weixin.qq.com/s/8kqTVSDjuHpivGaim6ukNg)
 + [ggplot扩展学习笔记--逐行解析Y叔的"geom_ord_ellipse.R"](https://mp.weixin.qq.com/s/_XH6u2hPv_JJi_MbGbeoHA)
-+ [ggplot2版本的维恩图](https://mp.weixin.qq.com/s/zdXXnRfZNiyA4XhmUSL6Fw)
+
 
 ----
 
@@ -274,6 +274,7 @@
 + [用散点可视化一个矩阵](https://mp.weixin.qq.com/s/0Zn6xUbvwLp039EungxX6w)
 + [爆炸型的饼图](https://mp.weixin.qq.com/s/fj9lMJvQov72i__0vj-_DA)
 + [听说你还不会画动图](https://mp.weixin.qq.com/s/rzEoUjWZXvdPYjwEzNfYOw)
++ [ggplot2版本的维恩图](https://mp.weixin.qq.com/s/bRgrC2QRH59vt-0gKGTQNQ)
 + [拟南芥富集分析](https://mp.weixin.qq.com/s/R_l8o-Grat2ozbzrvcqGyg)
 
 
@@ -298,6 +299,11 @@
 + [R-3.5.0发布，又该升级了](https://mp.weixin.qq.com/s/tCIXW6H9v-PbMoPubbqzZQ)
 + [Windows用户如何无痛升级R](https://mp.weixin.qq.com/s/6_L6mlWpEkESIwrToG5Iug)
 + [R的全新IDE](https://mp.weixin.qq.com/s/qCSOMHCs_7x-3uuQR8t9RA)
+
+### Introduction to Scientific Programming and Simulation Using R
+
++ [Newton-Raphson Method估算函数的根](https://mp.weixin.qq.com/s/qhT_sooSINjjvWpwq2d1VA)
++ [用中值定理求根](https://mp.weixin.qq.com/s/ATy5DqHG-fXUVvHP0I2Lsw)
 
 
 ### R包介绍
@@ -341,7 +347,7 @@
 
 ### ggridges
 
-+ [ggridges：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](https://mp.weixin.qq.com/s/TtSuT0d4j80A7NeNIl12Qg)
++ [ggridges：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](https://mp.weixin.qq.com/s/0y1hS0VM0o1fyb9MCxGWow)
 + [再见joyplot](http://mp.weixin.qq.com/s/3qx0JhJ1Q7D6QEZ19ibtRA)
 
 ----
@@ -393,7 +399,6 @@
 
 + [用动态规划实现全局序列比对](http://mp.weixin.qq.com/s/4DL-pJVItOhkYJAbPEg7BQ)
 + [Support Vector Machine](http://mp.weixin.qq.com/s/sd_z3doU4V05aKFekpQkrA)
-+ [Newton-Raphson Method估算函数的根](https://mp.weixin.qq.com/s/qhT_sooSINjjvWpwq2d1VA)
 
 
 
