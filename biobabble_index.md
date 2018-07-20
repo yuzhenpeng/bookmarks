@@ -1,4 +1,4 @@
-> 更新于2018-07-13
+> 更新于2018-07-20
 
 公众号biobabble后台回复「目录」二字可以获取本目录，[全文下载点这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)。
 
@@ -55,7 +55,7 @@
 + [CS3: peak注释](http://mp.weixin.qq.com/s/vWTf59KDs1lp_sQXjEhI_g)
 + [CS4：关于ChIPseq注释的几个问题](http://mp.weixin.qq.com/s/_OPzvaEAbiMolCA2mqJXLw)
 + [CS5: 吃着火锅，唱着歌，还把分析给做了](http://mp.weixin.qq.com/s/gDpsdj6cLDtnG1Kla79wLA)
-+ [CS6: ChIPseeker的可视化方法（中秋节的视觉饕餮）](http://mp.weixin.qq.com/s/MqpfgkMJSFj0pYwcEjV9kQ)
++ [CS6: ChIPseeker的可视化方法](http://mp.weixin.qq.com/s/MqpfgkMJSFj0pYwcEjV9kQ)
 + [CS7：Genomic coordination的富集性分析（1）](http://mp.weixin.qq.com/s/v61LjQEfyi_CZucHW53ETw)
 + [CS8：Genomic coordination的富集性分析（2）](https://mp.weixin.qq.com/s/vbkZrGwD7dZ-OPOiqkyTnA)
 + [CS9: GEO数据挖掘](https://mp.weixin.qq.com/s/98k_L3CmjH817xMF2VfYtA)
@@ -93,6 +93,8 @@
 + [水稻如何做KEGG富集分析](https://mp.weixin.qq.com/s/UnUPVoaMpfJWCQEpkmdTWA)
 + [使用新姿势玩KEGG，是种什么体验...](https://mp.weixin.qq.com/s/17ujVhcrkX1DLsUJBtUGEw)
 + [利用KEGG数据库进行ID转换](http://mp.weixin.qq.com/s/DorErMerquLuQpUOU0YJew)
++ [KEGG Module Enrichment Analysis](https://mp.weixin.qq.com/s/EflAAyEobEvicbXgWqyb5A)
+
 
 ## DOSE
 
@@ -146,6 +148,7 @@
 + [Ask me anything about ggtree](https://mp.weixin.qq.com/s/IzSC1GnNPUwKdehhz-U8fQ)
 + [当年ggtree发布文，为整合数据而生！](http://mp.weixin.qq.com/s/4g2dPmm5ycTvbube4ujlgQ)
 + [ggtree无根树及注释](http://mp.weixin.qq.com/s/Jij3xQhvgsuZBH_g45MvvQ)
++ [ggtree画根分支](https://mp.weixin.qq.com/s/ObJlBkOTKIYjYpHTww6cIw)
 + [phylip树格式](http://mp.weixin.qq.com/s/NcS-yOsRxHJZStiZ7SPw4g)
 + [ggtree版本的plotTree](https://mp.weixin.qq.com/s/JM7m7fQSxW7SdRVyGhuxTA)
 + [align genomic features with phylogenetic tree](http://mp.weixin.qq.com/s/3j9qg0qpMUsxpp_QkTm9fA)
@@ -177,6 +180,7 @@
 + [杀花，ggtree引用已经过百](https://mp.weixin.qq.com/s/nR_m0d9m-v2P3b1wL2RFWg)
 
 
+
 ### 直播
 
 + [webinar录播 (2017-10-24)：plotting tree + data](http://mp.weixin.qq.com/s/YuUOztQg3nUnhdvyg8asvg)
@@ -206,7 +210,7 @@
 + [ggtree hexbin sticker投票结果](https://mp.weixin.qq.com/s/wV45RJ_VB73AcFq0F5FjBw)
 + [一大波贴纸来袭](http://mp.weixin.qq.com/s/wPREI4_FaoqtQUjSE6rnFQ)
 + [就是这么简单，你也能够纯代码生成六角贴！](https://mp.weixin.qq.com/s/bnP2LGjEv8KopLxPtJZfdQ)
-
++ [2018年useR会议的一道风景线](https://mp.weixin.qq.com/s/pF-Y39S1mZBbDun_l6TFdA)
 
 ## meme
 
@@ -304,6 +308,7 @@
 
 + [Newton-Raphson Method估算函数的根](https://mp.weixin.qq.com/s/qhT_sooSINjjvWpwq2d1VA)
 + [用中值定理求根](https://mp.weixin.qq.com/s/ATy5DqHG-fXUVvHP0I2Lsw)
++ [root finding - 4种演算法求函数的根](https://mp.weixin.qq.com/s/qCOTh8ecxmDOwUj9Ea5n_Q)
 
 
 ### R包介绍
@@ -535,6 +540,9 @@
 + [儿童节快乐](https://mp.weixin.qq.com/s/3XeikTAnk7PEVp_NL_aYyA)
 + [百二秦关终属楚](https://mp.weixin.qq.com/s/mlo9ZRl8ujHcagZZKd5Orw)
 + [每周一图之粉丝来袭～](https://mp.weixin.qq.com/s/RDWp_sVMH-RDAe5AX8LUUw)
+
+
+
 
 
 
