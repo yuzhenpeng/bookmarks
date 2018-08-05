@@ -1,4 +1,4 @@
-> 更新于2018-07-20
+> 更新于2018-08-05
 
 公众号biobabble后台回复「目录」二字可以获取本目录，[全文下载点这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)。
 
@@ -309,6 +309,7 @@
 + [Newton-Raphson Method估算函数的根](https://mp.weixin.qq.com/s/qhT_sooSINjjvWpwq2d1VA)
 + [用中值定理求根](https://mp.weixin.qq.com/s/ATy5DqHG-fXUVvHP0I2Lsw)
 + [root finding - 4种演算法求函数的根](https://mp.weixin.qq.com/s/qCOTh8ecxmDOwUj9Ea5n_Q)
++ [数值法求一重积分](https://mp.weixin.qq.com/s/Icg_zWCgVX3ZUk_-pP-ydw)
 
 
 ### R包介绍
@@ -343,6 +344,8 @@
 + [画图给点分组?](https://mp.weixin.qq.com/s/R8oqzNw88QGKbsfLyEQC9g)
 + [怎样用HOMER算出的P-value画出CNS级别的泡泡图？](https://mp.weixin.qq.com/s/rn6HL8Yn89Ua1uM8SpwtZw)
 + [ggplot2 - 3.0.0版本的新功能](https://mp.weixin.qq.com/s/rj3JKkLM6wKWRG-BiTfq-w)
++ [ggplot label placement](https://mp.weixin.qq.com/s/6MMVsO22n9oKZNC7qC7g5A)
+
 
 
 ### ggfacet
@@ -473,8 +476,10 @@
 + [use linux desktop again](http://mp.weixin.qq.com/s/XCsTaGZu1KhmpkFlvvUtYg)
 + [Xming-windows下远程linux桌面](http://mp.weixin.qq.com/s/T1lVAraI9iRYwl2ZGJbw3A)
 + [realvnc：各种设备互联](http://mp.weixin.qq.com/s/HDVyY5SwEysAS-12YpGQkw)
++ [Windows远程及本地运行Linux的GUI程序](https://mp.weixin.qq.com/s/1bJPkAypZu_gFuKTfd3xyA)
 + [合体中的操作系统](http://mp.weixin.qq.com/s/66krJ2tr6INR9h5GPi8tmw)
 + [elementaryOS: 2018最美Linux](https://mp.weixin.qq.com/s/zmHFk4uvx_WcdIBZ2mulfA)
++ [你是我的巧克力 - Windows包管理器Chocolatey](https://mp.weixin.qq.com/s/o4I2MACzOXnpk4Zga3KDNQ)
 
 
 
@@ -528,7 +533,8 @@
 + [轮到相思没处辞，眉间露一丝](http://mp.weixin.qq.com/s/lSkR9bCaAGRSy7vOfZq9vg)
 + [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/jqjRf9cwKAuOLA28Iw5fMA)
 + [不为无益之事 何以遣有涯之生](https://mp.weixin.qq.com/s/lmGOvgdc-aFUBCjOGnbW1Q)
-+ [你是我的巧克力 - Windows包管理器Chocolatey](https://mp.weixin.qq.com/s/o4I2MACzOXnpk4Zga3KDNQ)
++ [你所在的地区因为版权问题播放不了音乐怎么破？](https://mp.weixin.qq.com/s/br1hIhhsaVE4a43wyV1rFA)
+
 
 
 ## 每周一图
@@ -540,7 +546,8 @@
 + [儿童节快乐](https://mp.weixin.qq.com/s/3XeikTAnk7PEVp_NL_aYyA)
 + [百二秦关终属楚](https://mp.weixin.qq.com/s/mlo9ZRl8ujHcagZZKd5Orw)
 + [每周一图之粉丝来袭～](https://mp.weixin.qq.com/s/RDWp_sVMH-RDAe5AX8LUUw)
-
++ [好饿，连刚需都解决不了的医学院](https://mp.weixin.qq.com/s/cPnoarzzydHB2edXUEJdWw)
++ [野猪通缉画像](https://mp.weixin.qq.com/s/FjqNg6Pv5MlVNN_vrikCgg)
 
 
 
