@@ -39,8 +39,12 @@
 + [学术八卦](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#学术八卦)
 	- [抄袭系列](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E6%8A%84%E8%A2%AD%E7%B3%BB%E5%88%97)
 + [操作系统](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+	- [Arch Linux](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#arch-linux)
+	- [Mac](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#mac)
+	- [Windows](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#windows)
 + [公众号](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E5%85%AC%E4%BC%97%E5%8F%B7)
 + [C++](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#c)
++ [Y叔生活篇](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#y%E5%8F%94%E7%94%9F%E6%B4%BB%E7%AF%87)
 + [MISC](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#misc)
 
 
