@@ -1,4 +1,4 @@
-> 更新于2018-08-13
+> 更新于2018-09-11
 
 公众号biobabble后台回复「目录」二字可以获取本目录，[全文下载点这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)。
 
@@ -73,8 +73,10 @@
 + [SCIENCE文章用了DAVID被吐槽](http://mp.weixin.qq.com/s/9M3lprc3rL6XII3ffpDHAw)
 + [Comparison of clusterProfiler and GSEA-P](http://mp.weixin.qq.com/s/Q5aovZPfouw8_cIn2kWe1A)
 + [听说你有RNAseq数据却不知道怎么跑GSEA](http://mp.weixin.qq.com/s/aht5fQ10nH_07CYttKFH7Q)
++ [leading edge analysis](https://mp.weixin.qq.com/s/y_bCaIKQlEFH2G6-1jlSQw)
 + [单篇引用超过500了，来了解一下](https://mp.weixin.qq.com/s/UUf1hCAzNvQRII79vtI2Rg)
 + [use clusterProfiler as an universal enrichment analysis tool](https://mp.weixin.qq.com/s/2UqgAJIg75jG6LmRAhqWAw)
++ [功能注释后如何做富集分](https://mp.weixin.qq.com/s/mgbPMxY1sEZqV4Hoead82Q)
 
 
 ### GO
@@ -176,9 +178,10 @@
 + [漫画版的进化树你见过吗？](http://mp.weixin.qq.com/s/P7yUFLwW4OLGBrPw05iQ_A)
 + [取子集画图](http://mp.weixin.qq.com/s/JXpakSKqPPRHhcyQQVdoGA)
 + [Y叔不想养蛙，只想养你！](https://mp.weixin.qq.com/s/S5K9HwgCC2LtUJsnKBx0Yg)
++ [用图片注释进化树](https://mp.weixin.qq.com/s/BV-8HtiZC-XSHUVAwiS7Vw)
 + [交互式探索进化树](https://mp.weixin.qq.com/s/a0XHr8Vfr49tEBYZWoRBxA)
 + [杀花，ggtree引用已经过百](https://mp.weixin.qq.com/s/nR_m0d9m-v2P3b1wL2RFWg)
-
++ [ggnetworx：让ggtree支持phylogenetic networks](https://mp.weixin.qq.com/s/YytLpKKkTqqpcrJJLFOhjg)
 
 
 ### 直播
@@ -311,6 +314,8 @@
 + [root finding - 4种演算法求函数的根](https://mp.weixin.qq.com/s/qCOTh8ecxmDOwUj9Ea5n_Q)
 + [数值法求一重积分](https://mp.weixin.qq.com/s/Icg_zWCgVX3ZUk_-pP-ydw)
 + [使用蒙特-卡罗方法来估计Pi](https://mp.weixin.qq.com/s/HhaAtkne7jPt9m0uZ_IBMA)
++ [MC积分](https://mp.weixin.qq.com/s/EXtfXykGdZzx0qwRk6MC5Q)
++ [S3面向对象系统](https://mp.weixin.qq.com/s/6sjUa_sUpsGwixy8CKs8pQ)
 
 
 ### R包介绍
@@ -325,6 +330,8 @@
 + [Update R packages](http://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
 + [mathart：一个富有逼格的R包](https://mp.weixin.qq.com/s/tg2Re5VjBGwV7Xpt0Lb3Rw)
 + [用R玩一个小游戏吧！拖延症的老毛病又犯了！](https://mp.weixin.qq.com/s/X7hbjzJUIbn9Pbcz9YIoQw)
++ [你画的图有水果的味道，让我咬一口好吗！](https://mp.weixin.qq.com/s/HBtReDrFUUf4Y0qPgQhvgg)
+
 
 ## ggplot2
 
@@ -346,8 +353,7 @@
 + [怎样用HOMER算出的P-value画出CNS级别的泡泡图？](https://mp.weixin.qq.com/s/rn6HL8Yn89Ua1uM8SpwtZw)
 + [ggplot2 - 3.0.0版本的新功能](https://mp.weixin.qq.com/s/rj3JKkLM6wKWRG-BiTfq-w)
 + [ggplot label placement](https://mp.weixin.qq.com/s/6MMVsO22n9oKZNC7qC7g5A)
-
-
++ [用ggplot2画3D](https://mp.weixin.qq.com/s/W0-QoNY25XXQm6SYe3EpIA)
 
 ### ggfacet
 
@@ -379,7 +385,7 @@
 
 + [TALEN基因编辑](http://mp.weixin.qq.com/s/Kivz64jL_LgpwpkSe-VyWw)
 + [生物实验的基本原理](http://mp.weixin.qq.com/s/5jC9rT-Q0dPZ1cLlxNUa4w)
-+ [纯文本可视化FASTQ质量数据](http://mp.weixin.qq.com/s/lB1JlPwrwjw3DgJ6BGbRNg)
++ [纯文本可视化FASTQ质量数据](https://mp.weixin.qq.com/s/veaTWBStNYkT_atWBY_vAg)
 + [a simple gene finder](http://mp.weixin.qq.com/s/4T5PwijMh8ObN3kkBK5qBw)
 + [搭建本地blast](http://mp.weixin.qq.com/s/Pwp5XradVRx3iE5ueStEqg)
 + [blast一大坑：无法输出query sequence title](http://mp.weixin.qq.com/s/RyYbZs3tJNQQYYYWaeVsqw)
@@ -461,27 +467,41 @@
 ## 操作系统
 
 + [十年前截屏](http://mp.weixin.qq.com/s/ifCbAKYdABMid4yP4IOUgA)
-+ [开源的macOS和linux版微信](http://mp.weixin.qq.com/s/L556YNtVSKf84cEFdEZVBQ)
-+ [OSX版BioEdit](http://mp.weixin.qq.com/s/F0TxMk1CrYVNvxWqZgv-Aw)
-+ [你们想要的: Linux装windows的二逼](http://mp.weixin.qq.com/s/TR1zV8HLCV68vOg1tEBR7Q)
-+ [你们想要的：QQ跑在Linux上](http://mp.weixin.qq.com/s/4yWzHxjB9WL33ujagi5BAw) 
-+ [linux版迅雷](http://mp.weixin.qq.com/s/ZWCvLvNye8vdHPbQv2V9_A)
-+ [度娘才是最大的老司机](http://mp.weixin.qq.com/s/CRskcoakJCtHKWc9zMg9gQ)
 + [软件更新大法](http://mp.weixin.qq.com/s/UK1fj0PSRqVj_kcwdn-4qA)
 + [scau校园网认证](http://mp.weixin.qq.com/s/3PMEnZiro6lDydq5gq05BA)
++ [realvnc：各种设备互联](http://mp.weixin.qq.com/s/HDVyY5SwEysAS-12YpGQkw)
++ [合体中的操作系统](http://mp.weixin.qq.com/s/66krJ2tr6INR9h5GPi8tmw)
++ [你们想要的: Linux装windows的二逼](http://mp.weixin.qq.com/s/TR1zV8HLCV68vOg1tEBR7Q)
++ [use linux desktop again](http://mp.weixin.qq.com/s/XCsTaGZu1KhmpkFlvvUtYg)
++ [elementaryOS: 2018最美Linux](https://mp.weixin.qq.com/s/zmHFk4uvx_WcdIBZ2mulfA)
 + [ubuntu安装只有redhat版本的454分析软件](http://mp.weixin.qq.com/s/a8e_ay9W25jAdOkD2LtT3Q)
++ [linux版迅雷](http://mp.weixin.qq.com/s/ZWCvLvNye8vdHPbQv2V9_A)
++ [度娘才是最大的老司机](http://mp.weixin.qq.com/s/CRskcoakJCtHKWc9zMg9gQ)
++ [开源的macOS和linux版微信](http://mp.weixin.qq.com/s/L556YNtVSKf84cEFdEZVBQ)
++ [你们想要的：QQ跑在Linux上](http://mp.weixin.qq.com/s/4yWzHxjB9WL33ujagi5BAw) 
++ [飞天猫：长着蝙蝠翅膀的猫！](https://mp.weixin.qq.com/s/HoiMrcE0fib_a9EaIGocGQ)
++ [gotop：一个更有逼格的top](https://mp.weixin.qq.com/s/rmg4WZNv7veNxw6KVOwylg)
+
+### Arch Linux
+
++ [Arch之软件包降级](https://mp.weixin.qq.com/s/esZ6LWfWiF3XOmcpWtZWcA)
++ [arch之是时候换掉yaourt了](https://mp.weixin.qq.com/s/8SZo-00_vbWZI3nnbClF_A)
+
+### Mac
+
++ [OSX版BioEdit](http://mp.weixin.qq.com/s/F0TxMk1CrYVNvxWqZgv-Aw)
 + [安装黑苹果](http://mp.weixin.qq.com/s/7AdkrX3hZYdKNP4YIhgZLA)
 + [Powerbook G3上安装gentoo](http://mp.weixin.qq.com/s/MPJQ4thvjpJOkPeaPNdn3w)
 + [安装os9和netbsd双系统](http://mp.weixin.qq.com/s/szN8ENc_h4NjBcM5gqSYoQ)
 + [Edit partition table in NetBSD/macppc](http://mp.weixin.qq.com/s/lFSmbjxpFHVxJ-lNiuUByQ)
-+ [use linux desktop again](http://mp.weixin.qq.com/s/XCsTaGZu1KhmpkFlvvUtYg)
-+ [Xming-windows下远程linux桌面](http://mp.weixin.qq.com/s/T1lVAraI9iRYwl2ZGJbw3A)
-+ [realvnc：各种设备互联](http://mp.weixin.qq.com/s/HDVyY5SwEysAS-12YpGQkw)
-+ [Windows远程及本地运行Linux的GUI程序](https://mp.weixin.qq.com/s/1bJPkAypZu_gFuKTfd3xyA)
-+ [合体中的操作系统](http://mp.weixin.qq.com/s/66krJ2tr6INR9h5GPi8tmw)
-+ [elementaryOS: 2018最美Linux](https://mp.weixin.qq.com/s/zmHFk4uvx_WcdIBZ2mulfA)
-+ [你是我的巧克力 - Windows包管理器Chocolatey](https://mp.weixin.qq.com/s/o4I2MACzOXnpk4Zga3KDNQ)
 
+
+### Windows
+
++ [Xming-windows下远程linux桌面](http://mp.weixin.qq.com/s/T1lVAraI9iRYwl2ZGJbw3A)
++ [Windows远程及本地运行Linux的GUI程序](https://mp.weixin.qq.com/s/1bJPkAypZu_gFuKTfd3xyA)
++ [你是我的巧克力 - Windows包管理器Chocolatey](https://mp.weixin.qq.com/s/o4I2MACzOXnpk4Zga3KDNQ)
++ [Emacs中使用R，开箱即用版本](https://mp.weixin.qq.com/s/H6aDJ6e16EoPmdRKMixd3w)
 
 
 ## 公众号
@@ -510,6 +530,14 @@
 + [斐波那契数列](http://mp.weixin.qq.com/s/41i4MJrcYyOl4OeqKLWi8A)
 
 
+## Y叔生活篇
+
++ [匆匆那年，如一场不真实的梦。](https://mp.weixin.qq.com/s/nTslUm7qy1bIFgntLtkNBg)
++ [来香港读博其实是被逼的](https://mp.weixin.qq.com/s/LzwSAYT7yyYTMrNnck9KCg)
++ [博士养成记](http://mp.weixin.qq.com/s/81IQghBHUfqS1934yUAsCw)
++ [再见，HKU](https://mp.weixin.qq.com/s/celjE7Bv_B8ETE_MGvv0rw)
++ [你好南医大 & 教师节快乐！](https://mp.weixin.qq.com/s/WuzsvLKXvOPslXrQxMyo4w)
+
 
 ## MISC
 
@@ -517,9 +545,6 @@
 + [auto-complete in ESS](http://mp.weixin.qq.com/s/EvQVp283RZlT3Wz69kKRAw)
 + [中国人民的翻墙情结](http://mp.weixin.qq.com/s/d56oJ8CviQGieJpv3eb8wQ)
 + [港大福利：无限量google drive](https://mp.weixin.qq.com/s/7q7_OtG2E5eUUUP1dorfvw)
-+ [匆匆那年，如一场不真实的梦。](https://mp.weixin.qq.com/s/nTslUm7qy1bIFgntLtkNBg)
-+ [来香港读博其实是被逼的](https://mp.weixin.qq.com/s/LzwSAYT7yyYTMrNnck9KCg)
-+ [博士养成记](http://mp.weixin.qq.com/s/81IQghBHUfqS1934yUAsCw)
 + [IBW2011](http://mp.weixin.qq.com/s/eQGKlUY9ncdirAXrIwDY-g)
 + [博士版2048，不服来战！](https://mp.weixin.qq.com/s/Y5becN7t5LqMC3mcBbar_w)
 + [滚吧，骚年](http://mp.weixin.qq.com/s/j7AI-5gIwitiJgk1nePZhw)
@@ -550,10 +575,5 @@
 + [好饿，连刚需都解决不了的医学院](https://mp.weixin.qq.com/s/cPnoarzzydHB2edXUEJdWw)
 + [野猪通缉画像](https://mp.weixin.qq.com/s/FjqNg6Pv5MlVNN_vrikCgg)
 + [一图告诉你venn plot和upset plot的关系](https://mp.weixin.qq.com/s/PPtYmZdCbAzFdvTI1Tb6gQ)
-
-
-
-
-
 
 
