@@ -1,4 +1,4 @@
-> 更新于2018-09-11
+> 更新于2018-09-18
 
 公众号biobabble后台回复「目录」二字可以获取本目录，[全文下载点这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)。
 
@@ -310,6 +310,9 @@
 + [逼着老狗学新把戏](https://mp.weixin.qq.com/s/qoOJCP4U50qZ5XfgQCq2kQ)
 + [R-3.5.0发布，又该升级了](https://mp.weixin.qq.com/s/tCIXW6H9v-PbMoPubbqzZQ)
 + [Windows用户如何无痛升级R](https://mp.weixin.qq.com/s/6_L6mlWpEkESIwrToG5Iug)
++ [一个更好用的pheatmap](https://mp.weixin.qq.com/s/NaUQ5KhRRN8cx4v798w9Qg)
+
+
 
 ### Introduction to Scientific Programming and Simulation Using R
 
@@ -320,6 +323,7 @@
 + [使用蒙特-卡罗方法来估计Pi](https://mp.weixin.qq.com/s/HhaAtkne7jPt9m0uZ_IBMA)
 + [MC积分](https://mp.weixin.qq.com/s/EXtfXykGdZzx0qwRk6MC5Q)
 + [S3面向对象系统](https://mp.weixin.qq.com/s/6sjUa_sUpsGwixy8CKs8pQ)
++ [Single variable optimization](https://mp.weixin.qq.com/s/tcaDKk-ZOrEtdClAhcAY3Q)
 
 
 ### R包介绍
@@ -475,6 +479,7 @@
 + [scau校园网认证](http://mp.weixin.qq.com/s/3PMEnZiro6lDydq5gq05BA)
 + [realvnc：各种设备互联](http://mp.weixin.qq.com/s/HDVyY5SwEysAS-12YpGQkw)
 + [合体中的操作系统](http://mp.weixin.qq.com/s/66krJ2tr6INR9h5GPi8tmw)
++ [酗酒的Linux不是好企鹅](https://mp.weixin.qq.com/s/t_eRrU2VxBdMG1xoJ8vCCg)
 + [你们想要的: Linux装windows的二逼](http://mp.weixin.qq.com/s/TR1zV8HLCV68vOg1tEBR7Q)
 + [use linux desktop again](http://mp.weixin.qq.com/s/XCsTaGZu1KhmpkFlvvUtYg)
 + [elementaryOS: 2018最美Linux](https://mp.weixin.qq.com/s/zmHFk4uvx_WcdIBZ2mulfA)
@@ -485,6 +490,8 @@
 + [你们想要的：QQ跑在Linux上](http://mp.weixin.qq.com/s/4yWzHxjB9WL33ujagi5BAw) 
 + [飞天猫：长着蝙蝠翅膀的猫！](https://mp.weixin.qq.com/s/HoiMrcE0fib_a9EaIGocGQ)
 + [gotop：一个更有逼格的top](https://mp.weixin.qq.com/s/rmg4WZNv7veNxw6KVOwylg)
+
+
 
 ### Arch Linux
 
@@ -579,5 +586,4 @@
 + [好饿，连刚需都解决不了的医学院](https://mp.weixin.qq.com/s/cPnoarzzydHB2edXUEJdWw)
 + [野猪通缉画像](https://mp.weixin.qq.com/s/FjqNg6Pv5MlVNN_vrikCgg)
 + [一图告诉你venn plot和upset plot的关系](https://mp.weixin.qq.com/s/PPtYmZdCbAzFdvTI1Tb6gQ)
-
 
