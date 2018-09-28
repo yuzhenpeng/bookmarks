@@ -1,4 +1,4 @@
-> 更新于2018-09-18
+> 更新于2018-09-27
 
 公众号biobabble后台回复「目录」二字可以获取本目录，[全文下载点这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)。
 
@@ -46,7 +46,7 @@
 + [C++](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#c)
 + [Y叔生活篇](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#y%E5%8F%94%E7%94%9F%E6%B4%BB%E7%AF%87)
 + [MISC](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#misc)
-
++ [每周一图](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE)
 
 
 
@@ -186,6 +186,7 @@
 + [交互式探索进化树](https://mp.weixin.qq.com/s/a0XHr8Vfr49tEBYZWoRBxA)
 + [杀花，ggtree引用已经过百](https://mp.weixin.qq.com/s/nR_m0d9m-v2P3b1wL2RFWg)
 + [ggnetworx：让ggtree支持phylogenetic networks](https://mp.weixin.qq.com/s/YytLpKKkTqqpcrJJLFOhjg)
++ [ggtree买家秀](https://mp.weixin.qq.com/s/W9UI9doKKeq8YhbcA0N-_A)
 
 
 ### 直播
@@ -229,6 +230,9 @@
 
 + [using meshes for MeSH Enrichment Analysis](https://mp.weixin.qq.com/s/NzXxCZBYXuZm7eEC_QRJyQ)
 
+## ReactomePA
+
++ [ReactomePA引用过百](https://mp.weixin.qq.com/s/e4XwxNjvwoo-wAgPoNYKFw)
 
 ## scatterpie
 
@@ -311,7 +315,7 @@
 + [R-3.5.0发布，又该升级了](https://mp.weixin.qq.com/s/tCIXW6H9v-PbMoPubbqzZQ)
 + [Windows用户如何无痛升级R](https://mp.weixin.qq.com/s/6_L6mlWpEkESIwrToG5Iug)
 + [一个更好用的pheatmap](https://mp.weixin.qq.com/s/NaUQ5KhRRN8cx4v798w9Qg)
-
++ [不用biocLite安装Bioconductor包](https://mp.weixin.qq.com/s/xi2XPsHVsXsMijvbox90ew)
 
 
 ### Introduction to Scientific Programming and Simulation Using R
@@ -324,7 +328,7 @@
 + [MC积分](https://mp.weixin.qq.com/s/EXtfXykGdZzx0qwRk6MC5Q)
 + [S3面向对象系统](https://mp.weixin.qq.com/s/6sjUa_sUpsGwixy8CKs8pQ)
 + [Single variable optimization](https://mp.weixin.qq.com/s/tcaDKk-ZOrEtdClAhcAY3Q)
-
++ [《R语言科学编程及仿真》读书笔记](https://mp.weixin.qq.com/s/scU1tRqUZVun9Ls0Z4zEXA)
 
 ### R包介绍
 
@@ -491,8 +495,6 @@
 + [飞天猫：长着蝙蝠翅膀的猫！](https://mp.weixin.qq.com/s/HoiMrcE0fib_a9EaIGocGQ)
 + [gotop：一个更有逼格的top](https://mp.weixin.qq.com/s/rmg4WZNv7veNxw6KVOwylg)
 
-
-
 ### Arch Linux
 
 + [Arch之软件包降级](https://mp.weixin.qq.com/s/esZ6LWfWiF3XOmcpWtZWcA)
@@ -530,6 +532,8 @@
 + [你还能这样关注一个公众号](http://mp.weixin.qq.com/s/Ez_GfQciYnxJyP43u8swqw)
 + [听说你找不到公众号的入口了！](https://mp.weixin.qq.com/s/u8-BP7SL--iQKIh149Y3LA)
 + [biobabble文章索引](https://mp.weixin.qq.com/s/NMBRMTO-GaJXuF2k7mm1KA)
++ [谁是确认过眼神的人？](https://mp.weixin.qq.com/s/a1h3cIvNknqmQ2CRAc-iPA)
+
 
 ## C++
 
@@ -553,6 +557,7 @@
 ## MISC
 
 + [how to bug author](http://mp.weixin.qq.com/s/fvCsdNVl87PtKuGXmcikDw)
++ [为什么你的提问被无情地无视了！](https://mp.weixin.qq.com/s/8ZwlWmJqGJ3Sl0v-4MduQA)
 + [auto-complete in ESS](http://mp.weixin.qq.com/s/EvQVp283RZlT3Wz69kKRAw)
 + [中国人民的翻墙情结](http://mp.weixin.qq.com/s/d56oJ8CviQGieJpv3eb8wQ)
 + [港大福利：无限量google drive](https://mp.weixin.qq.com/s/7q7_OtG2E5eUUUP1dorfvw)
@@ -568,7 +573,7 @@
 + [老板，我需要一部iPhone X来做科研！](https://mp.weixin.qq.com/s/4I08BkntXkGArOy4gscchg)
 + [一千个伤心的理由](http://mp.weixin.qq.com/s/UblSRGUOhNYTEMPc_mSdsg)
 + [轮到相思没处辞，眉间露一丝](http://mp.weixin.qq.com/s/lSkR9bCaAGRSy7vOfZq9vg)
-+ [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/jqjRf9cwKAuOLA28Iw5fMA)
++ [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/T_xL4wvKDHiwiv3123Tukg)
 + [不为无益之事 何以遣有涯之生](https://mp.weixin.qq.com/s/lmGOvgdc-aFUBCjOGnbW1Q)
 + [你所在的地区因为版权问题播放不了音乐怎么破？](https://mp.weixin.qq.com/s/br1hIhhsaVE4a43wyV1rFA)
 
@@ -586,4 +591,10 @@
 + [好饿，连刚需都解决不了的医学院](https://mp.weixin.qq.com/s/cPnoarzzydHB2edXUEJdWw)
 + [野猪通缉画像](https://mp.weixin.qq.com/s/FjqNg6Pv5MlVNN_vrikCgg)
 + [一图告诉你venn plot和upset plot的关系](https://mp.weixin.qq.com/s/PPtYmZdCbAzFdvTI1Tb6gQ)
++ [来自biobabble的中秋问候](https://mp.weixin.qq.com/s/z_ijHtDpjLbAyCzHn8bIkg)
+
+
+
+
+
 
