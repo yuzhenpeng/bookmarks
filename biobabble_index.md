@@ -1,4 +1,4 @@
-> 更新于2018-09-27
+> 更新于2018-10-11
 
 公众号biobabble后台回复「目录」二字可以获取本目录，[全文下载点这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)。
 
@@ -187,6 +187,7 @@
 + [杀花，ggtree引用已经过百](https://mp.weixin.qq.com/s/nR_m0d9m-v2P3b1wL2RFWg)
 + [ggnetworx：让ggtree支持phylogenetic networks](https://mp.weixin.qq.com/s/YytLpKKkTqqpcrJJLFOhjg)
 + [ggtree买家秀](https://mp.weixin.qq.com/s/W9UI9doKKeq8YhbcA0N-_A)
++ [多个热图，多种配色，还要分开画图例？](https://mp.weixin.qq.com/s/ZZLeTeWX3TvXuHe5sICgRg)
 
 
 ### 直播
@@ -272,6 +273,7 @@
 + [130岁了，祝你生快](https://mp.weixin.qq.com/s/Iqcqo5YTy1qmXdsuIrlrYQ)
 + [画个小圈圈](https://mp.weixin.qq.com/s/8kqTVSDjuHpivGaim6ukNg)
 + [ggplot扩展学习笔记--逐行解析Y叔的"geom_ord_ellipse.R"](https://mp.weixin.qq.com/s/_XH6u2hPv_JJi_MbGbeoHA)
++ [轻松生成专属于你的二维码](https://mp.weixin.qq.com/s/wPE08diNRXI19dZfU-_MhQ)
 
 
 ----
@@ -343,6 +345,7 @@
 + [mathart：一个富有逼格的R包](https://mp.weixin.qq.com/s/tg2Re5VjBGwV7Xpt0Lb3Rw)
 + [用R玩一个小游戏吧！拖延症的老毛病又犯了！](https://mp.weixin.qq.com/s/X7hbjzJUIbn9Pbcz9YIoQw)
 + [你画的图有水果的味道，让我咬一口好吗！](https://mp.weixin.qq.com/s/HBtReDrFUUf4Y0qPgQhvgg)
++ [learn R wisdom with fortunes](https://mp.weixin.qq.com/s/PNvsou6CfQlM0hQ8LuT0OQ)
 
 
 ## ggplot2
@@ -421,6 +424,8 @@
 + [s04 - Computing GC Content](http://mp.weixin.qq.com/s/X9K7fqRqlg6ty4wAE7NwQQ)
 + [s05 - Finding a Motif in DNA](https://mp.weixin.qq.com/s/vaF2WznQAImyOxTlY04UJA)
 + [s06 - Consensus and Profile](https://mp.weixin.qq.com/s/_cEZzxiZY5GIRa0d_MhnYA)
++ [s07 - Finding a Shared Motif](https://mp.weixin.qq.com/s/2CR9L8ALjvncejv-xSaxWA)
+
 
 ## 算法
 
@@ -494,6 +499,8 @@
 + [你们想要的：QQ跑在Linux上](http://mp.weixin.qq.com/s/4yWzHxjB9WL33ujagi5BAw) 
 + [飞天猫：长着蝙蝠翅膀的猫！](https://mp.weixin.qq.com/s/HoiMrcE0fib_a9EaIGocGQ)
 + [gotop：一个更有逼格的top](https://mp.weixin.qq.com/s/rmg4WZNv7veNxw6KVOwylg)
++ [一次解决科学上网的所有代理问题](https://mp.weixin.qq.com/s/QkOImxv2mRMhtIgryzursA)
+
 
 ### Arch Linux
 
@@ -576,6 +583,7 @@
 + [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/T_xL4wvKDHiwiv3123Tukg)
 + [不为无益之事 何以遣有涯之生](https://mp.weixin.qq.com/s/lmGOvgdc-aFUBCjOGnbW1Q)
 + [你所在的地区因为版权问题播放不了音乐怎么破？](https://mp.weixin.qq.com/s/br1hIhhsaVE4a43wyV1rFA)
++ [牛逼的博士论文，标题只有两个字符！](https://mp.weixin.qq.com/s/YwZ9RnBFhfHE6_V3c6WIfQ)
 
 
 
@@ -592,9 +600,3 @@
 + [野猪通缉画像](https://mp.weixin.qq.com/s/FjqNg6Pv5MlVNN_vrikCgg)
 + [一图告诉你venn plot和upset plot的关系](https://mp.weixin.qq.com/s/PPtYmZdCbAzFdvTI1Tb6gQ)
 + [来自biobabble的中秋问候](https://mp.weixin.qq.com/s/z_ijHtDpjLbAyCzHn8bIkg)
-
-
-
-
-
-
