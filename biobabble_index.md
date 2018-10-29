@@ -1,4 +1,4 @@
-> 更新于2018-10-11
+> 更新于2018-10-29
 
 公众号biobabble后台回复「目录」二字可以获取本目录，[全文下载点这里](https://mp.weixin.qq.com/s/4LNcp7G0F6DRy5u58ZExoQ)。
 
@@ -121,7 +121,6 @@
 + [emojifont新功能（有视频哦）](http://mp.weixin.qq.com/s/ARxyTRpMs6OeCqOQPp9OwA)
 + [phylomoji：用emoji画进化树](http://mp.weixin.qq.com/s/JxcfuJVT1ySFPphYwSmYSQ)
 + [你所没见过的苹果](http://mp.weixin.qq.com/s/vuFSTrDzxZJJ0A0s-D9eEw)
-+ [火鸡全家桶](https://mp.weixin.qq.com/s/Crd5VsNIsmIU0mtyOSgOgg)
 
 ## enrichplot
 
@@ -346,6 +345,7 @@
 + [用R玩一个小游戏吧！拖延症的老毛病又犯了！](https://mp.weixin.qq.com/s/X7hbjzJUIbn9Pbcz9YIoQw)
 + [你画的图有水果的味道，让我咬一口好吗！](https://mp.weixin.qq.com/s/HBtReDrFUUf4Y0qPgQhvgg)
 + [learn R wisdom with fortunes](https://mp.weixin.qq.com/s/PNvsou6CfQlM0hQ8LuT0OQ)
++ [画图？倒不如手绘吧！](https://mp.weixin.qq.com/s/xPIDevw6R_XDSaxi6W5gtA)
 
 
 ## ggplot2
@@ -491,7 +491,7 @@
 + [酗酒的Linux不是好企鹅](https://mp.weixin.qq.com/s/t_eRrU2VxBdMG1xoJ8vCCg)
 + [你们想要的: Linux装windows的二逼](http://mp.weixin.qq.com/s/TR1zV8HLCV68vOg1tEBR7Q)
 + [use linux desktop again](http://mp.weixin.qq.com/s/XCsTaGZu1KhmpkFlvvUtYg)
-+ [elementaryOS: 2018最美Linux](https://mp.weixin.qq.com/s/zmHFk4uvx_WcdIBZ2mulfA)
++ [elementaryOS: 2018最美Linux](https://mp.weixin.qq.com/s/8Tas_dp5u9AyoXsoudFrVg)
 + [ubuntu安装只有redhat版本的454分析软件](http://mp.weixin.qq.com/s/a8e_ay9W25jAdOkD2LtT3Q)
 + [linux版迅雷](http://mp.weixin.qq.com/s/ZWCvLvNye8vdHPbQv2V9_A)
 + [度娘才是最大的老司机](http://mp.weixin.qq.com/s/CRskcoakJCtHKWc9zMg9gQ)
@@ -506,6 +506,8 @@
 
 + [Arch之软件包降级](https://mp.weixin.qq.com/s/esZ6LWfWiF3XOmcpWtZWcA)
 + [arch之是时候换掉yaourt了](https://mp.weixin.qq.com/s/8SZo-00_vbWZI3nnbClF_A)
++ [arch之打第一个AUR包](https://mp.weixin.qq.com/s/amyClhLs2CoQpaA5d0JfGw)
+
 
 ### Mac
 
@@ -524,6 +526,56 @@
 + [Emacs中使用R，开箱即用版本](https://mp.weixin.qq.com/s/H6aDJ6e16EoPmdRKMixd3w)
 
 
+## C++
+
++ [Using Linked List to solve Josephus problem](http://mp.weixin.qq.com/s/x-uh7WPjYDFNsaNTGOOlqw)
++ [Lucky Tickets](http://mp.weixin.qq.com/s/gvKQop14alvidIIzWHqJag)
++ [中值法求函数值](http://mp.weixin.qq.com/s/ggiC3gcW6VVQOtyWhnZhiA)
++ [金银岛的航线](https://mp.weixin.qq.com/s/ocWPSJZ_2UXysygMMvv_zA)
++ [利用多边形估计Pi值](https://mp.weixin.qq.com/s/lIs3cEtZkG1D__dm2lKnbg)
++ [斐波那契数列](http://mp.weixin.qq.com/s/41i4MJrcYyOl4OeqKLWi8A)
++ [Neumann的随机数生成器](https://mp.weixin.qq.com/s/4Co80GcDtHyWCEcjpdbSrw)
+
+
+## Y叔生活篇
+
++ [匆匆那年，如一场不真实的梦。](https://mp.weixin.qq.com/s/nTslUm7qy1bIFgntLtkNBg)
++ [来香港读博其实是被逼的](https://mp.weixin.qq.com/s/LzwSAYT7yyYTMrNnck9KCg)
++ [假期如何假装我们还在工作？](http://mp.weixin.qq.com/s/zt2Xkj_VBRPkzwl3dzfimw)
++ [博士养成记](http://mp.weixin.qq.com/s/81IQghBHUfqS1934yUAsCw)
++ [再见，HKU](https://mp.weixin.qq.com/s/celjE7Bv_B8ETE_MGvv0rw)
++ [你好南医大 & 教师节快乐！](https://mp.weixin.qq.com/s/WuzsvLKXvOPslXrQxMyo4w)
+
+## 硕博士的那点事
+
++ [博士版2048，不服来战！](https://mp.weixin.qq.com/s/Y5becN7t5LqMC3mcBbar_w)
++ [滚吧，骚年](http://mp.weixin.qq.com/s/j7AI-5gIwitiJgk1nePZhw)
++ [扫盲贴：博士学位知多少](https://mp.weixin.qq.com/s/-5-UC2QgtadwWrd4wRK_lw)
++ [给硕博考生的一封信](https://mp.weixin.qq.com/s/5JRS-zV3QIgYUcluWiRuDg)
++ [牛逼的博士论文，标题只有两个字符！](https://mp.weixin.qq.com/s/YwZ9RnBFhfHE6_V3c6WIfQ)
+
+## MISC
+
++ [how to bug author](http://mp.weixin.qq.com/s/fvCsdNVl87PtKuGXmcikDw)
++ [为什么你的提问被无情地无视了！](https://mp.weixin.qq.com/s/8ZwlWmJqGJ3Sl0v-4MduQA)
++ [auto-complete in ESS](http://mp.weixin.qq.com/s/EvQVp283RZlT3Wz69kKRAw)
++ [中国人民的翻墙情结](http://mp.weixin.qq.com/s/d56oJ8CviQGieJpv3eb8wQ)
++ [港大福利：无限量google drive](https://mp.weixin.qq.com/s/7q7_OtG2E5eUUUP1dorfvw)
++ [IBW2011](http://mp.weixin.qq.com/s/eQGKlUY9ncdirAXrIwDY-g)
++ [自动玩微信小游戏跳一跳](http://mp.weixin.qq.com/s/xSG59fWC201Kx5Bx9i3KmQ)
++ [3D版邪恶的曲线](http://mp.weixin.qq.com/s/YN4GYWZkKA7eIgQcCdgqtQ)
++ [8天假期应该这样度过！](http://mp.weixin.qq.com/s/s-itSHOzq_PF2ywgsR2GAw)
++ [诺贝尔奖游戏](http://mp.weixin.qq.com/s/Gw5REFxJ2ZthBtScm15Jcw)
++ [请用事实怼我 -,-](http://mp.weixin.qq.com/s/M_0kIsE7A-vxMEusBtzJow)
++ [老板，我需要一部iPhone X来做科研！](https://mp.weixin.qq.com/s/4I08BkntXkGArOy4gscchg)
++ [一千个伤心的理由](http://mp.weixin.qq.com/s/UblSRGUOhNYTEMPc_mSdsg)
++ [轮到相思没处辞，眉间露一丝](http://mp.weixin.qq.com/s/lSkR9bCaAGRSy7vOfZq9vg)
++ [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/T_xL4wvKDHiwiv3123Tukg)
++ [不为无益之事 何以遣有涯之生](https://mp.weixin.qq.com/s/lmGOvgdc-aFUBCjOGnbW1Q)
++ [你所在的地区因为版权问题播放不了音乐怎么破？](https://mp.weixin.qq.com/s/br1hIhhsaVE4a43wyV1rFA)
++ [一图告诉你venn plot和upset plot的关系](https://mp.weixin.qq.com/s/PPtYmZdCbAzFdvTI1Tb6gQ)
+
+
 ## 公众号
 
 + [为什么要开这个公众号](http://mp.weixin.qq.com/s/f-c5Q63SY166ZGzYCsqthA)
@@ -540,63 +592,24 @@
 + [听说你找不到公众号的入口了！](https://mp.weixin.qq.com/s/u8-BP7SL--iQKIh149Y3LA)
 + [biobabble文章索引](https://mp.weixin.qq.com/s/NMBRMTO-GaJXuF2k7mm1KA)
 + [谁是确认过眼神的人？](https://mp.weixin.qq.com/s/a1h3cIvNknqmQ2CRAc-iPA)
++ [每周一图之粉丝来袭～](https://mp.weixin.qq.com/s/RDWp_sVMH-RDAe5AX8LUUw)
 
 
-## C++
-
-+ [Using Linked List to solve Josephus problem](http://mp.weixin.qq.com/s/x-uh7WPjYDFNsaNTGOOlqw)
-+ [Lucky Tickets](http://mp.weixin.qq.com/s/gvKQop14alvidIIzWHqJag)
-+ [中值法求函数值](http://mp.weixin.qq.com/s/ggiC3gcW6VVQOtyWhnZhiA)
-+ [金银岛的航线](https://mp.weixin.qq.com/s/ocWPSJZ_2UXysygMMvv_zA)
-+ [利用多边形估计Pi值](https://mp.weixin.qq.com/s/lIs3cEtZkG1D__dm2lKnbg)
-+ [斐波那契数列](http://mp.weixin.qq.com/s/41i4MJrcYyOl4OeqKLWi8A)
-
-
-## Y叔生活篇
-
-+ [匆匆那年，如一场不真实的梦。](https://mp.weixin.qq.com/s/nTslUm7qy1bIFgntLtkNBg)
-+ [来香港读博其实是被逼的](https://mp.weixin.qq.com/s/LzwSAYT7yyYTMrNnck9KCg)
-+ [博士养成记](http://mp.weixin.qq.com/s/81IQghBHUfqS1934yUAsCw)
-+ [再见，HKU](https://mp.weixin.qq.com/s/celjE7Bv_B8ETE_MGvv0rw)
-+ [你好南医大 & 教师节快乐！](https://mp.weixin.qq.com/s/WuzsvLKXvOPslXrQxMyo4w)
-
-
-## MISC
-
-+ [how to bug author](http://mp.weixin.qq.com/s/fvCsdNVl87PtKuGXmcikDw)
-+ [为什么你的提问被无情地无视了！](https://mp.weixin.qq.com/s/8ZwlWmJqGJ3Sl0v-4MduQA)
-+ [auto-complete in ESS](http://mp.weixin.qq.com/s/EvQVp283RZlT3Wz69kKRAw)
-+ [中国人民的翻墙情结](http://mp.weixin.qq.com/s/d56oJ8CviQGieJpv3eb8wQ)
-+ [港大福利：无限量google drive](https://mp.weixin.qq.com/s/7q7_OtG2E5eUUUP1dorfvw)
-+ [IBW2011](http://mp.weixin.qq.com/s/eQGKlUY9ncdirAXrIwDY-g)
-+ [博士版2048，不服来战！](https://mp.weixin.qq.com/s/Y5becN7t5LqMC3mcBbar_w)
-+ [滚吧，骚年](http://mp.weixin.qq.com/s/j7AI-5gIwitiJgk1nePZhw)
-+ [自动玩微信小游戏跳一跳](http://mp.weixin.qq.com/s/xSG59fWC201Kx5Bx9i3KmQ)
-+ [3D版邪恶的曲线](http://mp.weixin.qq.com/s/YN4GYWZkKA7eIgQcCdgqtQ)
-+ [8天假期应该这样度过！](http://mp.weixin.qq.com/s/s-itSHOzq_PF2ywgsR2GAw)
-+ [假期如何假装我们还在工作？](http://mp.weixin.qq.com/s/zt2Xkj_VBRPkzwl3dzfimw)
-+ [诺贝尔奖游戏](http://mp.weixin.qq.com/s/Gw5REFxJ2ZthBtScm15Jcw)
-+ [请用事实怼我 -,-](http://mp.weixin.qq.com/s/M_0kIsE7A-vxMEusBtzJow)
-+ [老板，我需要一部iPhone X来做科研！](https://mp.weixin.qq.com/s/4I08BkntXkGArOy4gscchg)
-+ [一千个伤心的理由](http://mp.weixin.qq.com/s/UblSRGUOhNYTEMPc_mSdsg)
-+ [轮到相思没处辞，眉间露一丝](http://mp.weixin.qq.com/s/lSkR9bCaAGRSy7vOfZq9vg)
-+ [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/T_xL4wvKDHiwiv3123Tukg)
-+ [不为无益之事 何以遣有涯之生](https://mp.weixin.qq.com/s/lmGOvgdc-aFUBCjOGnbW1Q)
-+ [你所在的地区因为版权问题播放不了音乐怎么破？](https://mp.weixin.qq.com/s/br1hIhhsaVE4a43wyV1rFA)
-+ [牛逼的博士论文，标题只有两个字符！](https://mp.weixin.qq.com/s/YwZ9RnBFhfHE6_V3c6WIfQ)
-
-
-
-## 每周一图
+### biobabble每周一图
 
 + [每周一图：请你吃碗面吧！](https://mp.weixin.qq.com/s/_iWMpaWXLB5tzGwtbHY0QQ)
-+ [劳动节快乐！](https://mp.weixin.qq.com/s/vRwypLzzPhZDCPxiqYx61g)
 + [hello Sue](https://mp.weixin.qq.com/s/L08K9JGxLhvMOql43I6LGg)
 + [我想学习](https://mp.weixin.qq.com/s/yJ1QLnsVqLrOY4GTsXEnrA)
 + [儿童节快乐](https://mp.weixin.qq.com/s/3XeikTAnk7PEVp_NL_aYyA)
 + [百二秦关终属楚](https://mp.weixin.qq.com/s/mlo9ZRl8ujHcagZZKd5Orw)
-+ [每周一图之粉丝来袭～](https://mp.weixin.qq.com/s/RDWp_sVMH-RDAe5AX8LUUw)
 + [好饿，连刚需都解决不了的医学院](https://mp.weixin.qq.com/s/cPnoarzzydHB2edXUEJdWw)
 + [野猪通缉画像](https://mp.weixin.qq.com/s/FjqNg6Pv5MlVNN_vrikCgg)
-+ [一图告诉你venn plot和upset plot的关系](https://mp.weixin.qq.com/s/PPtYmZdCbAzFdvTI1Tb6gQ)
+
+
+### biobabble节日问候
+
++ [劳动节快乐！](https://mp.weixin.qq.com/s/vRwypLzzPhZDCPxiqYx61g)
 + [来自biobabble的中秋问候](https://mp.weixin.qq.com/s/z_ijHtDpjLbAyCzHn8bIkg)
++ [火鸡全家桶](https://mp.weixin.qq.com/s/Crd5VsNIsmIU0mtyOSgOgg)
+
+
