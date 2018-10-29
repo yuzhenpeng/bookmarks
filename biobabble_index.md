@@ -42,13 +42,13 @@
 	- [Arch Linux](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#arch-linux)
 	- [Mac](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#mac)
 	- [Windows](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#windows)
-+ [公众号](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E5%85%AC%E4%BC%97%E5%8F%B7)
 + [C++](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#c)
 + [Y叔生活篇](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#y%E5%8F%94%E7%94%9F%E6%B4%BB%E7%AF%87)
++ [硕博士的那点事](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E7%A1%95%E5%8D%9A%E5%A3%AB%E7%9A%84%E9%82%A3%E7%82%B9%E4%BA%8B)
 + [MISC](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#misc)
-+ [每周一图](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE)
-
-
++ [公众号](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#%E5%85%AC%E4%BC%97%E5%8F%B7)
+	- [biobabble每周一图](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#biobabble%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE)
+	- [biobabble节日问候](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md#biobabble%E8%8A%82%E6%97%A5%E9%97%AE%E5%80%99)
 
 
 ## ChIPseeker
@@ -455,7 +455,6 @@
 + [关于scihub，一文就够了](https://mp.weixin.qq.com/s/6qmI0MI9vlwvxoXJuVl0sQ)
 + [一图告诉你sci-hub有多美好！](http://mp.weixin.qq.com/s/1Y0peNiRjh8WmGO1BJxvOQ)
 + [Sci-Hub可用域名实时追踪](https://mp.weixin.qq.com/s/puPvCOQcOf7aG5ghY82XrQ)
-+ [Y学术-谷歌学术镜像检索并一键下载文献](https://mp.weixin.qq.com/s/vbI6sKR8yOr956IYm2U90w)
 + [Kopernio: 快速一键下文献](https://mp.weixin.qq.com/s/IbfI3C8--soC2H9HzyZgAA)
 
 
